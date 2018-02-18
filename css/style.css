@@ -1,0 +1,96 @@
+@import url(https://fonts.googleapis.com/css?family=Merriweather:300,300italic,400,400italic,700,700italic);
+@import url(https://fonts.googleapis.com/css?family=Montserrat);
+
+body { padding-top: 20px; padding-bottom: 40px; font-family: 'Merriweather', Georgia, Times; font-size: 16px; ***REMOVED***
+
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 { font-family: 'Merriweather', Georgia, Times; font-weight: 700;***REMOVED***
+
+blockquote p { font-size: 16px; line-height: 1.6em; ***REMOVED***
+
+/* Masthead */
+.header, .footer, .header h3 { font-family: 'Montserrat', Helvetica, sans-serif; text-transform: uppercase; font-weight: normal; ***REMOVED***
+
+/* Navigation */
+h3.text-muted a {text-decoration: none; color: #999999; ***REMOVED***
+h3.text-muted a:hover { text-decoration: none; color: #0088cc; ***REMOVED***
+
+img.avatar { margin-bottom: 30px; ***REMOVED***
+		
+/* Custom container */
+.container > hr { margin: 30px 0; ***REMOVED***
+.container > hr.footer {margin-bottom: 15px; ***REMOVED***
+
+/* E-Mail */
+.obfuscate { unicode-bidi: bidi-override; direction: rtl; ***REMOVED***
+
+/* Jumbotron */     
+.jumbotron { margin: 80px 0; ***REMOVED***
+.jumbotron h1 { font-size: 72px; line-height: 1; ***REMOVED***
+.jumbotron .btn { font-size: 21px; padding: 14px 24px; ***REMOVED***
+.marketing p { line-height: 25px; ***REMOVED***
+.marketing p.lead { line-height: 30px; ***REMOVED***
+
+p.foot { line-height: 20px; font-family: Merriweather, Georgia, Times; text-transform: none;***REMOVED***
+/* Notes */
+.notelist { width: 600px; margin: 0 auto; ***REMOVED***
+ul.listnotes { margin: 0 auto; ***REMOVED***
+ul.listnotes li {line-height: 30px; ***REMOVED*** 
+
+/* Note */
+.note, .contact, .about, .error, .swatches { width: 85%; margin: 0 auto; line-height: 26px; ***REMOVED***
+.note h2.date, .swatch-log h2.date { font-size: 24.5px; font-weight: 300; font-style: italic; ***REMOVED***
+
+/* Swatches */
+.swatch-log h2.date { margin-bottom: 30px; ***REMOVED***
+.swatch-log { margin: 30px auto 70px; height: 140px; ***REMOVED***
+ul.swatch { list-style: none; margin: 0 auto; padding: 0; height: 50px; ***REMOVED***
+ul.swatch li { text-transform: uppercase; display: inline; float: left; height: 80px; width: 75px; text-indent: -9999px; font-size: 14px; text-align: center; font-family: 'Montserrat', Helvetica, sans-serif; background-image: url(/img/glass.png); background-repeat: repeat-x; background-position: 0 50%;***REMOVED***
+ul.swatch li:hover { height: 75px; width: 75px; vertical-align: middle; text-indent: 0; ***REMOVED***
+/* 
+ul.swatch li:last-child { webkit-border-top-right-radius: 9px; -webkit-border-bottom-right-radius: 9px; -moz-border-radius-topright: 9px; -moz-border-radius-bottomright: 9px; border-top-right-radius: 9px; border-bottom-right-radius: 9px; ***REMOVED***
+ul.swatch li:***REMOVED***rst-child { webkit-border-top-left-radius: 9px; -webkit-border-bottom-left-radius: 9px; -moz-border-radius-topleft: 9px; -moz-border-radius-bottomleft: 9px; border-top-left-radius: 9px; border-bottom-left-radius: 9px; ***REMOVED***
+*/
+.swatch-log p { font-size: 14px; clear: left; margin-top: 10px; font-family: 'Montserrat', Helvetica, sans-serif; text-transform: uppercase; ***REMOVED***
+.clear { clear: both; height: 20px; ***REMOVED***
+
+/* CV */
+.cv {line-height: 23px; width: 90%; margin: 0 auto;***REMOVED***
+.cv li { line-height: 23px; ***REMOVED***
+.cv h2 { font-size: 26.5px; ***REMOVED***
+.cv h1 { font-size: 32.5px; ***REMOVED***
+
+.notes, .contact, .about, .cv, .error, .swatches { margin-bottom: 30px; ***REMOVED***
+
+/* Contact */
+iframe {font-family: 'Merriweather', Georgia, Times; font-size: 16px;***REMOVED***
+
+/* About */
+.about ul.list-unstyled li { line-height: 30px; text-indent: -30px; margin-left: 30px;***REMOVED***
+
+/* Guides */
+.guide { width: 90%; margin: 0 auto 60px auto; line-height: 26px;***REMOVED***
+.guide .title { padding: 100px 30px 0px; width: 100%; height: 60%; margin-bottom: 40px; background: #d5d5d5; color: #428bca; ***REMOVED***
+.guide .title h1 { font-size: 46px; color: #181818; ***REMOVED***
+.guide p { margin: 0 0 1em;  ***REMOVED***
+.guide img { border: solid 1px #d5d5d5; border-radius: 4px; margin: 40px auto; display: block; ***REMOVED***
+.guide .notes { font-size: 12px; ***REMOVED***
+.guide .notes h2 { font-size: 14px; ***REMOVED***
+
+/* Code */
+pre.prettyprint { padding: 10px !important; margin: 40px; font-size: 12px;***REMOVED***
+
+.step { border-radius: 50%; 
+	-moz-border-radius: 50%; 
+	-webkit-border-radius: 50%; 
+	width: 35px; 
+	height: 35px; 
+	background: #4679BD; 
+	color: #FFF; 
+	float: left;
+	text-align: center;
+	font-size: 24px;
+	padding-top: 5.5px;
+	margin: 5px 15px 0px 0px;
+	font-family: 'Montserrat', Helvetica, sans-serif; ***REMOVED***
+
+
