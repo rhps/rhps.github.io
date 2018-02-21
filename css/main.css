@@ -70,6 +70,19 @@ ul.posts li {
     padding-bottom:.2em;
 ***REMOVED***
 
+.post-meta-detailed {
+  border-bottom:2px solid #EDEDED;
+  /*border-top:1px solid #EDEDED;*/
+  font-size:12px;
+  margin:10px 0 30px;
+  overflow:hidden;
+  padding:1rem 0;
+  position:relative;
+  color: #7a7a7a;
+  text-align: center;
+  display: block;
+***REMOVED***
+
 .post{
     a:hover;
 ***REMOVED***
@@ -86,19 +99,10 @@ ul.posts li {
 
 .post-title {
     text-decoration: none;
-    color: #999;
+    color: #428BCA;
+    text-align: center;
 ***REMOVED***
 
-
-.post-meta-detailed {
-  border-bottom:1px solid #EDEDED;
-  border-top:1px solid #EDEDED;
-  font-size:18px;
-  margin:50px 0 20px;
-  overflow:hidden;
-  padding:1rem 0;
-  position:relative;
-***REMOVED***
 
 byline {
     display: block;
