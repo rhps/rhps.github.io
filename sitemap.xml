@@ -50,15 +50,7 @@
     
     
     <url>
-        <loc>http://rhps.github.io/blog/index-3.html</loc>
-    </url>
-    
-    
-    
-    
-    
-    <url>
-        <loc>http://rhps.github.io/about/</loc>
+        <loc>http://rhps.github.io/projects/</loc>
     </url>
     
     
@@ -82,7 +74,7 @@
     
     
     <url>
-        <loc>http://rhps.github.io/projects/</loc>
+        <loc>http://rhps.github.io/about/</loc>
     </url>
     
     
@@ -107,6 +99,14 @@
     
     <url>
         <loc>http://rhps.github.io/index2.html</loc>
+    </url>
+    
+    
+    
+    
+    
+    <url>
+        <loc>http://rhps.github.io/blog/index3.html</loc>
     </url>
     
     
