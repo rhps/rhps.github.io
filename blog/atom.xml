@@ -46,7 +46,7 @@
 	<title>Rio Harapans Ps Blog</title>
 	<link href="http://rhps.github.io/blog/atom.xml" rel="self"/>
 	<link href="http://rhps.github.io/blog"/>
-	<updated>2018-02-20T13:20:35+07:00</updated>
+	<updated>2018-03-01T17:09:44+07:00</updated>
 	<id>http://rhps.github.io/blog</id>
 	<author>
 		<name>Rio Harapan Ps.</name>
@@ -386,6 +386,15 @@ https://blog.omgmog.net/post/jekyll-for-dummies/&lt;/p&gt;
         <a class="link" href="http://www.github.com/rhps">All Sources Template</a> by <a class="link" href="http://www.github.com/rhps">harapan.me</a>
     </p>
 </footer>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-36243988-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);***REMOVED***
+  gtag('js', new Date());
+
+  gtag('con***REMOVED***g', 'UA-36243988-3');
+</script>
 
 			</div><!-- /.container -->
 			<!--<footer>
