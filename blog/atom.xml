@@ -46,20 +46,29 @@
 	<title>Rio Harapans Ps Blog</title>
 	<link href="http://rhps.github.io/blog/atom.xml" rel="self"/>
 	<link href="http://rhps.github.io/blog"/>
-<<<<<<< HEAD
-	<updated>2018-03-03T01:05:32+07:00</updated>
-=======
-<<<<<<< HEAD
-	<updated>2018-03-01T17:09:44+07:00</updated>
-=======
-	<updated>2018-02-21T22:09:19+07:00</updated>
->>>>>>> 752c552c6e7f1947fe2a51caaff100657aed74d8
->>>>>>> a817660e83135a38679a603c222ec47028db546f
+	<updated>2018-05-04T21:25:39+07:00</updated>
 	<id>http://rhps.github.io/blog</id>
 	<author>
 		<name>Rio Harapan Ps.</name>
 		<email>harapan@arc.itb.ac.id</email>
 	</author>
+	
+		<entry>
+			<title>5 Day Data Challenges Kaggle</title>
+			<link href="http://rhps.github.io/2018/03/30/five-day-data-challenges-kaggle.html"/>
+			<updated>2018-03-30T00:00:00+07:00</updated>
+			<id>http://rhps.github.io/2018/03/30/five-day-data-challenges-kaggle</id>
+			<content type="html">&lt;p&gt;&lt;a href=&quot;https://www.kaggle.com&quot;&gt;Kaggle&lt;/a&gt; merupakan sebuah situs atau platform dimana para data scientist dari seluruh dunia berkumpul, saling sharing berbagai mulai dari pengalaman, cerita, datasets, kodingan dan pembasahan dalam menyelesaikan suatu masalah hingga menjadi tempat dilakukannya kompetisi tingkat dunia yang berhubungan dengan data science [dalam &lt;a href=&quot;https://en.wikipedia.org/wiki/Kaggle&quot;&gt;wikipedia&lt;/a&gt; sendiri disebutkan bahwa kaggle menjadi platform untuk predictive modelling analytics competitions and data miners compete]&lt;/p&gt;
+
+&lt;p&gt;Pada tahun 2017, Alphabet Inc. (sebuah perusahaan yang menaungi Google) secara resmi membeli kaggle, sehingga saat ini kaggle menjadi bagian besar dari Google.&lt;/p&gt;
+
+&lt;p&gt;Kaggle telah menjadi tempat untuk belajar dan berkompetisi para data scientist dari seluruh dunia. Banyak instansi dan perusahaan merilis kompetisi dengan hadiah ribuan hingga puluhan ribu dollars. Selain kompetisi, Kaggle juga memungkinkan orang-orang untuk berbagi datasets mereka juga berbagi kernels (python/R notebook) yang berisi kodingan dari solusi model yang dibuat oleh orang lain.&lt;/p&gt;
+
+&lt;p&gt;Saya bergabung di Kaggle sudah sejak tahun 2015, namun selama beberapa tahun awal, saya tidak begitu aktif karena ilmu yang saya miliki masih sangat cetek. Hingga belakangan ini sejak persoalan Data Science menjadi hype, saya mencoba kembali aktif dan serius untuk belajar Data Science tersebut.&lt;/p&gt;
+
+&lt;p&gt;Minggu lalu&lt;/p&gt;
+</content>
+		</entry>
 	
 		<entry>
 			<title>Dilan</title>
@@ -373,9 +382,7 @@ https://blog.omgmog.net/post/jekyll-for-dummies/&lt;/p&gt;
 </feed>
 
 			
-			<br />
-<br />
-<!--
+			<!--
 <div class="footer">
 	<div class="row">
 	<div class="col-sm-8">
