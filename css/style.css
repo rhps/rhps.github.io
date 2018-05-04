@@ -1,7 +1,15 @@
 @import url(https://fonts.googleapis.com/css?family=Merriweather:300,300italic,400,400italic,700,700italic);
 @import url(https://fonts.googleapis.com/css?family=Montserrat);
 
-body { padding-top: 20px; padding-bottom: 40px; font-family: 'Merriweather', Georgia, Times; font-size: 16px; ***REMOVED***
+body {
+	padding-top: 20px; 
+	padding-bottom: 40px; 
+	/*font-family: 'Merriweather', Georgia, Times; */
+    /*font-family: 'Verlag', 'Sans-Serif';*/
+    font-family: PT Sans,sans-serif;
+	font-size: 16px;
+	background: #f3f3f3;
+***REMOVED***
 
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 { font-family: 'Merriweather', Georgia, Times; font-weight: 700;***REMOVED***
 
@@ -93,4 +101,18 @@ pre.prettyprint { padding: 10px !important; margin: 40px; font-size: 12px;***REM
 	margin: 5px 15px 0px 0px;
 	font-family: 'Montserrat', Helvetica, sans-serif; ***REMOVED***
 
+a.read_more,
+a.comments_btn {
+  font-size: 16px;
+  font-weight: 800;
+  padding: 10px 20px;
+  color: #428BCA;
+  background: #f3f3f3;
+  border: 1px solid #205F29;
+***REMOVED***
 
+a.read_more:hover,
+a.comments_btn:hover {
+  color: #f3f3f3;
+  background: #428BCA;
+***REMOVED***
