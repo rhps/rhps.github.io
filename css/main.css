@@ -31,6 +31,11 @@ p {
     font-size: 1em;
     line-height: 1.4em;
     color: #333;
+    margin-bottom: 1.5em;
+    margin-top: 1em;
+    margin-left: 0em;
+    margin-right: -1em;
+    padding: 0;
 ***REMOVED***
 footer {
     border-top: 1px solid #d5d5d5;
@@ -73,7 +78,7 @@ ul.posts li {
 ***REMOVED***
 
 .post-meta-detailed {
-  border-bottom:2px solid #EDEDED;
+  border-bottom:1px solid #999;
   /*border-top:1px solid #EDEDED;*/
   font-size:12px;
   margin:10px 0 30px;
@@ -132,7 +137,6 @@ byline {
 ***REMOVED***
 
 .post {
-    text-align: justify;
     margin-bottom: 1.5em;
     padding-bottom: 5px;
     border-bottom: 1px solid #999;
@@ -146,9 +150,8 @@ byline {
 ***REMOVED***
 
 .post_index {
-    text-align: justify;
     margin-bottom: 1.5em;
-    padding-bottom: 5px;
+    padding-bottom: 10px;
 ***REMOVED***
 
 /* animations */ 
