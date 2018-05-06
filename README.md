@@ -6,7 +6,7 @@ Harapannya aku dapat menuliskan sebagian hidupku kesini, sebagai catatan yang te
 
 ### Getting Started
 
-> Panduan umum secara singkat tentang kon***REMOVED***gurasi dan hal-hal penting lainnya.
+> Panduan umum secara singkat tentang konfigurasi dan hal-hal penting lainnya.
 
 ##### Repository
 
@@ -18,5 +18,5 @@ git add .
 git commit -m "Commit Messages"
 git push -u https://rhps:aspiresekali@gitlab.com/rhps/notes-new.git --all
 
-##### Kon***REMOVED***gurasi
+##### Konfigurasi
     + bundle exec jekyll serve
