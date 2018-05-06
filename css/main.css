@@ -6,27 +6,27 @@ nav ul, footer ul {
     padding: 0px;
     list-style: none;
     font-weight: bold;
-***REMOVED***
+}
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
-***REMOVED***
+}
 
 a:hover {
     text-decoration: underline;
-***REMOVED***
+}
 
 h1 {
     font-size: 3em;
     /*font-family:'Helvetica', 'Arial', 'Sans-Serif';*/
-***REMOVED***
+}
 
 hr.endpost {
     border-top: 3px double #8c8b8b;
     width: 30%;
     text-align:center; 
     margin: 30px auto;
-***REMOVED***
+}
 p {
     font-size: 1em;
     line-height: 1.4em;
@@ -36,35 +36,35 @@ p {
     margin-left: 0em;
     margin-right: -1em;
     padding: 0;
-***REMOVED***
+}
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
-***REMOVED***
+}
 
 ul.posts { 
     margin: 20px auto 40px; 
     font-size: 1.5em;
-***REMOVED***
+}
 
 ul.posts li {
     list-style: none;
-***REMOVED***
+}
 
 .post-link {
     color: #000;
     margin-top:0;
     font-weight:600;
     margin-top:.5em;
-***REMOVED***
+}
 
 .left{
     float:left;
-***REMOVED***
+}
 
 .right{
     float:right;
-***REMOVED***
+}
 
 .post-meta{
     width:auto;
@@ -75,7 +75,7 @@ ul.posts li {
     color:#7a7a7a;
     font-style:italic;
     padding-bottom:.2em;
-***REMOVED***
+}
 
 .post-meta-detailed {
   border-bottom:1px solid #999;
@@ -88,7 +88,7 @@ ul.posts li {
   color: #7a7a7a;
   text-align: center;
   display: block;
-***REMOVED***
+}
 
 .post-meta-detailed_edit {
   /*border-bottom:2px solid #EDEDED;*/
@@ -100,23 +100,23 @@ ul.posts li {
   color: #7a7a7a;
   text-align: center;
   display: block;
-***REMOVED***
+}
 
 .post{
     a:hover;
     font-size: 18px;
     color: "red";
-***REMOVED***
+}
 
 
-.clear***REMOVED***x:before, .clear***REMOVED***x:after{
+.clearfix:before, .clearfix:after{
     content:" ";
     display:table;
-***REMOVED***
+}
 
-.clear***REMOVED***x:after{
+.clearfix:after{
     clear:both;
-***REMOVED***
+}
 
 .post-title {
     text-decoration: none;
@@ -125,7 +125,7 @@ ul.posts li {
     font-size: 3.4rem;
     margin-bottom: 0;
     line-height: 1.5em;
-***REMOVED***
+}
 
 
 byline {
@@ -134,7 +134,7 @@ byline {
     -webkit-margin-after: 1em;
     -webkit-margin-start: 0px;
     -webkit-margin-end: 0px;
-***REMOVED***
+}
 
 .post {
     margin-bottom: 1.5em;
@@ -147,22 +147,22 @@ byline {
     border-top-width: 1px;
     border-top-style: solid;
     border-top-color: rgb(153, 153, 153);
-***REMOVED***
+}
 
 .post_index {
     margin-bottom: 1.5em;
     padding-bottom: 10px;
-***REMOVED***
+}
 
 /* animations */ 
 .animated { 
     animation: fade-in-down 0.6s; 
     animation-delay: 0.3s; 
-    animation-***REMOVED***ll-mode: both; 
-    ***REMOVED*** 
+    animation-fill-mode: both; 
+    } 
     @keyframes fade-in-down { 
-        0% { opacity: 0; transform: translateY(-10px); ***REMOVED*** 
-        100% { opacity: 1; transform: translateY(0); ***REMOVED*** ***REMOVED***
+        0% { opacity: 0; transform: translateY(-10px); } 
+        100% { opacity: 1; transform: translateY(0); } }
 
 .header-home { 
     display: block; 
@@ -171,23 +171,23 @@ byline {
     position: relative; 
     z-index: 99; 
     border-bottom:2px solid #EDEDED;
-***REMOVED*** 
+} 
 
-.header-home > .link > .sel***REMOVED***e { 
+.header-home > .link > .selfie { 
     width: 200px; 
     margin-bottom: 25px; 
     border-radius: 100%; 
     transition: all 0.2s; 
     box-shadow: 0; 
-    opacity: 1; ***REMOVED*** 
+    opacity: 1; } 
 
-.header-home > .link > .sel***REMOVED***e:hover { 
+.header-home > .link > .selfie:hover { 
     box-shadow: 0 0px 4px 0 rgba(0, 0, 0, 0.18), 0 0px 12px 0 rgba(0, 0, 0, 0.15); 
-    opacity: 0.8; ***REMOVED*** 
+    opacity: 0.8; } 
 
 .header-home > .title { 
     font-size: 4rem; 
-    margin: 0 0 13px; ***REMOVED*** 
+    margin: 0 0 13px; } 
 
 .header-home > .description { 
     font-size: 1.85rem; 
@@ -195,17 +195,17 @@ byline {
     font-style: normal; 
     color: #aaa; 
     width: 70%; 
-    margin: 0 auto 30px; ***REMOVED*** 
+    margin: 0 auto 30px; } 
 
 .header-home > .description a { 
-    font-weight: 200; ***REMOVED***
+    font-weight: 200; }
 
-.sel***REMOVED***e { 
+.selfie { 
     width: 90%; 
-    border-radius: 100%; ***REMOVED***
+    border-radius: 100%; }
 
 .social-links { 
-    margin-top: 20px; ***REMOVED*** 
+    margin-top: 20px; } 
 
 .social-links > .link { 
     margin: 0; 
@@ -213,16 +213,16 @@ byline {
     position: relative; 
     display: inline-block; 
     height: 35px; 
-    width: 35px; ***REMOVED*** 
+    width: 35px; } 
 
 .social-links > .link:hover > .icon { 
-    ***REMOVED***ll: #4b0082; ***REMOVED*** 
+    fill: #4b0082; } 
 
 .social-links > .link:hover:before { 
     opacity: 1; 
     display: inline-block; 
     transform: translate3d(0, 0, 0); 
-    white-space: nowrap; ***REMOVED*** 
+    white-space: nowrap; } 
 
 .social-links > .link:before { 
     content: attr(data-title); 
@@ -241,7 +241,7 @@ byline {
     opacity: 0; 
     transition: opacity 150ms linear, transform 150ms linear, -webkit-transform 150ms linear; 
     transform: translate3d(0, -8px, 0); 
-    z-index: 99; ***REMOVED*** 
+    z-index: 99; } 
 
 .social-links > .link:after { 
     content: ""; 
@@ -256,17 +256,17 @@ byline {
     opacity: 0; 
     transition: opacity 150ms linear, transform 150ms linear, -webkit-transform 150ms linear; 
     transform: translate3d(0, -8px, 0); 
-    z-index: 100; ***REMOVED*** 
+    z-index: 100; } 
 
 .social-links > .link:hover:after { 
     opacity: 1; 
-    transform: translate3d(0, 0, 0); ***REMOVED*** 
+    transform: translate3d(0, 0, 0); } 
 
 .social-links > .icon { 
-    transition: all ease-in-out 0.2s; ***REMOVED***
+    transition: all ease-in-out 0.2s; }
 
 .spoiler { 
-    position: relative; ***REMOVED***
+    position: relative; }
 
 .spoiler:before { 
     content: ""; 
@@ -276,21 +276,21 @@ byline {
     bottom: 0; 
     left: 0; 
     right: 0; 
-    z-index: 50; ***REMOVED*** 
+    z-index: 50; } 
 
 .spoiler:hover:before { 
-    display: none; ***REMOVED***
+    display: none; }
 
-.link { display: inline; ***REMOVED***
+.link { display: inline; }
 
 .icon { 
     display: inline-block; 
     width: 17px; 
     height: 17px; 
-    ***REMOVED***ll: #000; 
+    fill: #000; 
     text-align: center; 
     color: #000; 
-    margin: 7px auto; ***REMOVED***
+    margin: 7px auto; }
 
 .footer-main { 
     border-top: 1px solid #ededed; 
@@ -300,7 +300,7 @@ byline {
     color: #aaa; 
     font-weight: 300; 
     text-align: center; 
-    position: relative; ***REMOVED*** 
+    position: relative; } 
 
 .footer-main:before {
     display: block; 
@@ -314,36 +314,36 @@ byline {
     margin-left: -5px; 
     background: #FFF; 
     box-shadow: #FFF 0 0 0 5px; 
-    border-radius: 3px; ***REMOVED*** 
+    border-radius: 3px; } 
 
 .footer-main > .link { 
-    display: inline; ***REMOVED*** 
+    display: inline; } 
 
 .footer-main > .link > .icon { 
     width: 15px !important; 
-    ***REMOVED***ll: #aaa !important; 
+    fill: #aaa !important; 
     transition: ease-in-out all 0.3s; 
     position: relative; 
     top: 3px; 
     display: inherit; 
-    margin: 0; ***REMOVED*** 
+    margin: 0; } 
 
 .footer-main > .link > .icon:hover { 
-    ***REMOVED***ll: #4b0082 !important; ***REMOVED*** 
+    fill: #4b0082 !important; } 
 
 .footer-main > .extra { 
     color: #aaa; 
-    margin-top: 0; ***REMOVED*** 
+    margin-top: 0; } 
 
 .footer-main > .extra > .link { 
     color: #222; 
     text-decoration: none; 
     border-bottom: 1px solid transparent; 
     transition: ease-in-out all 0.3s; 
-    padding-bottom: 1px; ***REMOVED*** 
+    padding-bottom: 1px; } 
 
 .footer-main > .extra > .link:hover { 
-    border-color: #aaa; ***REMOVED***
+    border-color: #aaa; }
 
 .garis {
     display: block; 
@@ -357,7 +357,7 @@ byline {
     margin-left: -5px; 
     background: #FFF; 
     box-shadow: #FFF 0 0 0 5px; 
-    border-radius: 3px; ***REMOVED***
+    border-radius: 3px; }
 
 
 
@@ -371,9 +371,9 @@ byline {
     margin-bottom: 6rem; 
     letter-spacing: 1px; 
     -webkit-font-smoothing: antialiased; 
-    text-rendering: optimizeLegibility; ***REMOVED*** 
+    text-rendering: optimizeLegibility; } 
 
-.post > .date { margin-bottom: 2rem; ***REMOVED***
+.post > .date { margin-bottom: 2rem; }
 
 .content-title {
     font-size: 1.5rem;
@@ -383,16 +383,16 @@ byline {
     transition:all 0.2s ease-in-out;
     width:75%;
     color:#428BCA;
-***REMOVED***
+}
 
 .aside {
     font-size: 1rem;
     color:#AAAAAA;
     font-weight:200;
     text-align:right;
-***REMOVED***
+}
 
 .hilang{
     color: #ffffff;
-***REMOVED***
+}
 

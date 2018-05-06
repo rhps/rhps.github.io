@@ -2,7 +2,7 @@ $(document).ready(function(){
   
   init_document_ready();
 
-***REMOVED***);
+});
 
 // - - - - - - - - - - - - - - - - - - - - - - - - - 
 /* - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -15,7 +15,7 @@ function init_document_ready() {
 
   create_colorSwatch();
 
-***REMOVED***
+}
 
 // - - - - - - - - - - - - - - - - - - - - - - - - -
 // for each li.color, grab the hex color value in the item and set is at the background-color 
@@ -39,11 +39,11 @@ function create_colorSwatch() {
 
     if (luma < 85) {
       $( this ).css( "color" , "#f0f0f0" );
-    ***REMOVED***
+    }
     
-  ***REMOVED***);
+  });
 
-***REMOVED***
+}
 
 // - - - - - - - - - - - - - - - - - - - - - - - - -
 
