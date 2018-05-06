@@ -46,23 +46,7 @@
 	<title>Rio Harapans Ps Blog</title>
 	<link href="http://rhps.github.io/blog/atom.xml" rel="self"/>
 	<link href="http://rhps.github.io/blog"/>
-<<<<<<< HEAD
-	<updated>2018-05-07T00:33:00+07:00</updated>
-=======
-<<<<<<< HEAD
-	<updated>2018-03-03T10:42:31+07:00</updated>
-=======
-<<<<<<< HEAD
-	<updated>2018-03-03T01:05:32+07:00</updated>
-=======
-<<<<<<< HEAD
-	<updated>2018-03-01T17:09:44+07:00</updated>
-=======
-	<updated>2018-02-21T22:09:19+07:00</updated>
->>>>>>> 752c552c6e7f1947fe2a51caaff100657aed74d8
->>>>>>> a817660e83135a38679a603c222ec47028db546f
->>>>>>> e0188e05f14c8a36f94cd49dd2413198d0799f10
->>>>>>> 307387725dc8f75c8d95902d30c6b65161953e66
+	<updated>2018-05-07T00:57:36+07:00</updated>
 	<id>http://rhps.github.io/blog</id>
 	<author>
 		<name>Rio Harapan Ps.</name>
@@ -70,8 +54,8 @@
 	</author>
 	
 		<entry>
-			<id>http://rhps.github.io/2018/03/30/five-day-data-challenges-kaggle</id>
-			<link type="text/html" rel="alternate" href="http://rhps.github.io/2018/03/30/five-day-data-challenges-kaggle.html" />
+			<id>http://rhps.github.io/five-day-data-challenges-kaggle</id>
+			<link type="text/html" rel="alternate" href="http://rhps.github.io/five-day-data-challenges-kaggle" />
 			<title>5 Day Data Challenges Kaggle</title>
 			<updated>2018-03-30T00:00:00+07:00</updated>
 			<author>
@@ -91,8 +75,8 @@
 		</entry>
 	
 		<entry>
-			<id>http://rhps.github.io/2018/01/08/dilan</id>
-			<link type="text/html" rel="alternate" href="http://rhps.github.io/2018/01/08/dilan.html" />
+			<id>http://rhps.github.io/dilan</id>
+			<link type="text/html" rel="alternate" href="http://rhps.github.io/dilan" />
 			<title>Dilan</title>
 			<updated>2018-01-08T00:00:00+07:00</updated>
 			<author>
@@ -141,8 +125,8 @@ Atau sudah tak perlu kutanyakan, tinggal kuanggap sudah. Bisa begitu, tinggal ja
 		</entry>
 	
 		<entry>
-			<id>http://rhps.github.io/2018/01/06/crazy-rich-asian</id>
-			<link type="text/html" rel="alternate" href="http://rhps.github.io/2018/01/06/crazy-rich-asian.html" />
+			<id>http://rhps.github.io/crazy-rich-asian</id>
+			<link type="text/html" rel="alternate" href="http://rhps.github.io/crazy-rich-asian" />
 			<title>Crazy Rich Asians</title>
 			<updated>2018-01-06T00:00:00+07:00</updated>
 			<author>
@@ -229,8 +213,8 @@ Akan saya jelaskan nanti&lt;/li&gt;
 		</entry>
 	
 		<entry>
-			<id>http://rhps.github.io/2017/07/03/apple-vs-google</id>
-			<link type="text/html" rel="alternate" href="http://rhps.github.io/2017/07/03/apple-vs-google.html" />
+			<id>http://rhps.github.io/apple-vs-google</id>
+			<link type="text/html" rel="alternate" href="http://rhps.github.io/apple-vs-google" />
 			<title>Apple vs Google</title>
 			<updated>2017-07-03T00:00:00+07:00</updated>
 			<author>
@@ -302,8 +286,8 @@ Akan saya jelaskan nanti&lt;/li&gt;
 		</entry>
 	
 		<entry>
-			<id>http://rhps.github.io/2017/06/27/roman-bumi-manusia</id>
-			<link type="text/html" rel="alternate" href="http://rhps.github.io/2017/06/27/roman-bumi-manusia.html" />
+			<id>http://rhps.github.io/roman-bumi-manusia</id>
+			<link type="text/html" rel="alternate" href="http://rhps.github.io/roman-bumi-manusia" />
 			<title>Roman Bumi Manusia</title>
 			<updated>2017-06-27T00:00:00+07:00</updated>
 			<author>
@@ -379,8 +363,8 @@ Akan saya jelaskan nanti&lt;/li&gt;
 		</entry>
 	
 		<entry>
-			<id>http://rhps.github.io/2017/06/05/perjalanan-ke-curug-layung</id>
-			<link type="text/html" rel="alternate" href="http://rhps.github.io/2017/06/05/perjalanan-ke-curug-layung.html" />
+			<id>http://rhps.github.io/perjalanan-ke-curug-layung</id>
+			<link type="text/html" rel="alternate" href="http://rhps.github.io/perjalanan-ke-curug-layung" />
 			<title>Perjalanan ke Curug Layung</title>
 			<updated>2017-06-05T00:00:00+07:00</updated>
 			<author>
@@ -433,8 +417,8 @@ Akan saya jelaskan nanti&lt;/li&gt;
 		</entry>
 	
 		<entry>
-			<id>http://rhps.github.io/2017/04/26/hello-world</id>
-			<link type="text/html" rel="alternate" href="http://rhps.github.io/2017/04/26/hello-world.html" />
+			<id>http://rhps.github.io/hello-world</id>
+			<link type="text/html" rel="alternate" href="http://rhps.github.io/hello-world" />
 			<title>Hello World!</title>
 			<updated>2017-04-26T00:00:00+07:00</updated>
 			<author>
