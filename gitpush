@@ -8,7 +8,7 @@ function commit {
 	echo $1
 	git add . --all
 	git commit -m "Commit for : $1 <$NOW>"
-	git push -u https://rhps:passwordgitlab@gitlab.com/rhps/rhps.github.io.git --all
+	git push -u https://rhps:passwordgitlabrhps@gitlab.com/rhps/rhps.github.io.git --all
 
 	############
 	#Repo Production Repos

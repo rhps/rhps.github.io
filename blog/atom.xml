@@ -31,8 +31,8 @@
 			<div class="container">
 			<div class="header">
 	<ul class="nav nav-pills pull-right">
+		<li class=""><a href="/about" title="about">About</a></li>
 		<li class=""><a href="/cv" title="CV">CV</a></li>
-		<li class=""><a href="/about" title="about">About me</a></li>
 		<li class=""><a href="/projects" title="Projects">Projects</a></li>
 		<li class=""><a href="http://docs.harapan.me" title="Documentation">Documentation</a></li>
 		<li class=""><a href="/blog" title="Blog">Blog</a></li>
@@ -46,7 +46,7 @@
 	<title>Rio Harapans Ps Blog</title>
 	<link href="http://rhps.github.io/blog/atom.xml" rel="self"/>
 	<link href="http://rhps.github.io/blog"/>
-	<updated>2018-05-04T21:25:39+07:00</updated>
+	<updated>2018-05-07T00:33:00+07:00</updated>
 	<id>http://rhps.github.io/blog</id>
 	<author>
 		<name>Rio Harapan Ps.</name>
@@ -54,10 +54,14 @@
 	</author>
 	
 		<entry>
-			<title>5 Day Data Challenges Kaggle</title>
-			<link href="http://rhps.github.io/2018/03/30/five-day-data-challenges-kaggle.html"/>
-			<updated>2018-03-30T00:00:00+07:00</updated>
 			<id>http://rhps.github.io/2018/03/30/five-day-data-challenges-kaggle</id>
+			<link type="text/html" rel="alternate" href="http://rhps.github.io/2018/03/30/five-day-data-challenges-kaggle.html" />
+			<title>5 Day Data Challenges Kaggle</title>
+			<updated>2018-03-30T00:00:00+07:00</updated>
+			<author>
+				<name>Rio Harapan Ps.</name>
+				<email>harapan@arc.itb.ac.id</email>
+			</author>
 			<content type="html">&lt;p&gt;&lt;a href=&quot;https://www.kaggle.com&quot;&gt;Kaggle&lt;/a&gt; merupakan sebuah situs atau platform dimana para data scientist dari seluruh dunia berkumpul, saling sharing berbagai mulai dari pengalaman, cerita, datasets, kodingan dan pembasahan dalam menyelesaikan suatu masalah hingga menjadi tempat dilakukannya kompetisi tingkat dunia yang berhubungan dengan data science [dalam &lt;a href=&quot;https://en.wikipedia.org/wiki/Kaggle&quot;&gt;wikipedia&lt;/a&gt; sendiri disebutkan bahwa kaggle menjadi platform untuk predictive modelling analytics competitions and data miners compete]&lt;/p&gt;
 
 &lt;p&gt;Pada tahun 2017, Alphabet Inc. (sebuah perusahaan yang menaungi Google) secara resmi membeli kaggle, sehingga saat ini kaggle menjadi bagian besar dari Google.&lt;/p&gt;
@@ -71,10 +75,14 @@
 		</entry>
 	
 		<entry>
-			<title>Dilan</title>
-			<link href="http://rhps.github.io/2018/01/08/dilan.html"/>
-			<updated>2018-01-08T00:00:00+07:00</updated>
 			<id>http://rhps.github.io/2018/01/08/dilan</id>
+			<link type="text/html" rel="alternate" href="http://rhps.github.io/2018/01/08/dilan.html" />
+			<title>Dilan</title>
+			<updated>2018-01-08T00:00:00+07:00</updated>
+			<author>
+				<name>Rio Harapan Ps.</name>
+				<email>harapan@arc.itb.ac.id</email>
+			</author>
 			<content type="html">&lt;p&gt;Dilan, sebuah novel karangan Pidi Baiq. Novel romantis yang banyak di bicarakan oleh orang-orang disekitarku, sehingga aku tertarik untuk membacanya. Walaupun begitu aku berusaha untuk menuliskan sebuah review yang hanya berdasarkan pandanganku saja.&lt;/p&gt;
 
 &lt;p&gt;Novel ini cukup tipis, hanya sekitar 120 halaman kurang lebih. Pada awalnya aku tidak memiliki pandangan apa-apa dengan Novel ini dan berusaha untuk terus menikmatinya lembar demi lembar yang berhasil ku baca. Hingga kemudian aku menemukan sesuatu yang aneh pada Novel ini. Sesuatu yang tidak enak untuk dirasakan dan secara tidak langsung mengganggu kenikmatan yang kudapat dalam membaca Novel ini.&lt;/p&gt;
@@ -117,10 +125,14 @@ Atau sudah tak perlu kutanyakan, tinggal kuanggap sudah. Bisa begitu, tinggal ja
 		</entry>
 	
 		<entry>
-			<title>Crazy Rich Asians</title>
-			<link href="http://rhps.github.io/2018/01/06/crazy-rich-asian.html"/>
-			<updated>2018-01-06T00:00:00+07:00</updated>
 			<id>http://rhps.github.io/2018/01/06/crazy-rich-asian</id>
+			<link type="text/html" rel="alternate" href="http://rhps.github.io/2018/01/06/crazy-rich-asian.html" />
+			<title>Crazy Rich Asians</title>
+			<updated>2018-01-06T00:00:00+07:00</updated>
+			<author>
+				<name>Rio Harapan Ps.</name>
+				<email>harapan@arc.itb.ac.id</email>
+			</author>
 			<content type="html">&lt;p&gt;Sebelum membahas isi Novel ini, terlebih dahulu saya telah mengetahui dan mendengar beberapa pendapat orang tentang Novel ini yang menyatakan bahwa ceritanya sangat menarik. Dan kemudian jadilah ketika saya menemukannya di suatu Toko buku, langsung saja dibeli. Tidak butuh waktu lama untuk menyelesaikannya, karena memang ceritanya yang sangat menarik dan cukup menghibur.&lt;/p&gt;
 
 &lt;p&gt;Novel ini menceritakan tentang kehidupan kalangan kaya raya di Asia sebagai latar belakang ceritanya. Kehidupan yang penuh akan kemewahan dan gengsi, dimana libur setiap hari, belanja, uang yang terus mengalir dari investasi tanpa harus bersusah payah kerja keras. Kehidupan yang menghadirkan keindahan yang menimbulkan iri bagi semua orang yang tidak mendapatkannya.&lt;/p&gt;
@@ -142,34 +154,73 @@ Atau sudah tak perlu kutanyakan, tinggal kuanggap sudah. Bisa begitu, tinggal ja
 		</entry>
 	
 		<entry>
+			<id>http://rhps.github.io/deeplearning-ai-courses</id>
+			<link type="text/html" rel="alternate" href="http://rhps.github.io/deeplearningcourse" />
 			<title>deeplearning.ai Courses</title>
-			<link href="http://rhps.github.io/2017/07/03/deeplearning-ai-courses.html"/>
 			<updated>2017-07-03T00:00:00+07:00</updated>
-			<id>http://rhps.github.io/2017/07/03/deeplearning-ai-courses</id>
+			<author>
+				<name>Rio Harapan Ps.</name>
+				<email>harapan@arc.itb.ac.id</email>
+			</author>
 			<content type="html">&lt;p&gt;Diakhir tahun 2017 ini saya mengambil satu Specialization Course di suatu website MOOC (Massive Open Online Course) yang begitu terkenal &lt;a href=&quot;http://www.coursera.org&quot;&gt;Coursera&lt;/a&gt;. Specialization Course merupakan sebuah Course yang berfokus untuk mempelajari suatu bidang atau ranah tertentu, misalnya Specialization Course yang saya ambil saat ini ialah &lt;a href=&quot;https://www.coursera.org/specializations/deep-learning&quot;&gt;Deep Learning Specialization Courses&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Dalam satu Specialization Course terdapat beberapa Course lagi yang masing-masingnya membahas suatu topik yang sangat spesifik dalam bidang tersebut. Jadi dalam satu Specialization Course tersebut nantinya kita akan diperkenalkan dulu dari hal yang dasar-dasar sebagai syarat sebelum mempelajari sesuatu yang lebih mendalam lagi. Dibeberapa Specialization Course lainnya mengenai Big Data dan Data Science bahkan dibagian course awalnya diajarkan mengenai basic programming. Untuk Deep Learning Specialization Course yang saya ambil ini, student tidak diajarkan lagi basic-basic programming, namun kita akan langsung berkenalan langsung dasar-dasar deep learning yaitu Neural Network.&lt;/p&gt;
+&lt;p&gt;Dalam satu Specialization Course terdapat beberapa Course lagi yang masing-masingnya membahas suatu topik yang sangat spesifik dalam bidang tersebut. Jadi dalam satu Specialization Course tersebut nantinya kita akan diperkenalkan dulu hal yang dasar-dasar sebagai syarat sebelum mempelajari sesuatu yang lebih mendalam lagi. Dibeberapa Specialization Course lainnya mengenai Big Data dan Data Science bahkan dibagian course awalnya diajarkan mengenai basic programming dan tools yang digunakanan seperti Git dan lain sebagainya.&lt;/p&gt;
+
+&lt;p&gt;Untuk Deep Learning Specialization Course yang saya ambil ini, pelajar (saya mencoba menyebut orang-orang yang mengambil course ini sebagai pelajar) tidak diajarkan lagi basic-basic programming, namun kita akan langsung berkenalan langsung dasar-dasar deep learning yaitu Neural Network. Sehingga bagi kalian yang tertarik juga untuk mengikuti Course ini diharapkan telah paham basic-basic programming dengan menggunakan bahasa pemrograman python.&lt;/p&gt;
 
 &lt;p&gt;Deep Learning Specialization Course ini diberikan oleh Andrew Ng dan organisasinya yaitu deeplearning.ai. Andrew Ng ini merupakan dosen Computer Science di Stanford University. Beliau juga mengajar di Course lainnya yang cukup terkenal diCoursera yaitu &lt;a href=&quot;https://www.coursera.org/learn/machine-learning&quot;&gt;Machine Learning by Stanford University&lt;/a&gt;, Machine Learning Course ini merupakan Course yang paling banyak diambil diseantero Course diCoursera.&lt;/p&gt;
 
-&lt;p&gt;Lanjut ke Deep Learning Specialization Course, Course ini sendiri terdiri atas 5 course. Dimana setiap&lt;/p&gt;
+&lt;p&gt;Lanjut ke Deep Learning Specialization Course, Course ini sendiri terdiri atas 5 course. Saya akan coba melistnya dan menerangkan secara singkat tentang apa yang dipelajari dari course yang bersangkutan,&lt;/p&gt;
 
-&lt;h1 id=&quot;duplicate&quot;&gt;Duplicate&lt;/h1&gt;
-&lt;p&gt;Diakhir tahun 2017 ini saya mengambil satu Specialization Course di suatu website MOOC (Massive Open Online Course) yang begitu terkenal &lt;a href=&quot;http://www.coursera.org&quot;&gt;Coursera&lt;/a&gt;. Specialization Course merupakan sebuah Course yang berfokus untuk mempelajari suatu bidang atau ranah tertentu, misalnya Specialization Course yang saya ambil saat ini ialah &lt;a href=&quot;https://www.coursera.org/specializations/deep-learning&quot;&gt;Deep Learning Specialization Courses&lt;/a&gt;.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Neural Networks and Deep Learning&lt;/strong&gt;&lt;br /&gt;
+Course ini mempelajari dasar-dasar Deep Learning dimulai dari Neural Network 1 layer hingga ke beberapa layer.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization&lt;/strong&gt;&lt;br /&gt;
+Course ini mempelajari hal-hal yang mempengaruhi dari bagus tidaknya suatu Algoritma dan Project Deep Learning yang kita buat serta bagaimana cara meningkatkan hasil dari suatu Algoritma yang telah diimplementasikan.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Structuring Machine Learning Projects&lt;/strong&gt;&lt;br /&gt;
+Course ini menjadi satu-satunya Course yang tidak terlalu teknis dari kelima Course yang ada. Course ini mempelajari bagaimana menurunkan error serta mengorganize data yang digunakan dalam project.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Convolutional Neural Networks&lt;/strong&gt;&lt;br /&gt;
+Akan saya jelaskan nanti&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Sequence Models&lt;/strong&gt;&lt;br /&gt;
+Akan saya jelaskan nanti&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;Dalam satu Specialization Course terdapat beberapa Course lagi yang masing-masingnya membahas suatu topik yang sangat spesifik dalam bidang tersebut. Jadi dalam satu Specialization Course tersebut nantinya kita akan diperkenalkan dulu dari hal yang dasar-dasar sebagai syarat sebelum mempelajari sesuatu yang lebih mendalam lagi. Dibeberapa Specialization Course lainnya mengenai Big Data dan Data Science bahkan dibagian course awalnya diajarkan mengenai basic programming. Untuk Deep Learning Specialization Course yang saya ambil ini, student tidak diajarkan lagi basic-basic programming, namun kita akan langsung berkenalan langsung dasar-dasar deep learning yaitu Neural Network.&lt;/p&gt;
+&lt;p&gt;Hal-hal lain mengenai Course ini secara spesifik mungkin akan saya jelaskan nanti dipost lainnya secara spesifik. Anda bisa melihat pada link dibawah untuk tulisan mengenai masing-masing Course tersebut.&lt;/p&gt;
 
-&lt;p&gt;Deep Learning Specialization Course ini diberikan oleh Andrew Ng dan organisasinya yaitu deeplearning.ai. Andrew Ng ini merupakan dosen Computer Science di Stanford University. Beliau juga mengajar di Course lainnya yang cukup terkenal diCoursera yaitu &lt;a href=&quot;https://www.coursera.org/learn/machine-learning&quot;&gt;Machine Learning by Stanford University&lt;/a&gt;, Machine Learning Course ini merupakan Course yang paling banyak diambil diseantero Course diCoursera.&lt;/p&gt;
+&lt;p&gt;Masing-masing course akan memakan waktu 3 hingga 4 minggu dan setiap minggu pelajarannya diharapkan para pelajar yang mengambil course ini dapat meluangkan waktu 4 sampai 5 jam. Jadi bila kita mengambil course ini seperti berasa kuliah lagi. Walaupun ini seperti kuliah dan diajarkan oleh dosen dari Stanford, saya rasa bebannya tidak terlalu berat dibandingkan kuliah-kuliah pada umumnya. Karena selain materinya cukup jelas diterangkan oleh pengajarnya, tugas-tugas serta kuisnya juga cukup mudah. Beberapa tugas coding yang diberikan juga disampaikan dengan panduan yang cukup jelas dan mudah untuk diikuti.&lt;/p&gt;
 
-&lt;p&gt;Lanjut ke Deep Learning Specialization Course, Course ini sendiri terdiri atas 5 course. Dimana setiap&lt;/p&gt;
+&lt;p&gt;Layaknya Kuliah yang kita ikuti dikampus yang biasanya terdapat prasyarat, Course ini pun memiliki prasyarat yang harus dipenuhi. Prasyarat tersebut diantaranya, pelajar diharuskan memiliki basic programming, lebih spesifiknya mungkin dengan bahasa python karena semua coding dan penjelasan dalam course ini disampaikan dalam bahasa python. Selanjutnya memiliki pengetahuan dasar matematika aljabar linier dan kalkulus. Ini sebenarnya tidak wajib karena Andrew Ng dengan berbaik hati juga menjelaskan review math dalam videonya. Untuk lebih jelasnya anda dapat merefer ke &lt;a href=&quot;https://www.coursera.org/specializations/deep-learning#faq-list&quot;&gt;FAQ&lt;/a&gt; yang telah disediakan diwebsitenya&lt;/p&gt;
+
+&lt;p&gt;Hal terakhir yang perlu juga saya sampaikan bahwa Course ini sesungguhnya tidak gratis, karena pelajar akan dipungut biaya US$ 49 (49 dollars Amerika Serikat) untuk setiap Coursenya. Cukup mahal memang, total akan memerlukan US$ 245 untuk kelima course yang akan diikuti. Bila anda cukup mampu untuk membayarnya silahkan mengikut Course ini, namun bila tidak memiliki uang sebanyak itu tidak perlu khawatir anda dapat mengajukan &lt;a href=&quot;https://learner.coursera.help/hc/en-us/articles/209819033-Apply-for-Financial-Aid&quot;&gt;Financial Aid&lt;/a&gt; untuk masing-masing Course ini. Sebagai informasi untuk 3 Course awal saya membayar hanya US$ 49 karena ketika saya mengikuti Course ini, saya mendapat promo sebesar US$ 49 untuk subscription perbulan. Saya menyelesaikan 3 Course dalam waktu sebulan tersebut dan selanjutnya saya tidak mampu membayar sehingga saya mengajukan financial aid dan diterima.&lt;/p&gt;
+
+&lt;p&gt;Financial Aid sendiri memungkinkan para pelajar untuk mengikuti Course ini tanpa membayar sepeserpun. Anda hanya perlu memverifikasi akun dengan menggunakan KTP/SIM/Paspor lalu mendaftar untuk mengajukan financial aid. Pada saat pendaftaran anda akan ditanya mengenai latar belakang diri kita, pendidikan, pendapat, hingga motivasi mengikuti course ini dan semua dilakukan dalam tulisan berbahasa inggris. Lama pengajuan Financial Aid sendiri akan memakan waktu hingga 2 minggu dan tidak semua Financial Aid akan diterima.&lt;/p&gt;
+
+&lt;p&gt;Saran saya bila anda mengajukan Financial Aid, anda harus serius mengikuti Course ini dan hingga selesai, kemudian gunakan Course ini sebagai sarana belajar dan pengembangan diri. Karena beberapa saat yang lalu Financial Aid ini sempat menjadi kontroversi, beberapa pengguna dari penjuru dunia membeberkan tulisan dan tips trick bagaimana memanipulasi jawaban agar bisa lolos Financial Aid. Tidak hanya itu, sesama pelajar terkadang melakukan kecurangan dengan berbagi kunci jawaban serta tugas mereka.&lt;/p&gt;
+
+&lt;p&gt;Lalu apa saja yang anda dapatkan dengan mendaftar course ini secara berbayar atau mendapatkan financial aid? Anda akan dapat mengikuti semua Quiz dan Programming Exercise serta berhak untuk dinilai oleh grader system. Diakhir Course ketika anda telah mengikuti semua Quiz dan Programming Exercise dan Nilai anda mencukupi standar kelulusan anda akan mendapatkan sertifikat. Contoh Sertifikat yang diberika ialah sebagai berikut, &lt;a href=&quot;https://www.coursera.org/account/accomplishments/verify/MP88ZD796KVY&quot;&gt;Certificate&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Terakhir sebagai penutup, Course ini sangat terkenal dan begitu banyak orang yang mengambilnya. Sehingga terbentuk banyak komunitas baru (diCoursera sendiri terdapat forum diskusi sehingga memungkinkan juga untuk berinteraksi dan berkomunitas dengan pelajar lain) anda dapat bergabung dengan para pelajar dari seluruh dunia yang mengikuti course ini diforum-forum yang tersedia dinternet, Hal menarik lainnya ialah kontribusi dari masing-masing individu untuk kemajuan Course ini. Salah satunya dari &lt;a href=&quot;https://www.slideshare.net/TessFerrandez?utm_campaign=profiletracking&amp;amp;utm_medium=sssite&amp;amp;utm_source=ssslideview&quot;&gt;Tess Ferrandez&lt;/a&gt;, dia membuat catatan yang cukup menarik yang bisa anda akses melalui &lt;a href=&quot;https://www.slideshare.net/TessFerrandez/notes-from-coursera-deep-learning-courses-by-andrew-ng&quot;&gt;slidshare.net&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Tulisan-tulisan spesifik mengenai masing-masing course yang telah saya ikuti dapat dilihat disini,&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;strong&gt;Neural Networks and Deep Learning&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;strong&gt;Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;strong&gt;Structuring Machine Learning Projects&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;strong&gt;Convolutional Neural Networks&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#&quot;&gt;&lt;strong&gt;Sequence Models&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
 </content>
 		</entry>
 	
 		<entry>
-			<title>Apple vs Google</title>
-			<link href="http://rhps.github.io/2017/07/03/apple-vs-google.html"/>
-			<updated>2017-07-03T00:00:00+07:00</updated>
 			<id>http://rhps.github.io/2017/07/03/apple-vs-google</id>
+			<link type="text/html" rel="alternate" href="http://rhps.github.io/2017/07/03/apple-vs-google.html" />
+			<title>Apple vs Google</title>
+			<updated>2017-07-03T00:00:00+07:00</updated>
+			<author>
+				<name>Rio Harapan Ps.</name>
+				<email>harapan@arc.itb.ac.id</email>
+			</author>
 			<content type="html">&lt;p&gt;“Perseteruan Korporasi Besar yang Melahirkan Revolusi Teknologi Digital”&lt;/p&gt;
 
 &lt;p&gt;Buku ini mengisahkan mengenai sebuah perseteruan besar antara dua perusahan digital terbesar abad ini yaitu Apple dan Google. Perseteruan yang memperebutkan supremasi terhadap hak untuk menjadi pemilik tunggal karya agung yang telah mengubah gaya hidup manusia modern sekarang ini yaitu Smartphone.&lt;/p&gt;
@@ -235,10 +286,14 @@ Atau sudah tak perlu kutanyakan, tinggal kuanggap sudah. Bisa begitu, tinggal ja
 		</entry>
 	
 		<entry>
-			<title>Roman Bumi Manusia</title>
-			<link href="http://rhps.github.io/2017/06/27/roman-bumi-manusia.html"/>
-			<updated>2017-06-27T00:00:00+07:00</updated>
 			<id>http://rhps.github.io/2017/06/27/roman-bumi-manusia</id>
+			<link type="text/html" rel="alternate" href="http://rhps.github.io/2017/06/27/roman-bumi-manusia.html" />
+			<title>Roman Bumi Manusia</title>
+			<updated>2017-06-27T00:00:00+07:00</updated>
+			<author>
+				<name>Rio Harapan Ps.</name>
+				<email>harapan@arc.itb.ac.id</email>
+			</author>
 			<content type="html">&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&quot;Cerita, ...., selamanya tentang manusia, kehidupannya, bukan kematiannya. Ya, biarpun yang ditampilkannya itu hewan, raksasa atau dewa atau hantu. Dan tak ada yang lebih sulit dapat dipahami daripada sang manusia.... jangan anggap remeh si manusia, yang kelihatannya begitu sederhana; biar penglihatanmu setajam mata elang, pikiranmu setajam pisau cukur, perabaanmu lebih peka dari para dewa, pendengaranmu dapat menangkap musik dan ratap-tangis kehidupan; pengetahuanmu tentang manusia takkan bakal bisa kemput.&quot;
 ~ Pramoedya Ananta Toer
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
@@ -308,10 +363,14 @@ Atau sudah tak perlu kutanyakan, tinggal kuanggap sudah. Bisa begitu, tinggal ja
 		</entry>
 	
 		<entry>
-			<title>Perjalanan ke Curug Layung</title>
-			<link href="http://rhps.github.io/2017/06/05/perjalanan-ke-curug-layung.html"/>
-			<updated>2017-06-05T00:00:00+07:00</updated>
 			<id>http://rhps.github.io/2017/06/05/perjalanan-ke-curug-layung</id>
+			<link type="text/html" rel="alternate" href="http://rhps.github.io/2017/06/05/perjalanan-ke-curug-layung.html" />
+			<title>Perjalanan ke Curug Layung</title>
+			<updated>2017-06-05T00:00:00+07:00</updated>
+			<author>
+				<name>Rio Harapan Ps.</name>
+				<email>harapan@arc.itb.ac.id</email>
+			</author>
 			<content type="html">&lt;p&gt;Perjalanan ke Curug Layung ini, pertama-tama didahului ketika saya dan seorang teman berbincang-bincang mengenai nilai dan semester yang baru saja kami lalui.&lt;!-- more --&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;duplicate&quot;&gt;Duplicate&lt;/h1&gt;
@@ -358,10 +417,14 @@ Atau sudah tak perlu kutanyakan, tinggal kuanggap sudah. Bisa begitu, tinggal ja
 		</entry>
 	
 		<entry>
-			<title>Hello World!</title>
-			<link href="http://rhps.github.io/2017/04/26/hello-world.html"/>
-			<updated>2017-04-26T00:00:00+07:00</updated>
 			<id>http://rhps.github.io/2017/04/26/hello-world</id>
+			<link type="text/html" rel="alternate" href="http://rhps.github.io/2017/04/26/hello-world.html" />
+			<title>Hello World!</title>
+			<updated>2017-04-26T00:00:00+07:00</updated>
+			<author>
+				<name>Rio Harapan Ps.</name>
+				<email>harapan@arc.itb.ac.id</email>
+			</author>
 			<content type="html">&lt;p&gt;This is my first post in github pages - powered by &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.&lt;!-- more --&gt;
 https://blog.omgmog.net/post/jekyll-for-dummies/&lt;/p&gt;
 
