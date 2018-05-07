@@ -30,7 +30,7 @@
     </url>
     
     <url>
-        <loc>http://rhps.github.io/hello-world</loc>
+        <loc>http://rhps.github.io/helloworld</loc>
     </url>
     
 
@@ -47,6 +47,14 @@
     
     <url>
         <loc>http://rhps.github.io/blog/atom.xml</loc>
+    </url>
+    
+    
+    
+    
+    
+    <url>
+        <loc>http://rhps.github.io/blog/index-1</loc>
     </url>
     
     

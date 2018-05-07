@@ -15,6 +15,7 @@
 	<link href="/css/main.css" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
 	<link href="/css/syntax.css" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 	
 </head>
@@ -46,7 +47,7 @@
 	<title>Rio Harapans Ps Blog</title>
 	<link href="http://rhps.github.io/blog/atom.xml" rel="self"/>
 	<link href="http://rhps.github.io/blog"/>
-	<updated>2018-05-07T00:57:36+07:00</updated>
+	<updated>2018-05-07T21:09:08+07:00</updated>
 	<id>http://rhps.github.io/blog</id>
 	<author>
 		<name>Rio Harapan Ps.</name>
@@ -189,6 +190,13 @@ Akan saya jelaskan nanti&lt;/li&gt;
 
 &lt;p&gt;Masing-masing course akan memakan waktu 3 hingga 4 minggu dan setiap minggu pelajarannya diharapkan para pelajar yang mengambil course ini dapat meluangkan waktu 4 sampai 5 jam. Jadi bila kita mengambil course ini seperti berasa kuliah lagi. Walaupun ini seperti kuliah dan diajarkan oleh dosen dari Stanford, saya rasa bebannya tidak terlalu berat dibandingkan kuliah-kuliah pada umumnya. Karena selain materinya cukup jelas diterangkan oleh pengajarnya, tugas-tugas serta kuisnya juga cukup mudah. Beberapa tugas coding yang diberikan juga disampaikan dengan panduan yang cukup jelas dan mudah untuk diikuti.&lt;/p&gt;
 
+&lt;div class=&quot;polaroid&quot;&gt;
+	&lt;a href=&quot;&quot;&gt;&lt;img class=&quot;imgpost&quot; src=&quot;/img/deeplearningcoursedashboard.png&quot; alt=&quot;Tampilan dashboard dari Deep Learning Course di Coursera. Materi kuliah yang diberikan cukup jelas dan tidak terlalu membingungkan&quot; /&gt;&lt;/a&gt;
+	&lt;div class=&quot;captioncontainer&quot;&gt;
+		&lt;i&gt;Tampilan dashboard dari Deep Learning Course di Coursera. Materi kuliah yang diberikan cukup jelas dan tidak terlalu membingungkan&lt;/i&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
 &lt;p&gt;Layaknya Kuliah yang kita ikuti dikampus yang biasanya terdapat prasyarat, Course ini pun memiliki prasyarat yang harus dipenuhi. Prasyarat tersebut diantaranya, pelajar diharuskan memiliki basic programming, lebih spesifiknya mungkin dengan bahasa python karena semua coding dan penjelasan dalam course ini disampaikan dalam bahasa python. Selanjutnya memiliki pengetahuan dasar matematika aljabar linier dan kalkulus. Ini sebenarnya tidak wajib karena Andrew Ng dengan berbaik hati juga menjelaskan review math dalam videonya. Untuk lebih jelasnya anda dapat merefer ke &lt;a href=&quot;https://www.coursera.org/specializations/deep-learning#faq-list&quot;&gt;FAQ&lt;/a&gt; yang telah disediakan diwebsitenya&lt;/p&gt;
 
 &lt;p&gt;Hal terakhir yang perlu juga saya sampaikan bahwa Course ini sesungguhnya tidak gratis, karena pelajar akan dipungut biaya US$ 49 (49 dollars Amerika Serikat) untuk setiap Coursenya. Cukup mahal memang, total akan memerlukan US$ 245 untuk kelima course yang akan diikuti. Bila anda cukup mampu untuk membayarnya silahkan mengikut Course ini, namun bila tidak memiliki uang sebanyak itu tidak perlu khawatir anda dapat mengajukan &lt;a href=&quot;https://learner.coursera.help/hc/en-us/articles/209819033-Apply-for-Financial-Aid&quot;&gt;Financial Aid&lt;/a&gt; untuk masing-masing Course ini. Sebagai informasi untuk 3 Course awal saya membayar hanya US$ 49 karena ketika saya mengikuti Course ini, saya mendapat promo sebesar US$ 49 untuk subscription perbulan. Saya menyelesaikan 3 Course dalam waktu sebulan tersebut dan selanjutnya saya tidak mampu membayar sehingga saya mengajukan financial aid dan diterima.&lt;/p&gt;
@@ -200,6 +208,13 @@ Akan saya jelaskan nanti&lt;/li&gt;
 &lt;p&gt;Lalu apa saja yang anda dapatkan dengan mendaftar course ini secara berbayar atau mendapatkan financial aid? Anda akan dapat mengikuti semua Quiz dan Programming Exercise serta berhak untuk dinilai oleh grader system. Diakhir Course ketika anda telah mengikuti semua Quiz dan Programming Exercise dan Nilai anda mencukupi standar kelulusan anda akan mendapatkan sertifikat. Contoh Sertifikat yang diberika ialah sebagai berikut, &lt;a href=&quot;https://www.coursera.org/account/accomplishments/verify/MP88ZD796KVY&quot;&gt;Certificate&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Terakhir sebagai penutup, Course ini sangat terkenal dan begitu banyak orang yang mengambilnya. Sehingga terbentuk banyak komunitas baru (diCoursera sendiri terdapat forum diskusi sehingga memungkinkan juga untuk berinteraksi dan berkomunitas dengan pelajar lain) anda dapat bergabung dengan para pelajar dari seluruh dunia yang mengikuti course ini diforum-forum yang tersedia dinternet, Hal menarik lainnya ialah kontribusi dari masing-masing individu untuk kemajuan Course ini. Salah satunya dari &lt;a href=&quot;https://www.slideshare.net/TessFerrandez?utm_campaign=profiletracking&amp;amp;utm_medium=sssite&amp;amp;utm_source=ssslideview&quot;&gt;Tess Ferrandez&lt;/a&gt;, dia membuat catatan yang cukup menarik yang bisa anda akses melalui &lt;a href=&quot;https://www.slideshare.net/TessFerrandez/notes-from-coursera-deep-learning-courses-by-andrew-ng&quot;&gt;slidshare.net&lt;/a&gt;&lt;/p&gt;
+
+&lt;div class=&quot;polaroid&quot;&gt;
+	&lt;a href=&quot;&quot;&gt;&lt;img class=&quot;imgpost&quot; src=&quot;/img/deeplearningnotes.png&quot; alt=&quot;Catatan dari Tess Ferrandez yang cukup menarik.&quot; /&gt;&lt;/a&gt;
+	&lt;div class=&quot;captioncontainer&quot;&gt;
+		&lt;i&gt;Catatan dari Tess Ferrandez yang cukup menarik.&lt;/i&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
 
 &lt;p&gt;Tulisan-tulisan spesifik mengenai masing-masing course yang telah saya ikuti dapat dilihat disini,&lt;/p&gt;
 &lt;ol&gt;
@@ -418,26 +433,42 @@ Akan saya jelaskan nanti&lt;/li&gt;
 	
 		<entry>
 			<id>http://rhps.github.io/hello-world</id>
-			<link type="text/html" rel="alternate" href="http://rhps.github.io/hello-world" />
+			<link type="text/html" rel="alternate" href="http://rhps.github.io/helloworld" />
 			<title>Hello World!</title>
 			<updated>2017-04-26T00:00:00+07:00</updated>
 			<author>
 				<name>Rio Harapan Ps.</name>
 				<email>harapan@arc.itb.ac.id</email>
 			</author>
-			<content type="html">&lt;p&gt;This is my first post in github pages - powered by &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.&lt;!-- more --&gt;
+			<content type="html">&lt;h1 id=&quot;h1&quot;&gt;H1&lt;/h1&gt;
+
+&lt;p&gt;H1&lt;/p&gt;
+
+&lt;h2 id=&quot;h2&quot;&gt;H2&lt;/h2&gt;
+
+&lt;p&gt;H2&lt;/p&gt;
+
+&lt;h3 id=&quot;h3&quot;&gt;H3&lt;/h3&gt;
+
+&lt;p&gt;H3&lt;/p&gt;
+
+&lt;h4 id=&quot;h4&quot;&gt;H4&lt;/h4&gt;
+
+&lt;p&gt;H4&lt;/p&gt;
+
+&lt;p&gt;This is my first post in github pages - powered by &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.&lt;!-- more --&gt;
 https://blog.omgmog.net/post/jekyll-for-dummies/&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-python&quot; data-lang=&quot;python&quot;&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
 2
 3
 4
 5
-&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hello&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;reader&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
+	&lt;span class=&quot;k&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Hello &quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;str&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;reader&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;))&lt;/span&gt;
+
+&lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;__name__&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;==&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'__main__'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
+	&lt;span class=&quot;k&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'Rio'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 </content>
 		</entry>
 	
