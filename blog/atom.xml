@@ -14,9 +14,8 @@
 	<link href="/css/style.css" rel="stylesheet">
 	<link href="/css/main.css" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
-	<link href="/css/syntax.css" rel="stylesheet">
 	<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-
+	<link href="/css/prism.css" rel="stylesheet">
 	
 </head>
 		
@@ -47,12 +46,25 @@
 	<title>Rio Harapans Ps Blog</title>
 	<link href="http://rhps.github.io/blog/atom.xml" rel="self"/>
 	<link href="http://rhps.github.io/blog"/>
-	<updated>2018-05-09T11:36:40+07:00</updated>
+	<updated>2018-05-11T01:13:32+07:00</updated>
 	<id>http://rhps.github.io/blog</id>
 	<author>
 		<name>Rio Harapan Ps.</name>
 		<email>harapan@arc.itb.ac.id</email>
 	</author>
+	
+		<entry>
+			<id>http://rhps.github.io/blog/berdamai-dari-kegagalan</id>
+			<link type="text/html" rel="alternate" href="http://rhps.github.io/blog/berdamai" />
+			<title>Berdamai dengan kegagalan</title>
+			<updated>2018-05-10T00:00:00+07:00</updated>
+			<author>
+				<name>Rio Harapan Ps.</name>
+				<email>harapan@arc.itb.ac.id</email>
+			</author>
+			<content type="html">
+</content>
+		</entry>
 	
 		<entry>
 			<id>http://rhps.github.io/five-day-data-challenges-kaggle</id>
@@ -155,8 +167,8 @@ Atau sudah tak perlu kutanyakan, tinggal kuanggap sudah. Bisa begitu, tinggal ja
 		</entry>
 	
 		<entry>
-			<id>http://rhps.github.io/deeplearning-ai-courses</id>
-			<link type="text/html" rel="alternate" href="http://rhps.github.io/deeplearningcourse" />
+			<id>http://rhps.github.io/blog/deeplearning-ai-courses</id>
+			<link type="text/html" rel="alternate" href="http://rhps.github.io/blog/deeplearningcourse" />
 			<title>deeplearning.ai Courses</title>
 			<updated>2017-07-03T00:00:00+07:00</updated>
 			<author>
@@ -432,43 +444,51 @@ Akan saya jelaskan nanti&lt;/li&gt;
 		</entry>
 	
 		<entry>
-			<id>http://rhps.github.io/hello-world</id>
-			<link type="text/html" rel="alternate" href="http://rhps.github.io/helloworld" />
+			<id>http://rhps.github.io/blog/hello-world</id>
+			<link type="text/html" rel="alternate" href="http://rhps.github.io/blog/helloworld" />
 			<title>Hello World!</title>
 			<updated>2017-04-26T00:00:00+07:00</updated>
 			<author>
 				<name>Rio Harapan Ps.</name>
 				<email>harapan@arc.itb.ac.id</email>
 			</author>
-			<content type="html">&lt;h1 id=&quot;h1&quot;&gt;H1&lt;/h1&gt;
+			<content type="html">&lt;h3 id=&quot;hallo-dunia&quot;&gt;Hallo Dunia!&lt;/h3&gt;
 
-&lt;p&gt;H1&lt;/p&gt;
+&lt;p&gt;Ini merupakan postingan pertamaku. Dimulai 26 April 2017 aku merealisasikan keinginanku untuk membuat blog yang sesuai dengan selera serta dapat dikustomasi sesuai kebutuhan (dan dikoding sendiri tentunya). Sebenarnya sebelum-sebelumnya aku sudah punya beberapa blog yang dihosting dibeberapa platform gratis seperti &lt;a href=&quot;http://docs.harapan.me/&quot;&gt;docs.harapan.me&lt;/a&gt;, &lt;a href=&quot;http://freebsdoc.blogspot.co.id/&quot;&gt;freebsdoc.blogspot.com&lt;/a&gt; yang merupakan blog dengan isi yang cukup teknis, lalu ada &lt;a href=&quot;http://notes.rioharapan.com&quot;&gt;notes.rioharapan.com&lt;/a&gt; kebanyakan berisi artikel-artikel sederhana yang tujuannya dulu untuk belajar adsense dan beberapa blog yang dihosting diwordpress namun sayangnya belum sempat dibackup sebelum servernya koid.&lt;/p&gt;
 
-&lt;h2 id=&quot;h2&quot;&gt;H2&lt;/h2&gt;
+&lt;p&gt;Awalnya aku membuat blog ini untuk dikarenakan wordpress dan blogspot tidak terlalu dapat dikustomasi secara besar-besaran akhirnyalah aku memilih untuk membuat blog ini diplatform jekyll dan dihosting di-&lt;a href=&quot;https://pages.github.com/&quot;&gt;github.io&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;H2&lt;/p&gt;
+&lt;p&gt;Seiring berjalan waktu blog ini akan selalu disempurnakan. Blog ini akan dibuat dengan sangat simple dan sederhana namun enak untuk dibaca (dari sisi visual), serta memiliki konten yang cukup informatif. Aku akan menghimpun semua tulisan-tulisanku, baik yang agak teknis hingga beberapa pengalaman-pengalaman serta review buku yang telah kubaca. Selain itu, web ini juga akan menjadi website pribadi dan tempat meletakkan portofolio pribadi saya.&lt;/p&gt;
 
-&lt;h3 id=&quot;h3&quot;&gt;H3&lt;/h3&gt;
+&lt;p&gt;Oleh karena blog ini dibuild mulai dari desain hingga kodingan, aku ingin menyebutkan disini dari mana saja kode sumber yang kugunakan untuk membuat blog ini. Semuanya akan dihimpun sebagai berikut,&lt;/p&gt;
 
-&lt;p&gt;H3&lt;/p&gt;
+&lt;h3 id=&quot;platform-dan-hosting&quot;&gt;Platform dan Hosting&lt;/h3&gt;
 
-&lt;h4 id=&quot;h4&quot;&gt;H4&lt;/h4&gt;
+&lt;p&gt;Blog ini dihosting di&lt;a href=&quot;https://pages.github.com/&quot;&gt;github pages&lt;/a&gt; - powered by &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt;, apa itu jekyll? Kamu dapat melihatnya disini &lt;a href=&quot;https://blog.omgmog.net/post/jekyll-for-dummies/&quot;&gt;sini&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;H4&lt;/p&gt;
+&lt;h3 id=&quot;kode-sumber&quot;&gt;Kode Sumber&lt;/h3&gt;
 
-&lt;p&gt;This is my first post in github pages - powered by &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.&lt;!-- more --&gt;
-https://blog.omgmog.net/post/jekyll-for-dummies/&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Base template blog ini berasal dari &lt;a href=&quot;https://github.com/sergiokopplin/indigo&quot;&gt;indigo&lt;/a&gt;, banyak perubahan yang telah dilakukan mulai dari header, menu, footer dan lain sebagainya. (MIT Lincense)&lt;/li&gt;
+  &lt;li&gt;Saya juga menggunakan CSS dari https://fontawesome.com/, https://getbootstrap.com/, syntax highlights dari &lt;a href=&quot;https://gist.github.com/demisx/025698a7b5e314a7a4b5&quot;&gt;demisx&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Beberapa font saya ambil dari &lt;a href=&quot;https://fonts.google.com/&quot;&gt;google font&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Tampilan gambar dimodifikasi dari https://www.w3schools.com/css/css3_images.asp (Credit to w3schools)&lt;/li&gt;
+  &lt;li&gt;Blog index merupakan modifikasi dari &lt;a href=&quot;https://lenpaul.github.io/Lagrange/&quot;&gt;Lagrange Template&lt;/a&gt; (MIT Lincense)&lt;br /&gt;
+Modifikasi dilakukan dengan melibatkan kode sumber dari https://codepen.io/Bluehaus/pen/GnLCE&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-python&quot; data-lang=&quot;python&quot;&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
-2
-3
-4
-5
-&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hello&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;reader&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
+&lt;p&gt;Beberapa bagian kode sumber tidak sempat kusimpan, sehingga bila terdapat beberapa kode sumber yang berasal dari situs dan tempat tertentu dan tidak ditampilkan diatas, bukan dengan maksud kesengajaan. Bagi pembaca yang mengetahui kode sumber tertentu yang saya gunakan namun belum dicantumkan diatas, teman-teman dapat memberitahu saya melalui: harapan@arc.itb.ac.id&lt;/p&gt;
+
+&lt;h3 id=&quot;selamat-membaca&quot;&gt;Selamat Membaca!&lt;/h3&gt;
+
+&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hello&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;reader&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
 	&lt;span class=&quot;k&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Hello &quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;str&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;reader&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;))&lt;/span&gt;
+	&lt;span class=&quot;k&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Selamat Membaca!&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
 
 &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;__name__&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;==&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'__main__'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
-	&lt;span class=&quot;k&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'Rio'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+	&lt;span class=&quot;k&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'Rio'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
 </content>
 		</entry>
 	
@@ -492,7 +512,7 @@ https://blog.omgmog.net/post/jekyll-for-dummies/&lt;/p&gt;
     Rio Harapan Ps © 2017 - 2018
 
     <p class="extra">
-        <a class="link" href="http://www.github.com/rhps">All Sources Template</a> by <a class="link" href="http://www.github.com/rhps">harapan.me</a>
+        <a class="link" href="http://rhps.github.io/blog/helloworld">All Sources Template</a> by <a class="link" href="http://www.github.com/rhps">harapan.me</a>
     </p>
 </footer>
 <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -516,6 +536,7 @@ https://blog.omgmog.net/post/jekyll-for-dummies/&lt;/p&gt;
 			<script src="/js/bootstrap.min.js"></script>
 			<script src="/js/library.js"></script>
 			<script src="https://cdn.rawgit.com/google/code-prettify/master/loader/run_prettify.js"></script>
+			<script src="/js/prism.js"></script>
 			
     		<svg display="none" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <defs>

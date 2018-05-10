@@ -10,13 +10,5 @@ Harapannya aku dapat menuliskan sebagian hidupku kesini, sebagai catatan yang te
 
 ##### Repository
 
-**clone and download**
-git clone https://rhps:aspiresekali@gitlab.com/rhps/notes-new.git
-
-**commit and push**
-git add .
-git commit -m "Commit Messages"
-git push -u https://rhps:aspiresekali@gitlab.com/rhps/notes-new.git --all
-
 ##### Konfigurasi
     + bundle exec jekyll serve
