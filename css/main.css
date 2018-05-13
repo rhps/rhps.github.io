@@ -481,6 +481,19 @@ byline {
   border-radius: 10px;
 }
 
+.widthauto {
+  width: 34%;
+  height: auto;
+  display: block;
+  margin: auto;
+}
+
+.containerwidthauto {
+  max-width: 97%;
+  height: auto;
+  background: #f3f3f3
+}
+
 
 .galleryCarousel {
   font: 14px 'Open Sans';
