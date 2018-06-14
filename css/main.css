@@ -522,3 +522,52 @@ byline {
   height: 0;
   border-top: 1px solid black;
 }
+
+.cvitems {
+  border-top: 2px solid #e5e5e5;
+  padding-top: 28px;
+  padding-bottom: 28px;
+
+}
+
+.cvitemscontent {
+  border-left: 1px solid #999;
+  font-size: 12px;
+}
+
+.cvitemstitle {
+  padding-right: 30px;
+  font-weight: bold;
+  text-align: right;
+}
+
+.jobs {
+  font-family: Font Awesome\ 5 Free;
+  position: relative;
+  margin-top: 16px;
+}
+
+.jobs:after {
+  position: absolute;
+  border-bottom: 1px solid #999;
+  content: "";
+  center: 40%;
+  right: 30%;
+  left: 30%;
+}
+
+.academic {
+  font-family: Font Awesome\ 5 Free;
+  position: relative;
+  margin-top: 5px;
+}
+
+.titleacademics {
+  font-family: Font Awesome\ 5 Free;
+  position: relative;
+  margin-top: 5px;
+  margin-bottom: 10px;
+  font-size: 18px;
+  text-decoration: underline;
+  font-weight: bold;
+}
