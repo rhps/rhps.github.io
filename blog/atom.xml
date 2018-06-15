@@ -31,13 +31,13 @@
 			<div class="container">
 			<div class="header">
 	<ul class="nav nav-pills pull-right">
-		<li class=""><a href="/about" title="about">About</a></li>
-		<li class=""><a href="/cv" title="CV">CV</a></li>
-		<li class=""><a href="/projects" title="Projects">Projects</a></li>
-		<li class=""><a href="http://docs.harapan.me" title="Documentation">Documentation</a></li>
-		<li class=""><a href="/blog" title="Blog">Blog</a></li>
+		<li class=""><a href="/about" title="about"><i class="fas fa-calendar-check"></i> About</a></li>
+		<li class=""><a href="/cv" title="CV"><i class="fas fa-user-circle"></i> CV</a></li>
+		<li class=""><a href="/projects" title="Projects"><i class="fas fa-project-diagram"></i> Projects</a></li>
+		<li class=""><a href="http://docs.harapan.me" title="Documentation"><i class="fab fa-blogger"></i> Docs</a></li>
+		<li class=""><a href="/blog" title="Blog"><i class="fas fa-book-open"></i> Blog</a></li>
 	</ul>
-	<h3 class="text-muted"><a href="/">rhps.</a></h3>
+	<h3 class="text-muted"><a href="/"><i class="fas fa-home"></i> rhps.</a></h3>
 </div> <!-- /header -->
 
 			<?xml version="1.0" encoding="utf-8"?>
@@ -46,25 +46,12 @@
 	<title>Rio Harapans Ps Blog</title>
 	<link href="http://rhps.github.io/blog/atom.xml" rel="self"/>
 	<link href="http://rhps.github.io/blog"/>
-	<updated>2018-06-15T03:44:58+07:00</updated>
+	<updated>2018-06-15T10:20:13+07:00</updated>
 	<id>http://rhps.github.io/blog</id>
 	<author>
 		<name>Rio Harapan Ps.</name>
 		<email>harapan@arc.itb.ac.id</email>
 	</author>
-	
-		<entry>
-			<id>http://rhps.github.io/blog/berdamai-dari-kegagalan</id>
-			<link type="text/html" rel="alternate" href="http://rhps.github.io/blog/berdamai" />
-			<title>Berdamai dengan kegagalan</title>
-			<updated>2018-05-10T00:00:00+07:00</updated>
-			<author>
-				<name>Rio Harapan Ps.</name>
-				<email>harapan@arc.itb.ac.id</email>
-			</author>
-			<content type="html">
-</content>
-		</entry>
 	
 		<entry>
 			<id>http://rhps.github.io/five-day-data-challenges-kaggle</id>
@@ -84,56 +71,6 @@
 &lt;p&gt;Saya bergabung di Kaggle sudah sejak tahun 2015, namun selama beberapa tahun awal, saya tidak begitu aktif karena ilmu yang saya miliki masih sangat cetek. Hingga belakangan ini sejak persoalan Data Science menjadi hype, saya mencoba kembali aktif dan serius untuk belajar Data Science tersebut.&lt;/p&gt;
 
 &lt;p&gt;Minggu lalu&lt;/p&gt;
-</content>
-		</entry>
-	
-		<entry>
-			<id>http://rhps.github.io/dilan</id>
-			<link type="text/html" rel="alternate" href="http://rhps.github.io/dilan" />
-			<title>Dilan</title>
-			<updated>2018-01-08T00:00:00+07:00</updated>
-			<author>
-				<name>Rio Harapan Ps.</name>
-				<email>harapan@arc.itb.ac.id</email>
-			</author>
-			<content type="html">&lt;p&gt;Dilan, sebuah novel karangan Pidi Baiq. Novel romantis yang banyak di bicarakan oleh orang-orang disekitarku, sehingga aku tertarik untuk membacanya. Walaupun begitu aku berusaha untuk menuliskan sebuah review yang hanya berdasarkan pandanganku saja.&lt;/p&gt;
-
-&lt;p&gt;Novel ini cukup tipis, hanya sekitar 120 halaman kurang lebih. Pada awalnya aku tidak memiliki pandangan apa-apa dengan Novel ini dan berusaha untuk terus menikmatinya lembar demi lembar yang berhasil ku baca. Hingga kemudian aku menemukan sesuatu yang aneh pada Novel ini. Sesuatu yang tidak enak untuk dirasakan dan secara tidak langsung mengganggu kenikmatan yang kudapat dalam membaca Novel ini.&lt;/p&gt;
-
-&lt;p&gt;Kejanggalan yang pertama ialah dari pemaparan situasi dan perasaan yang dialami tokoh-tokoh dalam Novel ini. Seperti misalnya, dalam satu bagian ketika Milea dan Dilan makan Bakso dan Dilan mengatakan agar Milea menyimpan sebagian kerupuknya untuk dimakan nanti malam, ada perasaan yang tidak bisa diungkapkan oleh Milea kepada para pembaca (dalam hal ini sipenulis tidak bisa mengungkapkannya secara gamblang) kutipannya sebagai berikut,
-&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&quot;...Kamu tahu tidak? Saat itulah aku ingin nanya keDilan, untuk dapat kepastian, apakah aku dengannya sudah pacaran atau belum? Mungkin buatmu itu gampang, ya aku juga sudah lama berencana mau nanya soal itu, kelak, kalau berjumpa dengan dia. Tapi ketika sudah ada di depannya, kenapa jadi seperti susah kuungkapkan?
-Atau sudah tak perlu kutanyakan, tinggal kuanggap sudah. Bisa begitu, tinggal jalan. Tapi lebih afdol lagi kalau resmi. Aku jadi punya hak untuk mengklaim Dilan sebagai pacarku, dan dia juga begitu. Aku yakin kamu mengerti maksudku,...&quot;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;Pada bagian terakhir seperti yang diungkapkan oleh Milea, dia tidak mengungkapkan secara gamblang apa yang dia rasakan. Dia hanya mengajak pembaca untuk mencoba &lt;em&gt;pahamilah maksudku.&lt;/em&gt; Kurasa ini hal yang tidak biasa dalam sebuah Novel. Justru beberapa Novel seperti Pram atau Supernova, penjelasan-penjelasan seperti ini yang menarik untuk dibahas, dimana pembaca dijelaskan secara gamblang situasi dan apa yang dirasa oleh para pelaku. Hal lainnya penggambaran Bandung yang seolah dipaksakan, sama seperti sebelumnya tanpa penjelasan yang lebih gamblang. Seolah-olah pembaca dipaksa untuk merasakan Bandung yang ada dipikiran oleh penulis, tanpa sipenulis dengan jelas menggambarkannya dengan baik dan lengkap.&lt;/p&gt;
-
-&lt;p&gt;Diakhir cerita ketika aku menyelesaikan buku ini dan berusaha flash back kebelakang untuk mengingat-ingat jalan ceritanya, aku menemukan suatu benang merah bahwa Novel ini mempunyai sudut pandang dari Milea yang menceritakan masa lalunya. Milea seorang yang telah mempunyai keluarga sendiri dan sekarang tinggal di jakarta bersama suami dan anaknya, seolah tidak bisa melepas kenangan dari Dilan pacarnya dulu. Disuatu malam dia mengisahkan kisah ini disela-sela mengasuh anak dan menunggu suami pulang, sehingga kesan yang kutangkap seperti dia nostalgia kepada cintanya si Dilan namun dengan tidak berani secara utuh menangkap kenangan itu, sehingga ada cerita yang tanggung yang tidak sampai untuk diceritakannya seperti yang telah kuungkapkan diatas.&lt;/p&gt;
-
-&lt;p&gt;Hal lainnya ialah, banyak bagian buku ini yang masih tidak menggunakan Bahasa yang baik, walaupun memang sebagai target pasar yaitu anak muda tidak terlalu suka dengan bahasa yang formal dan baku, tapi lebih eloklah misalnya kalau bahasa-bahasa merupakan bahasa formal. Seandainya pun terlalu kaku, Milea bisa memakai padanan kata lain yang lebih enak didengar.&lt;/p&gt;
-
-&lt;p&gt;Secara keseluruhan jalan Cerita yang disajikan cukup menarik dan layak untuk disimak, Romantis dan menyenangkan, sedikit konflik dan dapat diselesaikan diakhir cerita hingga Dilan dan Milea diceritakan resmi berpacaran sebagai penyelesaian konflik besar diakhir cerita. Layaklah Novel ini digandrungi anak mudah yang sedang berkembang dengan cinta yang mereka rasakan di sekolah. Dan harap-harap cemas pada sosok Dilan yang super nakal, jantan, dan berani namun Romantis serta penuh kasih sayang.&lt;/p&gt;
-
-&lt;h1 id=&quot;duplicate&quot;&gt;Duplicate&lt;/h1&gt;
-&lt;p&gt;Dilan, sebuah novel karangan Pidi Baiq. Novel romantis yang banyak di bicarakan oleh orang-orang disekitarku, sehingga aku tertarik untuk membacanya. Walaupun begitu aku berusaha untuk menuliskan sebuah review yang hanya berdasarkan pandanganku saja.&lt;/p&gt;
-
-&lt;p&gt;Novel ini cukup tipis, hanya sekitar 120 halaman kurang lebih. Pada awalnya aku tidak memiliki pandangan apa-apa dengan Novel ini dan berusaha untuk terus menikmatinya lembar demi lembar yang berhasil ku baca. Hingga kemudian aku menemukan sesuatu yang aneh pada Novel ini. Sesuatu yang tidak enak untuk dirasakan dan secara tidak langsung mengganggu kenikmatan yang kudapat dalam membaca Novel ini.&lt;/p&gt;
-
-&lt;p&gt;Kejanggalan yang pertama ialah dari pemaparan situasi dan perasaan yang dialami tokoh-tokoh dalam Novel ini. Seperti misalnya, dalam satu bagian ketika Milea dan Dilan makan Bakso dan Dilan mengatakan agar Milea menyimpan sebagian kerupuknya untuk dimakan nanti malam, ada perasaan yang tidak bisa diungkapkan oleh Milea kepada para pembaca (dalam hal ini sipenulis tidak bisa mengungkapkannya secara gamblang) kutipannya sebagai berikut,
-&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&quot;...Kamu tahu tidak? Saat itulah aku ingin nanya keDilan, untuk dapat kepastian, apakah aku dengannya sudah pacaran atau belum? Mungkin buatmu itu gampang, ya aku juga sudah lama berencana mau nanya soal itu, kelak, kalau berjumpa dengan dia. Tapi ketika sudah ada di depannya, kenapa jadi seperti susah kuungkapkan?
-Atau sudah tak perlu kutanyakan, tinggal kuanggap sudah. Bisa begitu, tinggal jalan. Tapi lebih afdol lagi kalau resmi. Aku jadi punya hak untuk mengklaim Dilan sebagai pacarku, dan dia juga begitu. Aku yakin kamu mengerti maksudku,...&quot;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;Pada bagian terakhir seperti yang diungkapkan oleh Milea, dia tidak mengungkapkan secara gamblang apa yang dia rasakan. Dia hanya mengajak pembaca untuk mencoba &lt;em&gt;pahamilah maksudku.&lt;/em&gt; Kurasa ini hal yang tidak biasa dalam sebuah Novel. Justru beberapa Novel seperti Pram atau Supernova, penjelasan-penjelasan seperti ini yang menarik untuk dibahas, dimana pembaca dijelaskan secara gamblang situasi dan apa yang dirasa oleh para pelaku. Hal lainnya penggambaran Bandung yang seolah dipaksakan, sama seperti sebelumnya tanpa penjelasan yang lebih gamblang. Seolah-olah pembaca dipaksa untuk merasakan Bandung yang ada dipikiran oleh penulis, tanpa sipenulis dengan jelas menggambarkannya dengan baik dan lengkap.&lt;/p&gt;
-
-&lt;p&gt;Diakhir cerita ketika aku menyelesaikan buku ini dan berusaha flash back kebelakang untuk mengingat-ingat jalan ceritanya, aku menemukan suatu benang merah bahwa Novel ini mempunyai sudut pandang dari Milea yang menceritakan masa lalunya. Milea seorang yang telah mempunyai keluarga sendiri dan sekarang tinggal di jakarta bersama suami dan anaknya, seolah tidak bisa melepas kenangan dari Dilan pacarnya dulu. Disuatu malam dia mengisahkan kisah ini disela-sela mengasuh anak dan menunggu suami pulang, sehingga kesan yang kutangkap seperti dia nostalgia kepada cintanya si Dilan namun dengan tidak berani secara utuh menangkap kenangan itu, sehingga ada cerita yang tanggung yang tidak sampai untuk diceritakannya seperti yang telah kuungkapkan diatas.&lt;/p&gt;
-
-&lt;p&gt;Hal lainnya ialah, banyak bagian buku ini yang masih tidak menggunakan Bahasa yang baik, walaupun memang sebagai target pasar yaitu anak muda tidak terlalu suka dengan bahasa yang formal dan baku, tapi lebih eloklah misalnya kalau bahasa-bahasa merupakan bahasa formal. Seandainya pun terlalu kaku, Milea bisa memakai padanan kata lain yang lebih enak didengar.&lt;/p&gt;
-
-&lt;p&gt;Secara keseluruhan jalan Cerita yang disajikan cukup menarik dan layak untuk disimak, Romantis dan menyenangkan, sedikit konflik dan dapat diselesaikan diakhir cerita hingga Dilan dan Milea diceritakan resmi berpacaran sebagai penyelesaian konflik besar diakhir cerita. Layaklah Novel ini digandrungi anak mudah yang sedang berkembang dengan cinta yang mereka rasakan di sekolah. Dan harap-harap cemas pada sosok Dilan yang super nakal, jantan, dan berani namun Romantis serta penuh kasih sayang.&lt;/p&gt;
 </content>
 		</entry>
 	
@@ -203,7 +140,7 @@ Akan saya jelaskan nanti&lt;/li&gt;
 &lt;p&gt;Masing-masing course akan memakan waktu 3 hingga 4 minggu dan setiap minggu pelajarannya diharapkan para pelajar yang mengambil course ini dapat meluangkan waktu 4 sampai 5 jam. Jadi bila kita mengambil course ini seperti berasa kuliah lagi. Walaupun ini seperti kuliah dan diajarkan oleh dosen dari Stanford, saya rasa bebannya tidak terlalu berat dibandingkan kuliah-kuliah pada umumnya. Karena selain materinya cukup jelas diterangkan oleh pengajarnya, tugas-tugas serta kuisnya juga cukup mudah. Beberapa tugas coding yang diberikan juga disampaikan dengan panduan yang cukup jelas dan mudah untuk diikuti.&lt;/p&gt;
 
 &lt;div class=&quot;polaroid&quot;&gt;
-	&lt;a href=&quot;&quot;&gt;&lt;img class=&quot;imgpost&quot; src=&quot;/img/deeplearningcoursedashboard.png&quot; alt=&quot;Tampilan dashboard dari Deep Learning Course di Coursera. Materi kuliah yang diberikan cukup jelas dan tidak terlalu membingungkan&quot; /&gt;&lt;/a&gt;
+	&lt;a href=&quot;&quot;&gt;&lt;img class=&quot;imgpost&quot; src=&quot;/img/deeplearningcoursedashboard.png&quot; alt=&quot;Tampilan dashboard dari Deep Learning Course di Coursera. Materi kuliah yang diberikan cukup jelas dan tidak terlalu membingungkan&quot; style=&quot;width: ; height: auto; margin-left: auto; margin-right: auto; display: block;&quot; /&gt;&lt;/a&gt;
 	&lt;div class=&quot;captioncontainer&quot;&gt;
 		&lt;i&gt;Tampilan dashboard dari Deep Learning Course di Coursera. Materi kuliah yang diberikan cukup jelas dan tidak terlalu membingungkan&lt;/i&gt;
 	&lt;/div&gt;
@@ -222,7 +159,7 @@ Akan saya jelaskan nanti&lt;/li&gt;
 &lt;p&gt;Terakhir sebagai penutup, Course ini sangat terkenal dan begitu banyak orang yang mengambilnya. Sehingga terbentuk banyak komunitas baru (diCoursera sendiri terdapat forum diskusi sehingga memungkinkan juga untuk berinteraksi dan berkomunitas dengan pelajar lain) anda dapat bergabung dengan para pelajar dari seluruh dunia yang mengikuti course ini diforum-forum yang tersedia dinternet, Hal menarik lainnya ialah kontribusi dari masing-masing individu untuk kemajuan Course ini. Salah satunya dari &lt;a href=&quot;https://www.slideshare.net/TessFerrandez?utm_campaign=profiletracking&amp;amp;utm_medium=sssite&amp;amp;utm_source=ssslideview&quot;&gt;Tess Ferrandez&lt;/a&gt;, dia membuat catatan yang cukup menarik yang bisa anda akses melalui &lt;a href=&quot;https://www.slideshare.net/TessFerrandez/notes-from-coursera-deep-learning-courses-by-andrew-ng&quot;&gt;slidshare.net&lt;/a&gt;&lt;/p&gt;
 
 &lt;div class=&quot;polaroid&quot;&gt;
-	&lt;a href=&quot;&quot;&gt;&lt;img class=&quot;imgpost&quot; src=&quot;/img/deeplearningnotes.png&quot; alt=&quot;Catatan dari Tess Ferrandez yang cukup menarik.&quot; /&gt;&lt;/a&gt;
+	&lt;a href=&quot;&quot;&gt;&lt;img class=&quot;imgpost&quot; src=&quot;/img/deeplearningnotes.png&quot; alt=&quot;Catatan dari Tess Ferrandez yang cukup menarik.&quot; style=&quot;width: ; height: auto; margin-left: auto; margin-right: auto; display: block;&quot; /&gt;&lt;/a&gt;
 	&lt;div class=&quot;captioncontainer&quot;&gt;
 		&lt;i&gt;Catatan dari Tess Ferrandez yang cukup menarik.&lt;/i&gt;
 	&lt;/div&gt;
@@ -258,7 +195,7 @@ Akan saya jelaskan nanti&lt;/li&gt;
 &lt;p&gt;Minke yang telah banyak mengalami dan melihat sendiri kemajuan ilmu pengetahuan dari sekolahnya, menolak cara-cara lama yang mengharuskannya untuk bertindak sesuai adat-istiadat yang mengekang, tunduk dan hormat-hormatan pada hierarki yang berdasarkan oleh keturunan semisal dalam memperlakukan anak perempuan yang tidak boleh bergaul dan harus tinggal di dapur juga dalam satu bagian digambarkan hubungan Minke dan Ayahnya yang seorang Bupati di kota B sebagai dalam dialog berikut, “Aku mengangkat sembah sebagaimana biasa aku lihat dilakukan punggawa terhadap kakekku dan nenekku dan orangtuaku, waktu lebaran. Dan yang sekarang tak juga kuturunkan sebelum Bupati itu duduk enak ditempatnya. Dalam mengangkat sembah serasa hilang seluruh ilmu dan pengetahuan yang kupelajari tahun demi tahun belakangan ini. Hilang indahnya dunia sebagaimana dijanjikan oleh kemajuan ilmu…. Sembah pengagungan pada leluhur dan pembesar melalui perendahan dan penghinaan diri! Sampai sedatar tanah kalau mungkin! Uh, anak-cucuku tak kurelakan menjalani kehinaan ini.” Pengalaman-pengalaman disekolahnya yang membuatnya tumbuh menjadi pemuda yang merindukan kebebasan dan kemajuan zaman modern. Menjadi orang yang tidak ingin terkekang oleh kebudayaan zamannya, pribumi yang mengagung-agungkan Kebudayaan terhormat Eropa.&lt;/p&gt;
 
 &lt;div class=&quot;polaroid&quot;&gt;
-	&lt;a href=&quot;&quot;&gt;&lt;img class=&quot;imgpost&quot; src=&quot;/img/bumimanusia.jpg&quot; alt=&quot;Cover Buku Pertama dari Tetralogi Pulau Buru yang berjudul Bumi Manusia&quot; /&gt;&lt;/a&gt;
+	&lt;a href=&quot;&quot;&gt;&lt;img class=&quot;imgpost&quot; src=&quot;/img/bumimanusia.jpg&quot; alt=&quot;Cover Buku Pertama dari Tetralogi Pulau Buru yang berjudul Bumi Manusia&quot; style=&quot;width: 34%; height: auto; margin-left: auto; margin-right: auto; display: block;&quot; /&gt;&lt;/a&gt;
 	&lt;div class=&quot;captioncontainer&quot;&gt;
 		&lt;i&gt;Cover Buku Pertama dari Tetralogi Pulau Buru yang berjudul Bumi Manusia&lt;/i&gt;
 	&lt;/div&gt;
@@ -300,7 +237,7 @@ Akan saya jelaskan nanti&lt;/li&gt;
 				<name>Rio Harapan Ps.</name>
 				<email>harapan@arc.itb.ac.id</email>
 			</author>
-			<content type="html">&lt;h3 id=&quot;hallo-dunia&quot;&gt;Hallo Dunia!&lt;/h3&gt;
+			<content type="html">&lt;h3 id=&quot;halo-dunia&quot;&gt;Halo Dunia!&lt;/h3&gt;
 
 &lt;p&gt;Ini merupakan postingan pertamaku. Dimulai 26 April 2017 aku merealisasikan keinginanku untuk membuat blog yang sesuai dengan selera serta dapat dikustomasi sesuai kebutuhan (dan dikoding sendiri tentunya). Sebenarnya sebelum-sebelumnya aku sudah punya beberapa blog yang dihosting dibeberapa platform gratis seperti &lt;a href=&quot;http://docs.harapan.me/&quot;&gt;docs.harapan.me&lt;/a&gt;, &lt;a href=&quot;http://freebsdoc.blogspot.co.id/&quot;&gt;freebsdoc.blogspot.com&lt;/a&gt; yang merupakan blog dengan isi yang cukup teknis, lalu ada &lt;a href=&quot;http://notes.rioharapan.com&quot;&gt;notes.rioharapan.com&lt;/a&gt; kebanyakan berisi artikel-artikel sederhana yang tujuannya dulu untuk belajar adsense dan beberapa blog yang dihosting diwordpress namun sayangnya belum sempat dibackup sebelum servernya koid.&lt;/p&gt;
 

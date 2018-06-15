@@ -421,11 +421,14 @@ byline {
   box-shadow: 5px 5px 10px 0 rgba(0, 0, 0, 0.2), 0 12px 25px 0 rgba(0, 0, 0, 0.19);
   margin-bottom: 25px;
   border-radius: 10px;
+  background: #f3f3f3;
 }
 
 .captioncontainer {
   text-align: center;
   padding: 10px 20px;
+  background: #ffffff;
+  border-radius: 10px;
 }
 
 .imgpost {
@@ -434,8 +437,6 @@ byline {
     width: auto;
     border-radius: 10px;
 }
-
-
 
 
 .blog_index {
