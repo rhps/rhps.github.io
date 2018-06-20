@@ -573,3 +573,21 @@ byline {
   text-decoration: underline;
   font-weight: bold;
 }
+
+@font-face {
+  font-family: Playlist Script;
+  src: url('./Playlist Script.otf'); 
+}
+
+.comingsoon {
+  font-family: Playlist Script;
+  font-size: 100px;
+  color: #428bca;
+  line-height: 1.1;
+  text-align: center;
+}
+
+.fontplaylist {
+  font-family: Playlist Script;
+  font-size: 30px;
+}
