@@ -48,37 +48,12 @@
 	<title>Rio Harapans Ps Blog</title>
 	<link href="http://rhps.github.io/blog/atom.xml" rel="self"/>
 	<link href="http://rhps.github.io/blog"/>
-	<updated>2018-06-26T19:31:08+07:00</updated>
+	<updated>2018-07-15T20:08:11+07:00</updated>
 	<id>http://rhps.github.io/blog</id>
 	<author>
 		<name>Rio Harapan Ps.</name>
 		<email>harapan@arc.itb.ac.id</email>
 	</author>
-	
-		<entry>
-			<id>http://rhps.github.io/blog/courseone</id>
-			<link type="text/html" rel="alternate" href="http://rhps.github.io/blog/courseone" />
-			<title>Course 1: Neural Networks & Deep Learning</title>
-			<updated>2018-06-17T00:00:00+07:00</updated>
-			<author>
-				<name>Rio Harapan Ps.</name>
-				<email>harapan@arc.itb.ac.id</email>
-			</author>
-			<content type="html">&lt;blockquote&gt;
-  &lt;p&gt;Tulisan ini merupakan lanjutan dari Tulisan sebelumnya yang berjudul &lt;a href=&quot;/blog/deeplearningcourse&quot;&gt;deeplearning.ai Course&lt;/a&gt;. Pada tulisan ini akan dibahas secara singkat mengenai Course pertama dan bagian paling dasar dari &lt;a href=&quot;https://www.coursera.org/specializations/deep-learning&quot;&gt;Deep Learning Specialization diCoursera&lt;/a&gt;.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.coursera.org/learn/neural-networks-deep-learning&quot;&gt;Course 1 Neural Networks and Deep Learning&lt;/a&gt; merupakan course pertama dan pembuka serta menjadi dasar pengetahuan dari keseluruhan Specialization Course ini. Jadi saya rasa Course ini sangat-sangat penting untuk dipahami dan benar-benar didalami.&lt;/p&gt;
-
-&lt;p&gt;Secara garis besar (kalau bisa saya simpulkan) Course ini berisi ide dasar dari Deep Learning, kita akan banyak mempelajari mengenai basic-basic Neural Network (yang kemudian nanti berkembang menjadi Neural Network yang lebih kompleks yang disebut Deep Learning). Hal basic mengenenai Neural Network tersebut meliputi pengenalan banyak hal baru (bagi kita yang belum pernah bersentuhan dengan Neural Network secara langsung) seperti Input Layer, Hidden Layer, Output Layer, Sigmoid Function, Activation Functions, Logistic Regression, Hyperparameters dan lain sebagainya. Namun jangan takut walaupun mungkin sekarang itu akan terasa sangat asing, namun setelah menyelesaikan Course ini kita akan terbiasa dan hingga nanti pada Course selanjutnya mungkin konsep-konsep dan definisi tersebut telah kita pahami luar kepala.&lt;/p&gt;
-
-&lt;p&gt;Diminggu pertama ini, berfokus kepada pengenalan Deep Learning dan Neural Network itu sendiri, yah seperti kuliah Introduction diawal-awal kelas semester baru diperkuliahanlah. Perkenalan singkat mengenai topik yang akan dipelajari, perkembangan terbaru, aplikasi dan lain sebagainya. Diakhir minggu pertama, akan ditutup dengan review materi dan Quiz serta Interview dengan &lt;a href=&quot;https://en.wikipedia.org/wiki/Geoffrey_Hinton&quot;&gt;Geoffrey Hinton&lt;/a&gt;.&lt;/p&gt;
-
-&lt;!-- ad --&gt;
-
-&lt;p&gt;&lt;b&gt;to be continued…&lt;/b&gt;&lt;/p&gt;
-</content>
-		</entry>
 	
 		<entry>
 			<id>http://rhps.github.io/five-day-data-challenges-kaggle</id>
@@ -100,6 +75,31 @@
 &lt;p&gt;Saya bergabung di Kaggle sudah sejak tahun 2015, namun selama beberapa tahun awal, saya tidak begitu aktif karena ilmu yang saya miliki masih sangat cetek. Hingga belakangan ini sejak persoalan Data Science menjadi hype, saya mencoba kembali aktif dan serius untuk belajar Data Science tersebut.&lt;/p&gt;
 
 &lt;p&gt;Minggu lalu&lt;/p&gt;
+</content>
+		</entry>
+	
+		<entry>
+			<id>http://rhps.github.io/blog/courseone</id>
+			<link type="text/html" rel="alternate" href="http://rhps.github.io/blog/courseone" />
+			<title>Course 1: Neural Networks & Deep Learning</title>
+			<updated>2018-01-17T00:00:00+07:00</updated>
+			<author>
+				<name>Rio Harapan Ps.</name>
+				<email>harapan@arc.itb.ac.id</email>
+			</author>
+			<content type="html">&lt;blockquote&gt;
+  &lt;p&gt;Tulisan ini merupakan lanjutan dari Tulisan sebelumnya yang berjudul &lt;a href=&quot;/blog/deeplearningcourse&quot;&gt;deeplearning.ai Course&lt;/a&gt;. Pada tulisan ini akan dibahas secara singkat mengenai Course pertama dan bagian paling dasar dari &lt;a href=&quot;https://www.coursera.org/specializations/deep-learning&quot;&gt;Deep Learning Specialization diCoursera&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.coursera.org/learn/neural-networks-deep-learning&quot;&gt;Course 1 Neural Networks and Deep Learning&lt;/a&gt; merupakan course pertama dan pembuka serta menjadi dasar pengetahuan dari keseluruhan Specialization Course ini. Jadi saya rasa Course ini sangat-sangat penting untuk dipahami dan benar-benar didalami.&lt;/p&gt;
+
+&lt;p&gt;Secara garis besar (kalau bisa saya simpulkan) Course ini berisi ide dasar dari Deep Learning, kita akan banyak mempelajari mengenai basic-basic Neural Network (yang kemudian nanti berkembang menjadi Neural Network yang lebih kompleks yang disebut Deep Learning). Hal basic mengenenai Neural Network tersebut meliputi pengenalan banyak hal baru (bagi kita yang belum pernah bersentuhan dengan Neural Network secara langsung) seperti Input Layer, Hidden Layer, Output Layer, Sigmoid Function, Activation Functions, Logistic Regression, Hyperparameters dan lain sebagainya. Namun jangan takut walaupun mungkin sekarang itu akan terasa sangat asing, namun setelah menyelesaikan Course ini kita akan terbiasa dan hingga nanti pada Course selanjutnya mungkin konsep-konsep dan definisi tersebut telah kita pahami luar kepala.&lt;/p&gt;
+
+&lt;p&gt;Diminggu pertama ini, berfokus kepada pengenalan Deep Learning dan Neural Network itu sendiri, yah seperti kuliah Introduction diawal-awal kelas semester baru diperkuliahanlah. Perkenalan singkat mengenai topik yang akan dipelajari, perkembangan terbaru, aplikasi dan lain sebagainya. Diakhir minggu pertama, akan ditutup dengan review materi dan Quiz serta Interview dengan &lt;a href=&quot;https://en.wikipedia.org/wiki/Geoffrey_Hinton&quot;&gt;Geoffrey Hinton&lt;/a&gt;.&lt;/p&gt;
+
+&lt;!-- ad --&gt;
+
+&lt;p&gt;&lt;b&gt;to be continued…&lt;/b&gt;&lt;/p&gt;
 </content>
 		</entry>
 	

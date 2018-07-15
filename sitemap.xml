@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
     <url>
-        <loc>http://rhps.github.io/blog/courseone</loc>
+        <loc>http://rhps.github.io/five-day-data-challenges-kaggle</loc>
     </url>
     
     <url>
-        <loc>http://rhps.github.io/five-day-data-challenges-kaggle</loc>
+        <loc>http://rhps.github.io/blog/courseone</loc>
     </url>
     
     <url>
@@ -135,6 +135,14 @@
     
     <url>
         <loc>http://rhps.github.io/index4</loc>
+    </url>
+    
+    
+    
+    
+    
+    <url>
+        <loc>http://rhps.github.io/index5</loc>
     </url>
     
     

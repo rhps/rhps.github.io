@@ -120,10 +120,11 @@ ul.posts li {
 
 .post-title {
     text-decoration: none;
-    color: #428BCA;
+    color: rgb(84, 84, 86);
     text-align: center;
     font-size: 3.4rem;
     margin-bottom: 0;
+    margin-top: -0.7em;
     line-height: 1.5em;
 }
 
@@ -138,20 +139,26 @@ byline {
 
 .post {
     margin-bottom: 1.5em;
+    margin-top: -1.5em;
     padding-bottom: 5px;
     border-bottom: 1px solid #999;
     border-bottom-width: 1px;
     border-bottom-style: solid;
     border-bottom-color: rgb(153, 153, 153);
-    border-top: 1px solid #999;
-    border-top-width: 1px;
-    border-top-style: solid;
-    border-top-color: rgb(153, 153, 153);
 }
 
 .post_index {
     margin-bottom: 1.5em;
     padding-bottom: 10px;
+}
+
+.headline {
+  color: rgba(0,0,0,.42);
+  font-size: 1.42em;
+  font-weight: 410;
+  border-left: 3px solid rgba(0,0,0,.08);
+  padding-left: 10px;
+  margin-top: 50px;
 }
 
 /* animations */ 
@@ -590,4 +597,48 @@ byline {
 .fontplaylist {
   font-family: Playlist Script;
   font-size: 30px;
+}
+
+#wrapper {
+  padding: 0 0 0 0;
+  max-width: 100%;
+  margin: 0 0 0 0;
+}
+
+#post-list {
+  list-style-type: none;
+  list-style: none;
+  margin-top: 0;
+  margin-bottom: 10px;
+  margin-left: -30px;
+}
+
+#post-list a {
+    color: #428bca;
+    display: block;
+    font: 700 16px/1.7 "Helvetica Neue",helvetica,Arial,sans-serif;
+}
+
+#post-list a:hover {
+    text-decoration: none;
+    color: rgb(84, 84, 86);
+}
+
+#post-list .dates{
+  float:right;
+  position:relative;
+  top:1px;
+  font:300 14px/1.8 "Helvetica Neue",helvetica,Arial,sans-serif;
+  color:#bbb
+}
+
+#post-list h2 {
+  font: 400 14px/1.5em "Helvetica Neue",Helvetica,Arial,sans-serif;
+  color: #aaa;
+  max-width: 400px;
+  margin-top: 1px;
+}
+
+#post-list .title{
+  max-width: 80%;
 }
