@@ -3,14 +3,16 @@
 # # # # # # # # # # # # #
 
 # Basic
-name:               "ubirmanz"
-
+name:               "rio@harapan.me"
+title:               "rio@harapan.me"
+# Old configuration require name, which is has been depreceated.
+# Added new configuration with title.
 author:
 #  facebook:         your-id
 #  youtubeUser:      your-id
 #  youtubeChannel:   your-id
 #  twitter:          your-id
-#  github:           your-id
+  github:           rhps
 #  stackoverflow:    your-id
 #  quora:            your-id
 #  linkedin:         your-id
@@ -23,7 +25,7 @@ author:
 #  email:            rioharapan@gmail.com
 
 copyright:
-  year:             2017
+  year:             2018
   name:             Rio Harapan Ps
 
 # Google-analytics
@@ -35,7 +37,7 @@ disqus:
   id:               "harapans"
 
 # URL
-url:                "https://rhps.github.io" # the base hostname & protocol for your site
+url:                "https://www.harapan.me" # the base hostname & protocol for your site
 # url:                "http://localhost:4000" # use this url when you develop
 baseurl:            "" # the subpath of your site, e.g. /blog
 
@@ -59,8 +61,12 @@ nav:
     url:            "/about"
   - name:           "Archive"
     url:            "/archive"
-  - name:           "Github"
-    url:            "https://github.com/AWEEKJ/Kiko-plus"
+  - name:           "CV"
+    url:            "/cv"
+#  - name:           "Github"
+#    url:            "https://github.com/AWEEKJ/Kiko-plus"
+  - name:           "Projects"
+    url:            "/projects"
   - name:           "blog"
     url:            "/blog"
 
@@ -85,7 +91,7 @@ defaults:
       layout:       "post"
 
 # jekyll-seo-tag, see: http://www.rubydoc.info/gems/jekyll-seo-tag/1.2.0
-gems:
+plugins:
   - jekyll-seo-tag
   - jekyll-paginate
   - jekyll-admin
