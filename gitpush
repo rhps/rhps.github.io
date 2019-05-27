@@ -23,6 +23,7 @@ if [[ $1 == "" ]]; then
 	echo "Give Commit Comments"
 	echo -e "\033[37mUsing : ./gitpush \"Commit Commentar\"\033[0m"
 else
+	bundle exec jekyll build site.url
 	commit "$1"
 	echo -e "\033[37mAll push for Production and Developemt Repository already up-to-date\033[0m"
 fi
