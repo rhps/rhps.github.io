@@ -135,5 +135,6 @@ This theme is released under MIT License.
 
 ```
 $ bundle install
-$ bundl exec jekyll serve
+$ bundle exec jekyll serve
+$ bundle exec jekyll build site.url
 ```
