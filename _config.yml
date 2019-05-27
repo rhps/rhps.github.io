@@ -3,8 +3,8 @@
 # # # # # # # # # # # # #
 
 # Basic
-name:               "rio@harapan.me"
-title:               "rio@harapan.me"
+name:               "archiavelli"
+title:               "archiavelli"
 # Old configuration require name, which is has been depreceated.
 # Added new configuration with title.
 author:
@@ -37,7 +37,7 @@ disqus:
   id:               "harapans"
 
 # URL
-url:                "https://www.harapan.me" # the base hostname & protocol for your site
+url:                https://www.harapan.me # the base hostname & protocol for your site
 # url:                "http://localhost:4000" # use this url when you develop
 baseurl:            "" # the subpath of your site, e.g. /blog
 
