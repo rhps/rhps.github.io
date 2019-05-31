@@ -6,493 +6,62 @@
     <atom:link href="https://www.harapan.me/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
-        <title>한글 문서 스타일 샘플</title>
-        <description>&lt;p&gt;이 글은 스타일을 모아둔 것입니다. 소스 코드를 확인하여 스타일을 적용하는 방법을 알아보세요.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;1-제목&quot;&gt;1. 제목&lt;/h2&gt;
-
-&lt;h1 id=&quot;제목-1&quot;&gt;제목 1&lt;/h1&gt;
-
-&lt;h2 id=&quot;제목-2&quot;&gt;제목 2&lt;/h2&gt;
-
-&lt;h3 id=&quot;제목-3&quot;&gt;제목 3&lt;/h3&gt;
-
-&lt;h4 id=&quot;제목-4&quot;&gt;제목 4&lt;/h4&gt;
-
-&lt;h5 id=&quot;제목-5&quot;&gt;제목 5&lt;/h5&gt;
-
-&lt;h6 id=&quot;제목-6&quot;&gt;제목 6&lt;/h6&gt;
-
-&lt;h3 id=&quot;1-1-제목-정렬&quot;&gt;1-1. 제목 정렬&lt;/h3&gt;
-
-&lt;h5 id=&quot;왼쪽기본&quot;&gt;왼쪽(기본)&lt;/h5&gt;
-
-&lt;h5 class=&quot;center&quot; id=&quot;가운데&quot;&gt;가운데&lt;/h5&gt;
-
-&lt;h5 class=&quot;right&quot; id=&quot;오른쪽&quot;&gt;오른쪽&lt;/h5&gt;
-
-&lt;h2 id=&quot;2-본문&quot;&gt;2. 본문&lt;/h2&gt;
-
-&lt;p&gt;탄핵소추의 의결을 받은 자는 탄핵심판이 있을 때까지 &lt;a href=&quot;#&quot;&gt;링크&lt;/a&gt; 그 권한행사가 정지된다. 제2항과 제3항의 처분에 대하여는 &lt;strong&gt;굵게&lt;/strong&gt; 법원에 제소할 수 없다. 선거와 국민투표의 공정한 관리 &lt;em&gt;기울임&lt;/em&gt; 및 정당에 관한 사무를 처리하기 위하여 5&lt;sup&gt;3&lt;/sup&gt; = 125 선거관리위원회를 둔다. 국무총리는 대통령을 보좌하며, H&lt;sub&gt;2&lt;/sub&gt;O 행정에 관하여 대통령의 명을 받아 행정각부를 통할한다. 정당은 법률이 정하는 바에 의하여 &lt;u&gt;밑줄&lt;/u&gt; 국가의 보호를 받으며, 국가는 법률이 정하는 바에 의하여 &lt;code class=&quot;highlighter-rouge&quot;&gt;파일명&lt;/code&gt; 정당운영에 필요한 자금을 보조할 수 있다. 모든 국민은 종교의 자유를 가진다. 국회의원은 법률이 정하는 직을 겸할 수 없다. 감사원은 &lt;del&gt;가운데 줄&lt;/del&gt; 세입·세출의 결산을 매년 검사하여 대통령과 차년도국회에 &lt;mark&gt;형광펜&lt;/mark&gt; 그 결과를 보고하여야 한다.&lt;/p&gt;
-
-&lt;h2 id=&quot;3-이미지&quot;&gt;3. 이미지&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://placehold.it/800x400&quot; alt=&quot;큰 이미지&quot; /&gt;
-&lt;img src=&quot;http://placehold.it/400x200&quot; alt=&quot;중간 이미지&quot; /&gt;
-&lt;img src=&quot;http://placehold.it/200x200&quot; alt=&quot;작은 이미지&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;3-1-이미지-가운데-정렬&quot;&gt;3-1. 이미지 가운데 정렬&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;http://placehold.it/200x200&quot; alt=&quot;이미지 가운데 정렬&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;4-인용구&quot;&gt;4. 인용구&lt;/h2&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;나는 헌법을 준수하고 국가를 보위하며 조국의 평화적 통일과 국민의 자유와 복리의 증진 및 민족문화의 창달에 노력하여 대통령으로서의 직책을 성실히 수행할 것을 국민 앞에 엄숙히 선서합니다. 모든 국민은 통신의 비밀을 침해받지 아니한다. 국회의원은 법률이 정하는 직을 겸할 수 없다. 국회는 헌법 또는 법률에 특별한 규정이 없는 한 재적의원 과반수의 출석과 출석의원 과반수의 찬성으로 의결한다. 가부동수인 때에는 부결된 것으로 본다.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&quot;5-리스트&quot;&gt;5. 리스트&lt;/h2&gt;
-
-&lt;h3 id=&quot;순서가-없는-리스트&quot;&gt;순서가 없는 리스트&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;국가원로자문회의의 조직·직무범위 기타 필요한 사항은 법률로 정한다.&lt;/li&gt;
-  &lt;li&gt;모든 국민은 법률이 정하는 바에 의하여 국방의 의무를 진다.&lt;/li&gt;
-  &lt;li&gt;탄핵소추의 의결을 받은 자는 탄핵심판이 있을 때까지 그 권한행사가 정지된다.
-    &lt;ol&gt;
-      &lt;li&gt;국회는 의원의 자격을 심사하며, 의원을 징계할 수 있다. 국가는 모성의 보호를 위하여 노력하여야 한다.&lt;/li&gt;
-      &lt;li&gt;공개하지 아니한 회의내용의 공표에 관하여는 법률이 정하는 바에 의한다.&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;국회는 의장 1인과 부의장 2인을 선출한다. 정부는 회계연도마다 예산안을 편성하여 회계연도 개시 90일전까지 국회에 제출하고, 국회는 회계연도 개시 30일전까지 이를 의결하여야 한다.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;순서가-있는-리스트&quot;&gt;순서가 있는 리스트&lt;/h3&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;대통령으로 선거될 수 있는 자는 국회의원의 피선거권이 있고 선거일 현재 40세에 달하여야 한다.&lt;/li&gt;
-  &lt;li&gt;각급 선거관리위원회는 선거인명부의 작성등 선거사무와 국민투표사무에 관하여 관계 행정기관에 필요한 지시를 할 수 있다.&lt;/li&gt;
-  &lt;li&gt;예비비는 총액으로 국회의 의결을 얻어야 한다. 예비비의 지출은 차기국회의 승인을 얻어야 한다.
-    &lt;ul&gt;
-      &lt;li&gt;국가는 농지에 관하여 경자유전의 원칙이 달성될 수 있도록 노력하여야 하며, 농지의 소작제도는 금지된다.&lt;/li&gt;
-      &lt;li&gt;모든 국민은 법률이 정하는 바에 의하여 납세의 의무를 진다.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;형사피의자 또는 형사피고인으로서 구금되었던 자가 법률이 정하는 불기소처분을 받거나 무죄판결을 받은 때에는 법률이 정하는 바에 의하여 국가에 정당한 보상을 청구할 수 있다.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&quot;정의-리스트&quot;&gt;정의 리스트&lt;/h3&gt;
-
-&lt;dl&gt;
-  &lt;dt&gt;대통령은 제3항과 제4&lt;/dt&gt;
-  &lt;dd&gt;국회의원은 그 지위를 남용하여 국가·공공단체 또는 기업체와의 계약이나 그 처분에 의하여 재산상의 권리·이익 또는 직위를 취득하거나 타인을 위하여 그 취득을 알선할 수 없다.&lt;/dd&gt;
-  &lt;dt&gt;체포·구속·압수 또&lt;/dt&gt;
-  &lt;dd&gt;헌법개정안은 국회가 의결한 후 30일 이내에 국민투표에 붙여 국회의원선거권자 과반수의 투표와 투표자 과반수의 찬성을 얻어야 한다.&lt;/dd&gt;
-&lt;/dl&gt;
-
-&lt;h2 id=&quot;6-표&quot;&gt;6. 표&lt;/h2&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt;상단1&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;상단2&lt;/th&gt;
-      &lt;th style=&quot;text-align: right&quot;&gt;상단3&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;셀1&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;셀2&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;셀3&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;셀4&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;셀5&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;셀6&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;셀1&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;셀2&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;셀3&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;셀4&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;셀5&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;셀6&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-  &lt;tfoot&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;하단1&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;하단2&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;하단3&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tfoot&gt;
-&lt;/table&gt;
-
-&lt;h2 id=&quot;7-코드-스타일&quot;&gt;7. 코드 스타일&lt;/h2&gt;
-
-&lt;h3 id=&quot;코드-하이라이팅&quot;&gt;코드 하이라이팅&lt;/h3&gt;
-
-&lt;div class=&quot;language-css highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nf&quot;&gt;#container&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;nl&quot;&gt;float&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;left&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-  &lt;span class=&quot;nl&quot;&gt;margin&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;-240px&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-  &lt;span class=&quot;nl&quot;&gt;width&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;100%&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h3 id=&quot;일반적인-코드&quot;&gt;일반적인 코드&lt;/h3&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;div id=&quot;awesome&quot;&amp;gt;
-  &amp;lt;p&amp;gt;This is great isn't it?&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;이 문서는 &lt;a href=&quot;http://guny.kr/stuff/klorem/&quot;&gt;한글 Lorem Ipsum&lt;/a&gt;으로 생성되었습니다.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 19 Jan 2017 00:00:00 +0700</pubDate>
-        <link>https://www.harapan.me/blog/style-test-ko/</link>
-        <guid isPermaLink="true">https://www.harapan.me/blog/style-test-ko/</guid>
-      </item>
-    
-      <item>
-        <title>한글 문서 가독성 테스트</title>
-        <description>&lt;p&gt;정당의 목적이나 활동이 민주적 기본질서에 위배될 때에는 정부는 헌법재판소에 그 해산을 제소할 수 있고, 정당은 헌법재판소의 심판에 의하여 해산된다. 모든 국민은 고문을 받지 아니하며, 형사상 자기에게 불리한 진술을 강요당하지 아니한다. 새로운 회계연도가 개시될 때까지 예산안이 의결되지 못한 때에는 정부는 국회에서 예산안이 의결될 때까지 다음의 목적을 위한 경비는 전년도 예산에 준하여 집행할 수 있다.&lt;/p&gt;
-
-&lt;p&gt;외국인은 국제법과 조약이 정하는 바에 의하여 그 지위가 보장된다. 헌법개정안은 국회가 의결한 후 30일 이내에 국민투표에 붙여 국회의원선거권자 과반수의 투표와 투표자 과반수의 찬성을 얻어야 한다. 대통령은 국가의 독립·영토의 보전·국가의 계속성과 헌법을 수호할 책무를 진다. 국회는 정부의 동의없이 정부가 제출한 지출예산 각항의 금액을 증가하거나 새 비목을 설치할 수 없다.&lt;/p&gt;
-
-&lt;h1 id=&quot;대통령은-법률안의-일&quot;&gt;대통령은 법률안의 일&lt;/h1&gt;
-
-&lt;p&gt;대통령은 필요하다고 인정할 때에는 외교·국방·통일 기타 국가안위에 관한 중요정책을 국민투표에 붙일 수 있다. 한 회계연도를 넘어 계속하여 지출할 필요가 있을 때에는 정부는 연한을 정하여 계속비로서 국회의 의결을 얻어야 한다. 제3항의 승인을 얻지 못한 때에는 그 처분 또는 명령은 그때부터 효력을 상실한다. 이 경우 그 명령에 의하여 개정 또는 폐지되었던 법률은 그 명령이 승인을 얻지 못한 때부터 당연히 효력을 회복한다.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;국무회의는 대통령·국무총리와 15인 이상 30인 이하의 국무위원으로 구성한다. 대통령은 국무총리·국무위원·행정각부의 장 기타 법률이 정하는 공사의 직을 겸할 수 없다.&lt;/li&gt;
-  &lt;li&gt;나는 헌법을 준수하고 국가를 보위하며 조국의 평화적 통일과 국민의 자유와 복리의 증진 및 민족문화의 창달에 노력하여 대통령으로서의 직책을 성실히 수행할 것을 국민 앞에 엄숙히 선서합니다.&lt;/li&gt;
-  &lt;li&gt;정당은 법률이 정하는 바에 의하여 국가의 보호를 받으며, 국가는 법률이 정하는 바에 의하여 정당운영에 필요한 자금을 보조할 수 있다. 이 헌법공포 당시의 국회의원의 임기는 제1항에 의한 국회의 최초의 집회일 전일까지로 한다.&lt;/li&gt;
-  &lt;li&gt;모든 국민의 재산권은 보장된다. 그 내용과 한계는 법률로 정한다. 감사원은 원장을 포함한 5인 이상 11인 이하의 감사위원으로 구성한다. 모든 국민은 고문을 받지 아니하며, 형사상 자기에게 불리한 진술을 강요당하지 아니한다.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;국회의원은-국가이익&quot;&gt;국회의원은 국가이익&lt;/h2&gt;
-&lt;p&gt;체포·구속·압수 또는 수색을 할 때에는 적법한 절차에 따라 검사의 신청에 의하여 법관이 발부한 영장을 제시하여야 한다. 다만, 현행범인인 경우와 장기 3년 이상의 형에 해당하는 죄를 범하고 도피 또는 증거인멸의 염려가 있을 때에는 사후에 영장을 청구할 수 있다. 모든 국민은 소급입법에 의하여 참정권의 제한을 받거나 재산권을 박탈당하지 아니한다. 감사원은 원장을 포함한 5인 이상 11인 이하의 감사위원으로 구성한다. 군인 또는 군무원이 아닌 국민은 대한민국의 영역안에서는 중대한 군사상 기밀·초병·초소·유독음식물공급·포로·군용물에 관한 죄중 법률이 정한 경우와 비상계엄이 선포된 경우를 제외하고는 군사법원의 재판을 받지 아니한다.&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;대통령은 전시·사변 또는 이에 준하는 국가비상사태에 있어서 병력으로써 군사상의 필요에 응하거나 공공의 안녕질서를 유지할 필요가 있을 때에는 법률이 정하는 바에 의하여 계엄을 선포할 수 있다.&lt;/li&gt;
-  &lt;li&gt;대통령은 국민의 보통·평등·직접·비밀선거에 의하여 선출한다. 대통령은 국무회의의 의장이 되고, 국무총리는 부의장이 된다. 대통령은 국가의 독립·영토의 보전·국가의 계속성과 헌법을 수호할 책무를 진다.&lt;/li&gt;
-  &lt;li&gt;국민경제의 발전을 위한 중요정책의 수립에 관하여 대통령의 자문에 응하기 위하여 국민경제자문회의를 둘 수 있다. 대법원과 각급법원의 조직은 법률로 정한다.&lt;/li&gt;
-  &lt;li&gt;모든 국민은 근로의 의무를 진다. 국가는 근로의 의무의 내용과 조건을 민주주의원칙에 따라 법률로 정한다. 국가는 건전한 소비행위를 계도하고 생산품의 품질향상을 촉구하기 위한 소비자보호운동을 법률이 정하는 바에 의하여 보장한다.&lt;/li&gt;
-  &lt;li&gt;국민경제자문회의의 조직·직무범위 기타 필요한 사항은 법률로 정한다. 법관은 헌법과 법률에 의하여 그 양심에 따라 독립하여 심판한다. 누구든지 체포 또는 구속의 이유와 변호인의 조력을 받을 권리가 있음을 고지받지 아니하고는 체포 또는 구속을 당하지 아니한다. 체포 또는 구속을 당한 자의 가족등 법률이 정하는 자에게는 그 이유와 일시·장소가 지체없이 통지되어야 한다.&lt;/li&gt;
-  &lt;li&gt;국가는 재해를 예방하고 그 위험으로부터 국민을 보호하기 위하여 노력하여야 한다. 법률안에 이의가 있을 때에는 대통령은 제1항의 기간내에 이의서를 붙여 국회로 환부하고, 그 재의를 요구할 수 있다. 국회의 폐회중에도 또한 같다.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&quot;헌법재판소에서-법률&quot;&gt;헌법재판소에서 법률&lt;/h3&gt;
-
-&lt;p&gt;대한민국은 민주공화국이다. 국민경제의 발전을 위한 중요정책의 수립에 관하여 대통령의 자문에 응하기 위하여 국민경제자문회의를 둘 수 있다. 모든 국민의 재산권은 보장된다. 그 내용과 한계는 법률로 정한다. 모든 국민은 신속한 재판을 받을 권리를 가진다. 형사피고인은 상당한 이유가 없는 한 지체없이 공개재판을 받을 권리를 가진다. 대법원장은 국회의 동의를 얻어 대통령이 임명한다. 대통령은 국민의 보통·평등·직접·비밀선거에 의하여 선출한다. 정당의 목적이나 활동이 민주적 기본질서에 위배될 때에는 정부는 헌법재판소에 그 해산을 제소할 수 있고, 정당은 헌법재판소의 심판에 의하여 해산된다.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;국가는 모성의 보호를 위하여 노력하여야 한다. 모든 국민은 학문과 예술의 자유를 가진다. 국가는 건전한 소비행위를 계도하고 생산품의 품질향상을 촉구하기 위한 소비자보호운동을 법률이 정하는 바에 의하여 보장한다. 국무위원은 국무총리의 제청으로 대통령이 임명한다. 국회의원은 법률이 정하는 직을 겸할 수 없다.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h4 id=&quot;선거운동은-각급-선거&quot;&gt;선거운동은 각급 선거&lt;/h4&gt;
-
-&lt;p&gt;대통령은 헌법과 법률이 정하는 바에 의하여 공무원을 임면한다. 군사법원의 조직·권한 및 재판관의 자격은 법률로 정한다. 국가는 사회보장·사회복지의 증진에 노력할 의무를 진다. 모든 국민은 학문과 예술의 자유를 가진다. 국가는 과학기술의 혁신과 정보 및 인력의 개발을 통하여 국민경제의 발전에 노력하여야 한다. 모든 국민은 신체의 자유를 가진다. 누구든지 법률에 의하지 아니하고는 체포·구속·압수·수색 또는 심문을 받지 아니하며, 법률과 적법한 절차에 의하지 아니하고는 처벌·보안처분 또는 강제노역을 받지 아니한다. 학교교육 및 평생교육을 포함한 교육제도와 그 운영, 교육재정 및 교원의 지위에 관한 기본적인 사항은 법률로 정한다.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;이 문서는 &lt;a href=&quot;http://guny.kr/stuff/klorem/&quot;&gt;한글 Lorem Ipsum&lt;/a&gt;으로 생성되었습니다.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 19 Jan 2017 00:00:00 +0700</pubDate>
-        <link>https://www.harapan.me/blog/readability-post-ko/</link>
-        <guid isPermaLink="true">https://www.harapan.me/blog/readability-post-ko/</guid>
-      </item>
-    
-      <item>
-        <title>A Full and Comprehensive Style Test</title>
-        <description>&lt;p&gt;Below is just about everything you’ll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;1-header&quot;&gt;1. Header&lt;/h2&gt;
-
-&lt;h1 id=&quot;header-1&quot;&gt;Header 1&lt;/h1&gt;
-
-&lt;h2 id=&quot;header-2&quot;&gt;Header 2&lt;/h2&gt;
-
-&lt;h3 id=&quot;header-3&quot;&gt;Header 3&lt;/h3&gt;
-
-&lt;h4 id=&quot;header-4&quot;&gt;Header 4&lt;/h4&gt;
-
-&lt;h5 id=&quot;header-5&quot;&gt;Header 5&lt;/h5&gt;
-
-&lt;h6 id=&quot;header-6&quot;&gt;Header 6&lt;/h6&gt;
-
-&lt;h3 id=&quot;1-1-header-alignment&quot;&gt;1-1. Header Alignment&lt;/h3&gt;
-
-&lt;h5 id=&quot;leftdefault&quot;&gt;Left(Default)&lt;/h5&gt;
-
-&lt;h5 class=&quot;center&quot; id=&quot;center&quot;&gt;Center&lt;/h5&gt;
-
-&lt;h5 class=&quot;right&quot; id=&quot;right&quot;&gt;Right&lt;/h5&gt;
-
-&lt;h2 id=&quot;2-body-text&quot;&gt;2. Body Text&lt;/h2&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, &lt;a href=&quot;#&quot;&gt;test link&lt;/a&gt; adipiscing elit. &lt;strong&gt;This is strong.&lt;/strong&gt; Nullam dignissim convallis est. Quisque aliquam. &lt;em&gt;This is emphasized.&lt;/em&gt; Donec faucibus. Nunc iaculis suscipit dui. 5&lt;sup&gt;3&lt;/sup&gt; = 125. Water is H&lt;sub&gt;2&lt;/sub&gt;O. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. &lt;u&gt;Underline&lt;/u&gt;. Maecenas ornare tortor. Donec sed tellus eget &lt;code class=&quot;highlighter-rouge&quot;&gt;COPY filename&lt;/code&gt; sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, &lt;del&gt;Dinner’s at 5:00.&lt;/del&gt; commodo vitae, feugiat in, nunc. Morbi imperdiet augue &lt;mark&gt;mark element&lt;/mark&gt; quis tellus.&lt;/p&gt;
-
-&lt;h2 id=&quot;3-images&quot;&gt;3. Images&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://placehold.it/800x400&quot; alt=&quot;Large example image&quot; title=&quot;Large example image&quot; /&gt;
-&lt;img src=&quot;http://placehold.it/400x200&quot; alt=&quot;Medium example image&quot; title=&quot;Medium example image&quot; /&gt;
-&lt;img src=&quot;http://placehold.it/200x200&quot; alt=&quot;Small example image&quot; title=&quot;Small example image&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;3-1-image-alignment&quot;&gt;3-1. Image Alignment&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;http://placehold.it/200x200&quot; alt=&quot;Center example image&quot; title=&quot;Center&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;4-blockquotes&quot;&gt;4. Blockquotes&lt;/h2&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Lorem ipsum dolor sit amet, test link adipiscing elit. Nullam dignissim convallis est. Quisque aliquam.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&quot;5-list-types&quot;&gt;5. List Types&lt;/h2&gt;
-
-&lt;h3 id=&quot;unordered-list&quot;&gt;Unordered List&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/li&gt;
-  &lt;li&gt;Nam ultrices nunc in nisi pellentesque ultricies. Cras scelerisque ipsum in ante laoreet viverra. Pellentesque eget quam et augue molestie tincidunt ac ut ex. Sed quis velit vulputate, rutrum nisl sit amet, molestie neque. Vivamus sed augue at turpis suscipit fringilla.&lt;/li&gt;
-  &lt;li&gt;Integer pretium nisl vitae justo aliquam, at varius nisi blandit.
-    &lt;ol&gt;
-      &lt;li&gt;Nunc vehicula nulla ac odio gravida vestibulum sed nec mauris.&lt;/li&gt;
-      &lt;li&gt;Duis at diam eget arcu dapibus consequat.&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Etiam vel elit in purus iaculis pretium.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;ordered-list&quot;&gt;Ordered List&lt;/h3&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Quisque ullamcorper leo non ex pretium, in fermentum libero imperdiet.&lt;/li&gt;
-  &lt;li&gt;Donec eu nulla euismod, rhoncus ipsum nec, faucibus elit.&lt;/li&gt;
-  &lt;li&gt;Nam blandit purus gravida, accumsan sem in, lacinia orci.
-    &lt;ul&gt;
-      &lt;li&gt;Duis congue dui nec nisi posuere, at luctus velit semper.&lt;/li&gt;
-      &lt;li&gt;Suspendisse in lorem id lacus elementum pretium nec vel nibh.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Aliquam eget ipsum laoreet, maximus risus vitae, iaculis leo.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&quot;definition-lists&quot;&gt;Definition Lists&lt;/h3&gt;
-
-&lt;dl&gt;
-  &lt;dt&gt;kramdown&lt;/dt&gt;
-  &lt;dd&gt;A Markdown-superset converter&lt;/dd&gt;
-  &lt;dt&gt;Maruku&lt;/dt&gt;
-  &lt;dd&gt;Another Markdown-superset converter&lt;/dd&gt;
-&lt;/dl&gt;
-
-&lt;h2 id=&quot;6-tables&quot;&gt;6. Tables&lt;/h2&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt;Header1&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Header2&lt;/th&gt;
-      &lt;th style=&quot;text-align: right&quot;&gt;Header3&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;cell1&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;cell2&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;cell3&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;cell4&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;cell5&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;cell6&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;cell1&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;cell2&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;cell3&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;cell4&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;cell5&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;cell6&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-  &lt;tfoot&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Foot1&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;Foot2&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;Foot3&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tfoot&gt;
-&lt;/table&gt;
-
-&lt;h2 id=&quot;7-code-snippets&quot;&gt;7. Code Snippets&lt;/h2&gt;
-
-&lt;h3 id=&quot;highlighted-code-blocks&quot;&gt;Highlighted Code Blocks&lt;/h3&gt;
-
-&lt;div class=&quot;language-css highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nf&quot;&gt;#container&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;nl&quot;&gt;float&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;left&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-  &lt;span class=&quot;nl&quot;&gt;margin&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;-240px&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-  &lt;span class=&quot;nl&quot;&gt;width&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;100%&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h3 id=&quot;standard-code-block&quot;&gt;Standard code block&lt;/h3&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;div id=&quot;awesome&quot;&amp;gt;
-  &amp;lt;p&amp;gt;This is great isn't it?&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-</description>
-        <pubDate>Mon, 15 Aug 2016 00:00:00 +0700</pubDate>
-        <link>https://www.harapan.me/blog/style-test/</link>
-        <guid isPermaLink="true">https://www.harapan.me/blog/style-test/</guid>
-      </item>
-    
-      <item>
-        <title>Syntax Highlighting Post</title>
-        <description>&lt;p&gt;Syntax highlighting is a feature that displays source code, in different colors and fonts according to the category of terms. This feature facilitates writing in a structured language such as a programming language or a markup language as both structures and syntax errors are visually distinct. Highlighting does not affect the meaning of the text itself; it is intended only for human readers.&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;highlighted-code-blocks&quot;&gt;Highlighted Code Blocks&lt;/h3&gt;
-
-&lt;p&gt;To modify styling and highlight colors edit &lt;code class=&quot;highlighter-rouge&quot;&gt;/_sass/_highlighter.scss&lt;/code&gt;.&lt;/p&gt;
-
-&lt;div class=&quot;language-css highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nf&quot;&gt;#container&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;nl&quot;&gt;float&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;left&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-    &lt;span class=&quot;nl&quot;&gt;margin&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;-240px&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-    &lt;span class=&quot;nl&quot;&gt;width&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;100%&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;nav&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;pagination&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;role=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;navigation&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-    {% if page.previous %}
-        &lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;{{ site.url }}{{ page.previous.url }}&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;btn&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;title=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;{{ page.previous.title }}&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Previous article&lt;span class=&quot;nt&quot;&gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
-    {% endif %}
-    {% if page.next %}
-        &lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;{{ site.url }}{{ page.next.url }}&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;btn&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;title=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;{{ page.next.title }}&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Next article&lt;span class=&quot;nt&quot;&gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
-    {% endif %}
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;/nav&amp;gt;&lt;/span&gt;&lt;span class=&quot;c&quot;&gt;&amp;lt;!-- /.pagination --&amp;gt;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;div class=&quot;language-ruby highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;module&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;Jekyll&lt;/span&gt;
-  &lt;span class=&quot;k&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;TagIndex&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;Page&lt;/span&gt;
-    &lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;initialize&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;site&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;base&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;dir&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;tag&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-      &lt;span class=&quot;vi&quot;&gt;@site&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;site&lt;/span&gt;
-      &lt;span class=&quot;vi&quot;&gt;@base&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;base&lt;/span&gt;
-      &lt;span class=&quot;vi&quot;&gt;@dir&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;dir&lt;/span&gt;
-      &lt;span class=&quot;vi&quot;&gt;@name&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'index.html'&lt;/span&gt;
-      &lt;span class=&quot;nb&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;process&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;vi&quot;&gt;@name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-      &lt;span class=&quot;nb&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;read_yaml&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;File&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;join&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;base&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'_layouts'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;),&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'tag_index.html'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-      &lt;span class=&quot;nb&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;data&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'tag'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;tag&lt;/span&gt;
-      &lt;span class=&quot;n&quot;&gt;tag_title_prefix&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;site&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;config&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'tag_title_prefix'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;||&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'Tagged: '&lt;/span&gt;
-      &lt;span class=&quot;n&quot;&gt;tag_title_suffix&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;site&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;config&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'tag_title_suffix'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;||&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'&amp;amp;#8211;'&lt;/span&gt;
-      &lt;span class=&quot;nb&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;data&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'title'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;tag_title_prefix&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}#{&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;tag&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-      &lt;span class=&quot;nb&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;data&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'description'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;An archive of posts tagged &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;tag&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;.&quot;&lt;/span&gt;
-    &lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-  &lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h3 id=&quot;standard-code-block&quot;&gt;Standard Code Block&lt;/h3&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;nav class=&quot;pagination&quot; role=&quot;navigation&quot;&amp;gt;
-    {% if page.previous %}
-        &amp;lt;a href=&quot;{{ site.url }}{{ page.previous.url }}&quot; class=&quot;btn&quot; title=&quot;{{ page.previous.title }}&quot;&amp;gt;Previous article&amp;lt;/a&amp;gt;
-    {% endif %}
-    {% if page.next %}
-        &amp;lt;a href=&quot;{{ site.url }}{{ page.next.url }}&quot; class=&quot;btn&quot; title=&quot;{{ page.next.title }}&quot;&amp;gt;Next article&amp;lt;/a&amp;gt;
-    {% endif %}
-&amp;lt;/nav&amp;gt;&amp;lt;!-- /.pagination --&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h3 id=&quot;github-gist-embed&quot;&gt;GitHub Gist Embed&lt;/h3&gt;
-
-&lt;p&gt;An example of a Gist embed below.&lt;/p&gt;
-
-&lt;script src=&quot;https://gist.github.com/mmistakes/43a355923921d22cd993.js&quot;&gt;&lt;/script&gt;
-
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Syntax_highlighting&quot;&gt;http://en.wikipedia.org/wiki/Syntax_highlighting&lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Fri, 16 Aug 2013 00:00:00 +0700</pubDate>
-        <link>https://www.harapan.me/blog/code-highlighting-post/</link>
-        <guid isPermaLink="true">https://www.harapan.me/blog/code-highlighting-post/</guid>
-      </item>
-    
-      <item>
-        <title>Sample Link Post</title>
+        <title>Archiavelli</title>
         <description>
 </description>
-        <pubDate>Mon, 12 Aug 2013 00:00:00 +0700</pubDate>
-        <link>https://www.harapan.me/blog/sample-link-post/</link>
-        <guid isPermaLink="true">https://www.harapan.me/blog/sample-link-post/</guid>
+        <pubDate>Fri, 31 May 2019 00:00:00 +0700</pubDate>
+        <link>https://www.harapan.me/blog/archiavelli/</link>
+        <guid isPermaLink="true">https://www.harapan.me/blog/archiavelli/</guid>
       </item>
     
       <item>
-        <title>Testing Readability with a Bunch of Text</title>
-        <description>&lt;p&gt;Portland in shoreditch Vice, labore typewriter pariatur hoodie fap sartorial Austin. Pinterest literally occupy Schlitz forage. Odio ad blue bottle vinyl, 90’s narwhal commodo bitters pour-over nostrud. Ugh est hashtag in, fingerstache adipisicing laboris esse Pinterest shabby chic Portland. Shoreditch bicycle rights anim, flexitarian laboris put a bird on it vinyl cupidatat narwhal. Hashtag artisan skateboard, flannel Bushwick nesciunt salvia aute fixie do plaid post-ironic dolor McSweeney’s. Cliche pour-over chambray nulla four loko skateboard sapiente hashtag.&lt;/p&gt;
-
-&lt;p&gt;Vero laborum commodo occupy. Semiotics voluptate mumblecore pug. Cosby sweater ullamco quinoa ennui assumenda, sapiente occupy delectus lo-fi. Ea fashion axe Marfa cillum aliquip. Retro Bushwick keytar cliche. Before they sold out sustainable gastropub Marfa readymade, ethical Williamsburg skateboard brunch qui consectetur gentrify semiotics. Mustache cillum irony, fingerstache magna pour-over keffiyeh tousled selfies.&lt;/p&gt;
-
-&lt;h2 id=&quot;cupidatat-90s-lo-fi-authentic-try-hard&quot;&gt;Cupidatat 90’s lo-fi authentic try-hard&lt;/h2&gt;
-
-&lt;p&gt;In pug Portland incididunt mlkshk put a bird on it vinyl quinoa. Terry Richardson shabby chic +1, scenester Tonx excepteur tempor fugiat voluptate fingerstache aliquip nisi next level. Farm-to-table hashtag Truffaut, Odd Future ex meggings gentrify single-origin coffee try-hard 90’s.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Sartorial hoodie&lt;/li&gt;
-  &lt;li&gt;Labore viral forage&lt;/li&gt;
-  &lt;li&gt;Tote bag selvage&lt;/li&gt;
-  &lt;li&gt;DIY exercitation et id ugh tumblr church-key&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Incididunt umami sriracha, ethical fugiat VHS ex assumenda yr irure direct trade. Marfa Truffaut bicycle rights, kitsch placeat Etsy kogi asymmetrical. Beard locavore flexitarian, kitsch photo booth hoodie plaid ethical readymade leggings yr.&lt;/p&gt;
-
-&lt;p&gt;Aesthetic odio dolore, meggings disrupt qui readymade stumptown brunch Terry Richardson pour-over gluten-free. Banksy american apparel in selfies, biodiesel flexitarian organic meh wolf quinoa gentrify banjo kogi. Readymade tofu ex, scenester dolor umami fingerstache occaecat fashion axe Carles jean shorts minim. Keffiyeh fashion axe nisi Godard mlkshk dolore. Lomo you probably haven’t heard of them eu non, Odd Future Truffaut pug keytar meggings McSweeney’s Pinterest cred. Etsy literally aute esse, eu bicycle rights qui meggings fanny pack. Gentrify leggings pug flannel duis.&lt;/p&gt;
-
-&lt;h2 id=&quot;forage-occaecat-cardigan-qui&quot;&gt;Forage occaecat cardigan qui&lt;/h2&gt;
-
-&lt;p&gt;Fashion axe hella gastropub lo-fi kogi 90’s aliquip +1 veniam delectus tousled. Cred sriracha locavore gastropub kale chips, iPhone mollit sartorial. Anim dolore 8-bit, pork belly dolor photo booth aute flannel small batch. Dolor disrupt ennui, tattooed whatever salvia Banksy sartorial roof party selfies raw denim sint meh pour-over. Ennui eu cardigan sint, gentrify iPhone cornhole.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Whatever velit occaecat quis deserunt gastropub, leggings elit tousled roof party 3 wolf moon kogi pug blue bottle ea. Fashion axe shabby chic Austin quinoa pickled laborum bitters next level, disrupt deep v accusamus non fingerstache.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Tote bag asymmetrical elit sunt. Occaecat authentic Marfa, hella McSweeney’s next level irure veniam master cleanse. Sed hoodie letterpress artisan wolf leggings, 3 wolf moon commodo ullamco. Anim occupy ea labore Terry Richardson. Tofu ex master cleanse in whatever pitchfork banh mi, occupy fugiat fanny pack Austin authentic. Magna fugiat 3 wolf moon, labore McSweeney’s sustainable vero consectetur. Gluten-free disrupt enim, aesthetic fugiat jean shorts trust fund keffiyeh magna try-hard.&lt;/p&gt;
-
-&lt;h2 id=&quot;hoodie-duis&quot;&gt;Hoodie Duis&lt;/h2&gt;
-
-&lt;p&gt;Actually salvia consectetur, hoodie duis lomo YOLO sunt sriracha. Aute pop-up brunch farm-to-table odio, salvia irure occaecat. Sriracha small batch literally skateboard. Echo Park nihil hoodie, aliquip forage artisan laboris. Trust fund reprehenderit nulla locavore. Stumptown raw denim kitsch, keffiyeh nulla twee dreamcatcher fanny pack ullamco 90’s pop-up est culpa farm-to-table. Selfies 8-bit do pug odio.&lt;/p&gt;
-
-&lt;h3 id=&quot;thundercats-ho&quot;&gt;Thundercats Ho!&lt;/h3&gt;
-
-&lt;p&gt;Fingerstache thundercats Williamsburg, deep v scenester Banksy ennui vinyl selfies mollit biodiesel duis odio pop-up. Banksy 3 wolf moon try-hard, sapiente enim stumptown deep v ad letterpress. Squid beard brunch, exercitation raw denim yr sint direct trade. Raw denim narwhal id, flannel DIY McSweeney’s seitan. Letterpress artisan bespoke accusamus, meggings laboris consequat Truffaut qui in seitan. Sustainable cornhole Schlitz, twee Cosby sweater banh mi deep v forage letterpress flannel whatever keffiyeh. Sartorial cred irure, semiotics ethical sed blue bottle nihil letterpress.&lt;/p&gt;
-
-&lt;p&gt;Occupy et selvage squid, pug brunch blog nesciunt hashtag mumblecore skateboard yr kogi. Ugh small batch swag four loko. Fap post-ironic qui tote bag farm-to-table american apparel scenester keffiyeh vero, swag non pour-over gentrify authentic pitchfork. Schlitz scenester lo-fi voluptate, tote bag irony bicycle rights pariatur vero Vice freegan wayfarers exercitation nisi shoreditch. Chambray tofu vero sed. Street art swag literally leggings, Cosby sweater mixtape PBR lomo Banksy non in pitchfork ennui McSweeney’s selfies. Odd Future Banksy non authentic.&lt;/p&gt;
-
-&lt;p&gt;Aliquip enim artisan dolor post-ironic. Pug tote bag Marfa, deserunt pour-over Portland wolf eu odio intelligentsia american apparel ugh ea. Sunt viral et, 3 wolf moon gastropub pug id. Id fashion axe est typewriter, mlkshk Portland art party aute brunch. Sint pork belly Cosby sweater, deep v mumblecore kitsch american apparel. Try-hard direct trade tumblr sint skateboard. Adipisicing bitters excepteur biodiesel, pickled gastropub aute veniam.&lt;/p&gt;
+        <title>Bagaimana harapan.me dibentuk secara teknologi?</title>
+        <description>&lt;p&gt;jekyll&lt;/p&gt;
 </description>
-        <pubDate>Tue, 22 May 2012 00:00:00 +0700</pubDate>
-        <link>https://www.harapan.me/blog/readability-post/</link>
-        <guid isPermaLink="true">https://www.harapan.me/blog/readability-post/</guid>
+        <pubDate>Thu, 30 May 2019 00:00:00 +0700</pubDate>
+        <link>https://www.harapan.me/blog/tech-stack-harapan-me/</link>
+        <guid isPermaLink="true">https://www.harapan.me/blog/tech-stack-harapan-me/</guid>
+      </item>
+    
+      <item>
+        <title>Sabatical Leave</title>
+        <description>&lt;p&gt;Selama sebulan terakhir dan hingga sebulan kedepan, saya sedang tidak terikat dengan satu perusahaan apapun dan sedang tidak menjalankan suatu kegiatan bisnis&lt;/p&gt;
+
+&lt;p&gt;https://www.thebalancecareers.com/why-employers-should-consider-sabbatical-leave-programs-4171929
+https://hbr.org/2017/08/research-shows-that-organizations-benefit-when-employees-take-sabbaticals&lt;/p&gt;
+</description>
+        <pubDate>Sun, 26 May 2019 00:00:00 +0700</pubDate>
+        <link>https://www.harapan.me/blog/sabatical-leave/</link>
+        <guid isPermaLink="true">https://www.harapan.me/blog/sabatical-leave/</guid>
+      </item>
+    
+      <item>
+        <title>Hello World Again</title>
+        <description>&lt;p&gt;Hello World &lt;em&gt;Again&lt;/em&gt;. Memulai kembali kegiatan menulis dan sharing pengetahuan.&lt;/p&gt;
+
+&lt;p&gt;Setelah melewati kesibukan-kesibukan lain didunia nyata dan ditengah &lt;a href=&quot;#&quot;&gt;sabatical leave&lt;/a&gt; yang sedang saya jalani (walaupun tidak seperti &lt;a href=&quot;https://www.thebalancecareers.com/why-employers-should-consider-sabbatical-leave-programs-4171929&quot;&gt;sabatical leave pada umumnya&lt;/a&gt;) saya berpikir kembali untuk menulis dan kembali menghidupkan kebiasan lama untuk nge-blog. Kemudian saya menyadari bahwa blog ini (&lt;a href=&quot;https://www.harapan.me&quot;&gt;harapan.me&lt;/a&gt;) sudah lama tidak diurus dan tidak banyak tulisan yang saya publish selama 6 bulan terakhir. Dalam hal desain front-end dan tampilannya juga tidak banyak berubah sejak awal saya buat yaitu di April 2017 hingga terakhir kali update pada Desember 2018.&lt;/p&gt;
+
+&lt;p&gt;Untuk memulai kembali blog ini untuk tulisan-tulisan terbaru, saya pikir diperlukan suatu tampilan baru, bentuk baru dan konsep baru(tampilan lama dan blog lama bisa diakses di-&lt;a href=&quot;https://www.harapan.me&quot;&gt;v01&lt;/a&gt;). Maka kemudian terbentuklah tampilan blog ini yang lebih sederhana dan fluid dari versi sebelumnya. Dari sisi teknologi, tetap saya menggunakan jekyll, markdown dan dihosting di-github.io, dengan domain tetap menggunakan &lt;a href=&quot;https://www.harapan.me&quot;&gt;harapan.me&lt;/a&gt;. Lalu karena Google Chrome pada update-an terbarunya akan &lt;a href=&quot;https://security.googleblog.com/2018/02/a-secure-web-is-here-to-stay.html&quot;&gt;melabeli website yang tidak menggunakan https sebagai website yang tidak aman&lt;/a&gt; saya juga memindahkan management domain ini dengan menggunakan &lt;a href=&quot;https://www.cloudflare.com/&quot;&gt;cloudfare&lt;/a&gt; agar mendapatkan &lt;a href=&quot;https://www.cloudflare.com/ssl/&quot;&gt;certificate https secara gratis&lt;/a&gt; akhirnya terbentuklah blog ini, dengan biaya hanya US$ 14.15 yang hanya digunakan untuk membeli domain di-&lt;a href=&quot;https://www.namesilo.com/pricing.php?rid=43f3493rl&quot;&gt;namesilo&lt;/a&gt;. Mengenai stack technology dari blog ini, penjelasan lebih rincinya dapat dilihat dihalaman berikut &lt;a href=&quot;/blog/tech-stack-harapan-me/&quot;&gt;Bagaimana harapan.me dibentuk secara teknologi?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Secara umum saya banyak terinspirasi dari beberapa orang dalam bidang teknologi yang begitu rajin menulis dan membagikan tulisannya secara konsisten. Orang tersebut salah satunya ialah &lt;a href=&quot;https://en.wikipedia.org/wiki/Joel_Spolsky&quot;&gt;Joel Spolsky&lt;/a&gt; seorang software engineer, founder &lt;a href=&quot;https://stackoverflow.com/&quot;&gt;stackoverflow.com&lt;/a&gt; dan &lt;a href=&quot;https://trello.com/&quot;&gt;trello&lt;/a&gt;. Dia telah memulai blogging sejak tahun 1999 dengan alamat blog di-&lt;a href=&quot;https://www.joelonsoftware.com&quot;&gt;joelonsoftware&lt;/a&gt;. Dalam blognya Joel banyak menulis dari hal-hal teknis menyangkut dunia programming hingga architecture software, management, product design hingga pengalaman pribadinya. Beberapa articlenya menjadi sangat terkenal hingga menjadi referensi informal bagi orang-orang, seperti &lt;a href=&quot;https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/&quot;&gt;Things You Should Never Do, Part I&lt;/a&gt; dan &lt;a href=&quot;https://www.joelonsoftware.com/2004/06/13/how-microsoft-lost-the-api-war/&quot;&gt;How Microsoft lost the api war&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Pengalaman yang panjang dan dengan tulisan yang hampir mencapai 1100 artikel dengan berbagai topik serta konsistensi yang tinggi membuat blog-nya cukup terkenal dan memilki tema dan konsep yang kuat. Joel pada tulisannya berfokus pada profesional karir yang dihadapinya sebagai software engineer hingga sekarang sebagai CEO &lt;a href=&quot;https://stackexchange.com/&quot;&gt;Stackexchange&lt;/a&gt;. Oleh karena itu saya juga berpikir untuk mengambil satu tema pada blog ini. Karena secara profesional saya berkecimpung didunia data dan cloud, maka tema blog ini akan banyak menitik beratkan kepada dua topik tersebut dengan mungkin beberapa artikel ringan dan beberapa review tentang buku yang telah saya baca. Silahkan baca artikel berikut &lt;a href=&quot;blog/archiavelli/&quot;&gt;archiavelli&lt;/a&gt; untuk asal nama, tema, bentuk penulisan dan fokus blog ini.&lt;/p&gt;
+
+&lt;p&gt;Akhir kata, saya mengucapkan selamat membaca, semoga hal-hal yang ada disini dapat berguna. Silahkan tinggalkan pesan dan mari berinteraksi.&lt;/p&gt;
+
+&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;
+&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hello&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;reader&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
+	&lt;span class=&quot;k&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Hello &quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;str&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;reader&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;))&lt;/span&gt;
+	&lt;span class=&quot;k&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Selamat Membaca!&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+
+&lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;__name__&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;==&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'__main__'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
+	&lt;span class=&quot;n&quot;&gt;print_hello&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'Rio'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+</description>
+        <pubDate>Sun, 26 May 2019 00:00:00 +0700</pubDate>
+        <link>https://www.harapan.me/blog/hello-world-again/</link>
+        <guid isPermaLink="true">https://www.harapan.me/blog/hello-world-again/</guid>
       </item>
     
   </channel>
