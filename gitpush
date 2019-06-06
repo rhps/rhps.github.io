@@ -26,4 +26,5 @@ else
 	bundle exec jekyll build site.url
 	commit "$1"
 	echo -e "\033[37mAll push for Production and Developemt Repository already up-to-date\033[0m"
+	echo -e $githubauth
 fi
