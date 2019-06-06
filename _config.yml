@@ -97,3 +97,4 @@ plugins:
   - jekyll-admin
 
 exclude:            [vendor]
+

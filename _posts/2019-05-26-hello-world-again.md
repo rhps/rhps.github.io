@@ -3,6 +3,7 @@ layout: post
 title: "Hello World Again"
 description: "Memulai sesuatu yang baru kembali"
 date: 2019-05-26
+categories: [articles]
 tags: [articles]
 comments: true
 share: true
