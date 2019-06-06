@@ -8,14 +8,14 @@ function commit {
 	echo $1
 	git add . --all
 	git commit -m "Commit for : $1 <$NOW>"
-	git push -u https://rhps:Cisitu123@github.com/rhps/backend-rhps.github.io.git --all
+	git push -u https://$githubauth@github.com/rhps/backend-rhps.github.io.git --all
 
 	############
 	#Repo Production Repos
 	cd _site/
 	git add . --all
 	git commit -m "Commit for : $1 <$NOW>"
-	git push -u https://rhps:Cisitu123@github.com/rhps/rhps.github.io.git --all	
+	git push -u https://$githubauth@github.com/rhps/rhps.github.io.git --all	
 }
 
 if [[ $1 == "" ]]; then
@@ -26,5 +26,4 @@ else
 	bundle exec jekyll build site.url
 	commit "$1"
 	echo -e "\033[37mAll push for Production and Developemt Repository already up-to-date\033[0m"
-	echo -e $githubauth
 fi
