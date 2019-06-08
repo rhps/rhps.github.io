@@ -19,13 +19,14 @@ layout: default
     </ul>
   </div>
 
+  {% include adsense-disqus.html %}
+
   {{ content }}
 
   {% include adsense-content.html %}
 
-  <!-- {% include relatedposts.html %} 
-  Belum selesai Design
-  -->
+  <!-- include relatedposts.html Belum selesai Design -->
+
 
   <!-- Disqus -->
   {% if page.comments != false and site.disqus.id %}

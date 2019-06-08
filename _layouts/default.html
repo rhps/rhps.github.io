@@ -3,8 +3,13 @@
 {% include head.html %}
 <body>
   <div class="content-container">
-    {% include header.html %}
     
+    {% if page.id %}
+      {% include header-post.html %}
+    {% else %}
+      {% include header.html %}
+    {% endif %}
+
     {{ content }}
 
     {% include footer.html %}

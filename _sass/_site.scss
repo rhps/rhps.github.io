@@ -71,12 +71,30 @@ body {
       }
     }
   }
+
+  &-nav-small {
+    font-size: 15px;
+
+    a {
+      color: $oc-gray-7;
+      text-transform: lowercase;
+      -webkit-transition: all .2s ease;
+         -moz-transition: all .2s ease;
+              transition: all .2s ease;
+      margin-right: .3rem;
+
+      &:hover,
+      &:focus {
+        color: $oc-gray-7;
+        text-decoration: none;
+      }
+    }
+  }
 }
 
 .header-small {
   text-align: left;
-  margin-bottom: .75rem;
-  font-size: .75rem;
+  font-size: 25px;
   font-weight: 600;
 
   a {
