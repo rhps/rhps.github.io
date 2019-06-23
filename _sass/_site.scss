@@ -56,6 +56,8 @@ body {
   }
 
   &-nav {
+    border-bottom: 2px solid #e7e9ee;
+    padding-bottom: 10px;
     a {
       color: $oc-gray-7;
       text-transform: lowercase;
@@ -73,7 +75,9 @@ body {
   }
 
   &-nav-small {
-    font-size: 15px;
+    font-size: 12px;
+    border-bottom: 1.5px solid #e7e9ee;
+    padding-bottom: 7px;
 
     a {
       color: $oc-gray-7;
@@ -192,6 +196,40 @@ body {
     margin-top: 4rem;
   }
 
+}
+
+/*--------------
+post-paging
+--------------*/
+
+.post-paging a {
+  opacity: 0.4;
+}
+
+.post-paging a:hover {
+  opacity: 0.8;
+}
+
+.post-paging .left, .post-paging .right {
+ position: fixed;
+ top: 50%;
+ left: 50%;
+}
+
+.post-paging .left {
+ margin-left: -480px;
+}
+
+.post-paging .right {
+ margin-left: 450px;
+}
+
+.post-up a {
+opacity: 0.4;
+}
+
+.post-up a:hover{
+opacity: 0.8;
 }
 
 /*--------------
@@ -400,7 +438,7 @@ body {
 .rect {
   border-top: 3px solid #333;
   border-bottom: 3px solid #333;
-  padding-top: 15px;
+  padding-top: 12px;
   margin:0 auto;
 }
 

@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+
+{% include prev_next_post.html %}
 <div class="post">
   <div class="post-title">{{ page.title }}</div>
   <span class="post-date">
@@ -20,7 +22,7 @@ layout: default
   </div>
 
   {% include adsense-disqus.html %}
-
+  <br />
   {{ content }}
 
   {% include adsense-content.html %}
@@ -37,5 +39,11 @@ layout: default
   {% endif %}
 
   {% include adsense-disqus.html %}
+
+  <div class="post-up" align="center">
+  	<a href="#">
+  	<i class="fa fa-angle-up fa-2x" style="color:#343a40"></i>
+  	</a>
+  </div>
 
 </div>
