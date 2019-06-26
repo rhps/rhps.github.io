@@ -6,6 +6,25 @@
     <atom:link href="https://www.harapan.me/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Sabatical Leave</title>
+        <description>&lt;p&gt;Selama sebulan terakhir dan hingga sebulan kedepan, saya sedang tidak terikat dengan satu perusahaan apapun dan sedang tidak menjalankan suatu kegiatan bisnis &lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;https://hbr.org/2017/08/research-shows-that-organizations-benefit-when-employees-take-sabbaticals&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://www.thebalancecareers.com/why-employers-should-consider-sabbatical-leave-programs-4171929&quot;&gt;Why Employers Should Consider Sabbatical Leave Programs&lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Fri, 31 May 2019 00:00:00 +0700</pubDate>
+        <link>https://www.harapan.me/blog/sabatical-leave/</link>
+        <guid isPermaLink="true">https://www.harapan.me/blog/sabatical-leave/</guid>
+      </item>
+    
+      <item>
         <title>Archiavelli</title>
         <description>
 </description>
@@ -24,20 +43,8 @@
       </item>
     
       <item>
-        <title>Sabatical Leave</title>
-        <description>&lt;p&gt;Selama sebulan terakhir dan hingga sebulan kedepan, saya sedang tidak terikat dengan satu perusahaan apapun dan sedang tidak menjalankan suatu kegiatan bisnis&lt;/p&gt;
-
-&lt;p&gt;https://www.thebalancecareers.com/why-employers-should-consider-sabbatical-leave-programs-4171929
-https://hbr.org/2017/08/research-shows-that-organizations-benefit-when-employees-take-sabbaticals&lt;/p&gt;
-</description>
-        <pubDate>Sun, 26 May 2019 00:00:00 +0700</pubDate>
-        <link>https://www.harapan.me/blog/sabatical-leave/</link>
-        <guid isPermaLink="true">https://www.harapan.me/blog/sabatical-leave/</guid>
-      </item>
-    
-      <item>
         <title>Hello World Again</title>
-        <description>&lt;p&gt;Hello World &lt;em&gt;Again&lt;/em&gt;. Akhirnya dapat memulai kembali kegiatan menulis dan sharing pengetahuan.&lt;/p&gt;
+        <description>&lt;p&gt;Hello World &lt;em&gt;Again&lt;/em&gt;. Akhirnya dapat memulai kembali kegiatan menulis.&lt;/p&gt;
 
 &lt;p&gt;Setelah melewati kesibukan-kesibukan lain didunia nyata dan ditengah &lt;a href=&quot;#&quot;&gt;sabatical leave&lt;/a&gt; yang sedang dijalani (walaupun tidak seperti &lt;a href=&quot;https://www.thebalancecareers.com/why-employers-should-consider-sabbatical-leave-programs-4171929&quot;&gt;sabatical leave pada umumnya&lt;/a&gt;), akhirnya dapat kembali menulis dan menjalani kebiasan lama untuk nge-blog. Kemudian saya menyadari bahwa blog ini (&lt;a href=&quot;https://www.harapan.me&quot;&gt;harapan.me&lt;/a&gt;) sudah lama tidak diurus dan tidak banyak tulisan yang dipublish selama 6 bulan terakhir. Dalam hal desain front-end dan tampilannya juga tidak banyak berubah sejak awal saya buat yaitu di April 2017 hingga terakhir kali update pada Desember 2018.&lt;/p&gt;
 
@@ -49,15 +56,14 @@ https://hbr.org/2017/08/research-shows-that-organizations-benefit-when-employees
 
 &lt;p&gt;Akhir kata, saya mengucapkan selamat membaca, semoga hal-hal yang ada disini dapat berguna. Silahkan tinggalkan pesan dan mari berinteraksi.&lt;/p&gt;
 
-&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;
-&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hello&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;reader&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
+&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hello&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;reader&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
 	&lt;span class=&quot;k&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Hello &quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;str&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;reader&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;))&lt;/span&gt;
 	&lt;span class=&quot;k&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Selamat Membaca!&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
 
 &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;__name__&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;==&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'__main__'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
 	&lt;span class=&quot;n&quot;&gt;print_hello&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'Rio'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
 </description>
         <pubDate>Sun, 26 May 2019 00:00:00 +0700</pubDate>
         <link>https://www.harapan.me/blog/hello-world-again/</link>
