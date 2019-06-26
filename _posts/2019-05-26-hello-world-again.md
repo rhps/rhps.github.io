@@ -9,7 +9,7 @@ comments: true
 share: true
 ---
 
-Hello World *Again*. Akhirnya dapat memulai kembali kegiatan menulis dan sharing pengetahuan. 
+Hello World *Again*. Akhirnya dapat memulai kembali kegiatan menulis.
 
 Setelah melewati kesibukan-kesibukan lain didunia nyata dan ditengah [sabatical leave](#) yang sedang dijalani (walaupun tidak seperti [sabatical leave pada umumnya](https://www.thebalancecareers.com/why-employers-should-consider-sabbatical-leave-programs-4171929)), akhirnya dapat kembali menulis dan menjalani kebiasan lama untuk nge-blog. Kemudian saya menyadari bahwa blog ini ([harapan.me](https://www.harapan.me)) sudah lama tidak diurus dan tidak banyak tulisan yang dipublish selama 6 bulan terakhir. Dalam hal desain front-end dan tampilannya juga tidak banyak berubah sejak awal saya buat yaitu di April 2017 hingga terakhir kali update pada Desember 2018.
 
@@ -22,12 +22,11 @@ Pengalaman yang panjang dan dengan tulisan yang hampir mencapai 1100 artikel den
 Akhir kata, saya mengucapkan selamat membaca, semoga hal-hal yang ada disini dapat berguna. Silahkan tinggalkan pesan dan mari berinteraksi. 
 
 ```python
-
 def print_hello(reader):
 	print("Hello " + str(reader))
 	print("Selamat Membaca!")
 
 if __name__ == '__main__':
 	print_hello('Rio')
-
 ```
+

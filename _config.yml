@@ -11,9 +11,9 @@ author:
 #  facebook:         your-id
 #  youtubeUser:      your-id
 #  youtubeChannel:   your-id
-#  twitter:          your-id
+  twitter:          archiavelli
   github:           rhps
-#  stackoverflow:    your-id
+  stackoverflow:    5575744
 #  quora:            your-id
 #  linkedin:         your-id
 #  pinterest:        your-id
@@ -22,7 +22,7 @@ author:
 #  reddit:           your-id
 #  medium:           your-id
 #  tumblr:           your-id
-#  email:            rioharapan@gmail.com
+  email:            rio@harapan.me
 
 copyright:
   year:             2018
@@ -54,6 +54,8 @@ paginate_path:      "/blog/page:num/"
 markdown:           kramdown
 kramdown:
   input:            GFM
+  syntax_highlighter: pygments
+highlighter: pygments
 
 # Navigation
 nav:
