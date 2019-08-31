@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Portofolio
+title: Pustaka
+permalink: /pustaka/
 ---
   <div class="page">
     <h3>Coming Soon!</h3>

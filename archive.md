@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Archive
+permalink: /archive/
 ---
 <div class="archive">
   <div class="archive-list">

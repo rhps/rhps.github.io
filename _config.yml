@@ -59,15 +59,17 @@ highlighter: pygments
 
 # Navigation
 nav:
-  - name:           "About"
+  - name:           "about"
     url:            "/about"
-  - name:           "Archive"
+  - name:           "me"
+    url:            "/about"
+  - name:           "archive"
     url:            "/archive"
 #  - name:           "CV"
 #    url:            "/profile"
 #  - name:           "Github"
 #    url:            "https://github.com/AWEEKJ/Kiko-plus"
-  - name:           "Portofolio"
+  - name:           "portofolio"
     url:            "/portofolio"
   - name:           "blog"
     url:            "/blog"

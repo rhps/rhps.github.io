@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Profil
+title: Portofolio
+permalink: /portofolio/
 ---
   <div class="page">
     <h3>Coming Soon!</h3>
