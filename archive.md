@@ -9,20 +9,24 @@ permalink: /archive/
     <h2>No post found</h2>
   {% else %}
   {% for post in site.posts %}
-    <div class="archive-list-post">
-      {% if post.link %}
-      <a href="{{ post.link }}">
-      {% else %}
-      <a href="{{ post.url | prepend: site.baseurl }}">
-      {% endif %}  
-        <span class="archive-list-post-title">
-          {{ post.title }}
-        </span>
-        <span class="archive-list-post-date">
-          <time>| {{ post.date | date_to_string }}</time>
-        </span>
-      </a>
-    </div>
+    {% if post.hidden == true %}
+
+    {% else %}
+      <div class="archive-list-post">
+        {% if post.link %}
+        <a href="{{ post.link }}">
+        {% else %}
+        <a href="{{ post.url | prepend: site.baseurl }}">
+        {% endif %}  
+          <span class="archive-list-post-title">
+            {{ post.title }}
+          </span>
+          <span class="archive-list-post-date">
+            <time>| {{ post.date | date_to_string }}</time>
+          </span>
+        </a>
+      </div>
+    {% endif %}
   {% endfor %}
   {% endif %}
   </div>
