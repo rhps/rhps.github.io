@@ -7,6 +7,7 @@ categories: [articles]
 tags: [articles]
 comments: true
 share: true
+hidden: false
 ---
 
 Hello World *Again*. Akhirnya dapat memulai kembali kegiatan menulis.
