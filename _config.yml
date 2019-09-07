@@ -71,6 +71,8 @@ nav:
 #    url:            "https://github.com/AWEEKJ/Kiko-plus"
   - name:           "portofolio"
     url:            "/portofolio"
+  - name:           "baca"
+    url:            "/baca"
   - name:           "blog"
     url:            "/blog"
 
