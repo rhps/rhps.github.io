@@ -165,9 +165,9 @@ body {
     margin-bottom: 1.5rem;
 
     ul {
-      li:before {
-        content: ""
-      }
+      // li:before {
+      //   content: ""
+      // }
 
       li {
         margin: 0;
@@ -336,9 +336,9 @@ opacity: 0.8;
 .tag {
   &-index {
     ul {
-      li:before {
-        content: ""
-      }
+      // li:before {
+      //   content: ""
+      // }
 
       li {
         margin: 0;
