@@ -349,10 +349,10 @@ div.code-toolbar > .toolbar span:focus {
 .c-shelf__volume__title {
     font-family: Duospace, Courier, monospace;
     font-size: 1rem;
-    font-weight: 400;
+    font-weight: 350;
     line-height: 1.5;
-    margin: 16px 0 0;
-    padding-bottom: 8px
+    margin: 0 0 0 0;
+    padding-bottom: 0px
 }
 
 .c-volume-header {
@@ -416,4 +416,8 @@ li, ol, ul {
 }
 .book-item {
 	margin: 0 0 4rem 0;
+}
+
+.checked {
+	color: orange;
 }
