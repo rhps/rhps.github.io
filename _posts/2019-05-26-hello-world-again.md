@@ -4,7 +4,7 @@ title: "Hello World Again"
 description: "Memulai sesuatu yang baru kembali"
 date: 2019-05-26
 categories: [articles]
-tags: [articles]
+tags: [introduction, welcoming]
 comments: true
 share: true
 hidden: false

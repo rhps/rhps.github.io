@@ -421,3 +421,46 @@ li, ol, ul {
 .checked {
 	color: orange;
 }
+
+.pink {
+	color: palevioletred;
+}
+
+.title {
+    margin-top: 0;
+	margin-bottom: 5px;
+    text-align: center;
+	font-weight: bold;
+}
+
+.title .btn {
+    margin: 10px;
+    font-size: 16px;
+	font-weight: 300;
+	display: inline;	
+}
+.btn {
+    padding: 10px 18px;
+    font-size: 14px;
+	margin: 4px auto;
+	display: inline;
+}
+
+.btn {
+    display: inline-block;
+    border: 1px solid;
+    border-color: rgba(229,230,233,0.5) rgba(223,224,228,0.5) #d0d1d5;
+    border-radius: 3px;
+    text-decoration: none;
+    background: #fff;
+	color: #282828;
+	padding: 10px 18px;
+	display: inline;
+}
+
+.btn:hover {
+	margin: 10px;
+    font-size: 18px;
+	font-weight: 300;
+	display: inline;
+}

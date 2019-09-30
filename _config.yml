@@ -61,8 +61,8 @@ highlighter: pygments
 nav:
   - name:           "about"
     url:            "/about"
-  - name:           "me"
-    url:            "/about"
+  # - name:           "me"
+    # url:            "/about"
   - name:           "archive"
     url:            "/archive"
 #  - name:           "CV"
