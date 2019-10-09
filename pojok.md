@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Pustaka
-permalink: /pustaka/
+title: pojok baca
+permalink: /baca/
 ---
   <div class="page">
     <h3>Coming Soon!</h3>

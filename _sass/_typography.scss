@@ -113,15 +113,15 @@ ul {
 }
 
 // Restyle <ul>
-ul {
-  > li:before {
-    content: "\2022";
-    padding-right: $ul-bullets-right-space;
-    font-family: $ul-bullets-font;
-    font-size: $ul-bullets-font-size;
-    line-height: $ul-bullets-font-line-height;
-  }
-}
+// ul {
+//   > li:before {
+//     content: "\2022";
+//     padding-right: $ul-bullets-right-space;
+//     font-family: $ul-bullets-font;
+//     font-size: $ul-bullets-font-size;
+//     line-height: $ul-bullets-font-line-height;
+//   }
+// }
 
 // Restyle <ol>
 ol {

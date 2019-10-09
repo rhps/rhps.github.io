@@ -1,9 +1,14 @@
 ---
+layout: default
 title: About
 permalink: /about/
 ---
 
-  <div class="page">
-    <h3>Coming Soon!</h3>
-    <span>Hey, sorry, but the page you're trying is under construction. We should be back shortly. Try going back to the <a href="{{site.url}}{{site.baseurl}}">homepage</a>.</span>
-  </div>
+<h3>About</h3>
+<p>Terimakasih telah berkunjung kelaman pribadi saya. Senang mendapati anda berada disini. Anda dapat menikmati tulisan terbaru dari saya melalui halaman <a href="{{site.url}}{{site.baseurl}}/blog">blog</a> atau dapat melihat buku yang saya rekomendasikan melalui halaman <a href="{{site.url}}{{site.baseurl}}/exlibris">exlibris.</a></p>
+
+Sehari-hari saya bekerja untuk mengelola data disebuah perusahaan. Pekerjaan saya mencakup untuk bagaimana cara menyimpan data, mengolahnya hingga mendapatkan informasi darinya, menyajikan data untuk mendapatkan informasi. Banyak hal yang bisa dibagikan tentang itu baik dari sisi teknis hingga informasi-informasi mengenai data privasi. Hal lainnya, setiap bulan saya berusaha untuk menyelesaikan satu buku dan akan menulis artikel ringan. Maka dari itulah, laman ini dibuat untuk menampung tulisan-tulisan tersebut dan informasi ringan lainnya.
+
+
+
+<span>Hey, sorry, but the page you're trying is under construction. We should be back shortly. Try going back to the <a href="{{site.url}}{{site.baseurl}}">homepage</a>.</span>

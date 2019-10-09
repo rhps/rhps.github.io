@@ -281,3 +281,186 @@ div.code-toolbar > .toolbar span:focus {
 	text-decoration: none;
 }
 
+.imgjkl {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 70%;
+  }
+
+
+.c-shelf {
+    margin-top: 64px;
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap
+}
+
+@supports (display:grid) {
+    .c-shelf {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+        grid-column-gap: 48px
+    }
+}
+
+.c-shelf__volume {
+    box-sizing: border-box;
+    margin-bottom: 64px;
+    padding: 0 16px;
+    width: 33%
+}
+
+@supports (display:grid) {
+    .c-shelf__volume {
+        padding: 0;
+        width: auto
+    }
+}
+
+.c-shelf__link .c-cover {
+    transition: all .28s ease
+}
+
+.c-shelf__link {
+    color: #111;
+    display: block;
+    text-decoration: none
+}
+
+.c-shelf__link:focus,
+.c-shelf__link:hover {
+    outline: none;
+    box-shadow: 0 5px 0 #111
+}
+
+.c-shelf__link:focus .c-cover,
+.c-shelf__link:hover .c-cover {
+    box-shadow: 0 0 60px rgba(0, 0, 0, .2);
+    -webkit-transform: rotate(1.5deg) scale3d(1.05, 1.05, 1) translate3d(0, -10px, 0);
+    transform: rotate(1.5deg) scale3d(1.05, 1.05, 1) translate3d(0, -10px, 0)
+}
+
+.c-shelf__link:active .c-cover {
+    -webkit-transform: rotate(1.5deg) scale3d(1.1, 1.1, 1) translate3d(0, -15px, 0);
+    transform: rotate(1.5deg) scale3d(1.1, 1.1, 1) translate3d(0, -15px, 0)
+}
+
+.c-shelf__volume__title {
+    font-family: Duospace, Courier, monospace;
+    font-size: 1rem;
+    font-weight: 350;
+    line-height: 1.5;
+    margin: 0 0 0 0;
+    padding-bottom: 0px
+}
+
+.c-volume-header {
+    margin: 32px 0;
+    text-align: center
+}
+
+@media (min-width:768px) {
+    .c-volume-header {
+        margin: 48px 0
+    }
+}
+
+.c-volume-header .c-cover {
+    margin: 0 auto 16px;
+    max-width: 200px
+}
+
+.c-volume-header h1,
+.c-volume-header h2 {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 35ch
+}
+
+.c-volume-header h1 {
+    font-size: 4.2rem
+}
+
+.c-volume-header h2 {
+    font-size: 3.2rem;
+    font-style: italic;
+    font-weight: 400
+}
+
+.c-volume-header__authors {
+    margin-top: 16px
+}
+
+.c-volume-header--small .c-cover {
+    max-width: 100px
+}
+
+.c-volume-header--small h1 {
+    font-size: 3.2rem
+}
+
+.c-volume-header--small h2 {
+    font-size: 2.1rem
+}
+
+li, ol, ul {
+	margin:0;
+	padding:0}
+
+.book-image {
+	width: 100%;
+}
+.book-figure {
+	margin: 0;
+}
+.book-item {
+	margin: 0 0 4rem 0;
+}
+
+.checked {
+	color: orange;
+}
+
+.pink {
+	color: palevioletred;
+}
+
+.title {
+    margin-top: 0;
+	margin-bottom: 5px;
+    text-align: center;
+	font-weight: bold;
+}
+
+.title .btn {
+    margin: 10px;
+    font-size: 16px;
+	font-weight: 300;
+	display: inline;	
+}
+.btn {
+    padding: 10px 18px;
+    font-size: 14px;
+	margin: 4px auto;
+	display: inline;
+}
+
+.btn {
+    display: inline-block;
+    border: 1px solid;
+    border-color: rgba(229,230,233,0.5) rgba(223,224,228,0.5) #d0d1d5;
+    border-radius: 3px;
+    text-decoration: none;
+    background: #fff;
+	color: #282828;
+	padding: 10px 18px;
+	display: inline;
+}
+
+.btn:hover {
+	margin: 10px;
+    font-size: 18px;
+	font-weight: 300;
+	display: inline;
+}
