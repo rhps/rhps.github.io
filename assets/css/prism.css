@@ -464,3 +464,7 @@ li, ol, ul {
 	font-weight: 300;
 	display: inline;
 }
+
+.image-caption {
+	text-align: center;
+}
