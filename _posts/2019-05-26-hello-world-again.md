@@ -3,8 +3,8 @@ layout: post
 title: "Hello World Again"
 description: "Memulai sesuatu yang baru kembali"
 date: 2019-05-26
-categories: [catatan]
-tags: [introduction]
+categories: [rilis]
+tags: [introduction, harapan.me, fitur]
 comments: true
 share: true
 hidden: false
