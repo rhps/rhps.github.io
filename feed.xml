@@ -5,33 +5,19 @@
     <link>https://www.harapan.me</link>
     <atom:link href="https://www.harapan.me/feed.xml" rel="self" type="application/rss+xml" />
     
-      <item>
-        <title>Signout @itb</title>
-        <description>&lt;!-- _includes/image.html --&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-    
-    &lt;a href=&quot;https://www.harapan.me/blog/sign-out-at-itb/&quot; title=&quot;singout@ITB&quot; target=&quot;_blank&quot;&gt;
-    
-        &lt;img src=&quot;https://www.harapan.me/images/itbmedals.jpg&quot; alt=&quot;singout@ITB&quot; class=&quot;imgjkl&quot; /&gt;
-    
-    &lt;/a&gt;
-    
-    
-        &lt;p class=&quot;image-caption&quot;&gt;singout@ITB&lt;/p&gt;
-    
-&lt;/div&gt;
+      
 
-&lt;p&gt;Pada akhirnya dapat keluar dengan kepala tegap dari kampus ini. Kampus asri diutara kota Bandung. Agak sempit karena perbandingan antara luas lahan dan luas bangunan cukup kecil, sehingga membuat sedikit sekali tempat terbuka dan jarak antar bangunan cukup dekat satu sama lain. Kita bisa mengelilingi kampus dari depan dengan berjalan kaki. Berpindah tempat dari satu gedung ke gedung lainnya membuat kemungkinan untuk bertemu orang lebih besar. Dengan jumlah penghuni yang cukup banyak dibandingkan dengan ketersedian penampungan orangnya membuat kampus ini menjadi sangat ramai pada saat jam-jam sibuk, seperti pada saat pagi jam 7, jam ganjil (jam pergantian kelas kebanyakan dijam ganjil seperti jam 7, 9, 11) dan ketika jam makan siang. Kesempatan berinteraksi dengan orang lain menjadi cukup besar. Lanskap wilayah kampus yang tidak rata membuat otot kaki para penghuni kampus berubah menjadi besar dan berisi, karena selalu dipaksa untuk berjalan, otot kaki menjadi sangat sering dipakai. Hal yang paling menyenangkan adalah begitu banyak jalur pejalan kaki dikampus ini yang sebagian besar diteduhi oleh pohon-pohon rindang atau beberapa dengan atap. Tempat terbuka sangat sedikit, namun menjadi sangat efektif digunakan, seandainya anda sedang berkunjung kesini, cobalah keliling kampus diantara jam 10 hingga jam 12 siang atau jam 2 hingga jam 6 sore, akan begitu banyak tempat terbuka seperti taman atau beranda gedung bahkan teras-teras yang akan digunakan oleh mahasiswa untuk berkumpul dan bahkan belajar.&lt;/p&gt;
-
-&lt;p&gt;Empat tahun secara fisik berada dikampus ini membuatku memahami banyak hal tentang kampus ini. Kultur dan budaya menjadi dua hal diantaranya. Ada tempat dimana orang-orangnya sangat ekspresif untuk menunjukkan diri mereka; Ada tempat yang orang-orangnya sangat terbuka terhadap berbagai pemikiran yang ada; Satu tempat yang orang-orangnya sedikit eksklusif dari mayoritas lingkungan;&lt;/p&gt;
-
-&lt;p&gt;Terkadang harus praktikum di gedung bagian depan dan kemudian diikuti dengan kelas di gedung bagian tengah, sehingga akan melewati jurusan dan fakultas lainnya.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 25 Oct 2019 00:00:00 +0700</pubDate>
-        <link>https://www.harapan.me/blog/sign-out-at-itb/</link>
-        <guid isPermaLink="true">https://www.harapan.me/blog/sign-out-at-itb/</guid>
-      </item>
+      
     
+      
+
+      
+    
+      
+
+      
+    
+      
       <item>
         <title>memento</title>
         <description>&lt;div style=&quot;font-size:70%; text-align:center;&quot;&gt;
@@ -126,48 +112,25 @@ rhgps&lt;/p&gt;
         <link>https://www.harapan.me/blog/memento/</link>
         <guid isPermaLink="true">https://www.harapan.me/blog/memento/</guid>
       </item>
+      
     
-      <item>
-        <title>Archiavelli</title>
-        <description>&lt;blockquote&gt;
-  &lt;p&gt;Archiavelli&lt;/p&gt;
-&lt;/blockquote&gt;
+      
 
-&lt;p&gt;Archiavelli berasal dari penggabungan dua buah kata yang dipaksakan yaitu Archive dan Machiavelli. Archive sendiri bermakna &lt;em&gt;a place in which public records or historical materials (such as documents) are preserved; a repository or collection especially of information&lt;/em&gt; dikutip dari &lt;a href=&quot;https://www.merriam-webster.com/dictionary/archive&quot;&gt;online Dictionary Merriam-Webster&lt;/a&gt;. Dalam bahasa Indonesia, kata arsip diserap dari bahasa Belanda yaitu &lt;em&gt;archief&lt;/em&gt;, yang mana bahasa Belanda sendiri juga menyerapnya dari bahasa Prancis yaitu &lt;em&gt;archives&lt;/em&gt;. Tampak kesamaan makna kata &lt;em&gt;Archive&lt;/em&gt; dari setiap bahasa, karena pada dasarnya &lt;em&gt;Archive&lt;/em&gt; diserap dari &lt;a href=&quot;http://www.apgrd.ox.ac.uk/learning/an-introduction-to/an-introduction-to-archives&quot;&gt;bahasa Yunani&lt;/a&gt; yaitu &lt;em&gt;ta arkheia&lt;/em&gt;, yang bermakna &lt;em&gt;public records&lt;/em&gt;. Pada zaman Yunani dan Romawi kuno, &lt;em&gt;Archive&lt;/em&gt; merupakan kumpulan catatan ekonomi, religi, legal dan teks literatur serta dokumen legislatif penting lainnya yang dianggap penting untuk disimpan.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 31 May 2019 00:00:00 +0700</pubDate>
-        <link>https://www.harapan.me/blog/archiavelli/</link>
-        <guid isPermaLink="true">https://www.harapan.me/blog/archiavelli/</guid>
-      </item>
+      
     
-      <item>
-        <title>Bagaimana harapan.me dibentuk secara teknologi?</title>
-        <description>&lt;p&gt;jekyll&lt;/p&gt;
-</description>
-        <pubDate>Thu, 30 May 2019 00:00:00 +0700</pubDate>
-        <link>https://www.harapan.me/blog/tech-stack-harapan-me/</link>
-        <guid isPermaLink="true">https://www.harapan.me/blog/tech-stack-harapan-me/</guid>
-      </item>
-    
-      <item>
-        <title>Sabatical Leave</title>
-        <description>&lt;p&gt;Selama sebulan terakhir dan hingga sebulan kedepan, saya sedang tidak terikat dengan satu perusahaan apapun dan sedang tidak menjalankan suatu kegiatan bisnis &lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+      
 
-&lt;p&gt;https://hbr.org/2017/08/research-shows-that-organizations-benefit-when-employees-take-sabbaticals&lt;/p&gt;
-
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;https://www.thebalancecareers.com/why-employers-should-consider-sabbatical-leave-programs-4171929&quot;&gt;Why Employers Should Consider Sabbatical Leave Programs&lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Sun, 26 May 2019 00:00:00 +0700</pubDate>
-        <link>https://www.harapan.me/blog/sabatical-leave/</link>
-        <guid isPermaLink="true">https://www.harapan.me/blog/sabatical-leave/</guid>
-      </item>
+      
     
+      
+
+      
+    
+      
+
+      
+    
+      
       <item>
         <title>Hello World Again</title>
         <description>&lt;p&gt;Hello World &lt;em&gt;Again&lt;/em&gt;. Akhirnya dapat memulai kembali kegiatan menulis.&lt;/p&gt;
@@ -194,6 +157,7 @@ rhgps&lt;/p&gt;
         <link>https://www.harapan.me/blog/hello-world-again/</link>
         <guid isPermaLink="true">https://www.harapan.me/blog/hello-world-again/</guid>
       </item>
+      
     
   </channel>
 </rss>
