@@ -468,3 +468,52 @@ li, ol, ul {
 .image-caption {
 	text-align: center;
 }
+
+.hero-content .hero-buttons {
+    margin: 0 auto;
+	display: table;
+}
+
+button.btn, input.btn {
+    padding: 12px 35px;
+    margin: 2em 0.5em;
+    border: solid 1px #d5e0e7;
+    border-radius: 4px;
+    color: #2E4453;
+    font-weight: 600;
+}
+
+
+.btn-lg, .btn-group-lg>.btn {
+    padding: 10px 16px;
+    font-size: 18px;
+    line-height: 1.3333333;
+    border-radius: 6px;
+}
+
+.btn-default {
+    color: #333;
+    background-color: #fff;
+    border-color: #ccc;
+}
+
+.btn {
+    display: inline-block;
+    margin-bottom: 0;
+    font-weight: normal;
+    text-align: center;
+    vertical-align: middle;
+    touch-action: manipulation;
+    cursor: pointer;
+    background-image: none;
+    border: 1px solid transparent;
+    white-space: nowrap;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.428571429;
+    border-radius: 4px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
