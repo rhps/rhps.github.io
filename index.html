@@ -26,7 +26,7 @@ layout: index
 								<p>Berbagilah seperlunya!</p>
 								<br />
 							</div>
-							<h3 class="title">
+							<!-- <h3 class="title">
 							{% for nav in site.nav %}
 								{% if nav.url contains 'http://' or nav.url contains 'https://' %}
 									<a class="btn" href="{{ nav.url }}"> {{ nav.name }} </a>
@@ -34,7 +34,20 @@ layout: index
 									<a class="btn" href="{{ nav.url | prepend: site.baseurl }}"> {{ nav.name }} </a>
 								{% endif %}
 							{% endfor %}
-							</h3>
+							</h3> -->
+
+							<div class="hero-buttons" style="margin: 0 auto; display: table;">
+								{% for nav in site.nav %}
+									{% if nav.url contains 'http://' or nav.url contains 'https://' %}
+										<!-- <a class="btn" href="{{ nav.url }}"> {{ nav.name }} </a> -->
+										<a href="{{ nav.url }}" style="font-family: 'Merriweather', serif;"><button class="btn btn-default btn-lg"> {{ nav.name }} </button></a>
+									{% else %}
+										<!-- <a class="btn" href="{{ nav.url | prepend: site.baseurl }}"> {{ nav.name }} </a> -->
+										<a href="{{ nav.url | prepend: site.baseurl }}" style="font-family: 'Merriweather', serif;"><button class="btn btn-default btn-lg"> {{ nav.name }} </button></a>
+									{% endif %}
+								{% endfor %}
+							</div>
+				  
 						</div>
 					</div>
 				</div>
