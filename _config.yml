@@ -62,7 +62,7 @@ nav:
   - name:           "about"
     url:            "/about"
   - name:           "me"
-    url:            "/about"
+    url:            "/me"
   # - name:           "archive"
     # url:            "/archive"
 #  - name:           "CV"
