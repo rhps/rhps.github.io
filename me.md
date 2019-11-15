@@ -15,6 +15,7 @@ Sehari-hari saya mengurusi data di perusahaan start-up finansial teknologi uang 
 3. **Analytics Utilization for Business and Finance**. Teknologi dan Data yang termanfaatkan dengan baik tidak hanya membantu manusia namun juga dapat menjalankan perekonomian. Saya akan sangat tertarik untuk membantu perusahaan, pemerintah dan pemegang kepentingan lainnya untuk penerapan teknologi dan data dalam keberlangsungan bisnis mereka.
 4. **Pengembangan diri dan bagaimana manusia bertindak**. Belajar untuk memahami manusia baik dalam perilaku individu maupun kelompok menjadi sesuatu yang sangat menarik. Menyadari bahwa perilaku individu akan berbeda ketika tergabung dalam kelompok dan kelompok menjadi sangat mudah terpantik hingga dapat membuat suatu gerakan. Sungguh bermanfaat untuk mengetahui agar tahu menempatkan diri dalam satu keramaian kelompok.
 5. **Membaca**. Selalu menarik untuk tidak ketinggalan tentang perkembangan pengetahuan dan bagaimana dunia berjalan belakangan ini.
+6. **Apresiasi Seni**. Seni membuat hidup lebih berwarna. Satu hal bila tiba-tiba dirimu sangat peka terhadap seni dan mampu menikmati keindahan bahkan hanya sekedar lukisan atau pemandangan senja, itu berarti kehidupan batinmu sedang meningkat yang disebabkan oleh ritme hidup yang meninggi dan tekanan dalam kehidupan. Mungkin dengan rutin menikmati dan mengapresiasi seni, peningkatan hidup tersebut akan terimbangi.
 
 <h4>Kontak</h4>
 

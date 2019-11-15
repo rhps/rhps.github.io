@@ -7,7 +7,7 @@ categories: [tutorial]
 tags: [tips-trick, lifehack]
 comments: true
 share: true
-hidden: false
+hidden: true
 ---
 
 https://opensource.com/article/18/3/manage-workstation-ansible
