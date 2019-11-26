@@ -33,44 +33,48 @@
     - 'smart-contract'
     - 'brief-introduction'
 -
-  Title: ''
-  Link: ''
-  Description: ''
-  Date:
+  Title: "SCIENTISTS CONFIRM MUSIC IS UNIVERSAL, AND IT IS USED IN 'STRIKINGLY SIMILAR WAYS' ACROSS THE GLOBE"
+  Link: 'https://www.newsweek.com/scientists-music-universal-globe-1473230'
+  Description: 'A research that describe about how music similarity in point of view of people around the globe'
+  Date: 2019-11-25
   Tag:
-    - ''
+    - 'music'
+    - 'research-explanation'
 -
-  Title: ''
-  Link: ''
-  Description: ''
-  Date:
+  Title: 'The Hard Problems in math, computer science and economics that I thought were important for cryptocurrencty [in 2014]'
+  Link: 'https://github.com/ethereum/wiki/wiki/Problems/89fd07ffff8b042134e4ca67a0ce143d574016bd'
+  Description: 'The Hard Problems in math, computer science and economics that I thought were important for cryptocurrencty [in 2014]'
+  Date: 2019-11-26
   Tag:
-    - ''
+    - 'cryptocurrency'
+    - futurist
 -
-  Title: ''
-  Link: ''
-  Description: ''
-  Date:
+  Title: 'THE WEB BEGAN DYING IN 2014, HERE'S HOW'
+  Link: 'https://staltz.com/the-web-began-dying-in-2014-heres-how.html'
+  Description: 'catatan tentang perkembangan internet hingga terbentuk seperti sekarang ini, dimana traffic dari internet dikuasi oleh big 3 internet company'
+  Date: 2019-11-26
   Tag:
-    - ''
+    - 'historical-review-tech'
 -
-  Title: ''
-  Link: ''
-  Description: ''
-  Date:
+  Title: 'Cryptoqueen: How this woman scammed the world, then vanished'
+  Link: 'https://www.bbc.com/news/stories-50435014'
+  Description: 'A long story about the biggest scam about cryptocurrencty in the world'
+  Date: 2019-11-26
   Tag:
-    - ''
+    - 'cryptocurrency'
+    - 'news'
 -
-  Title: ''
-  Link: ''
-  Description: ''
-  Date:
+  Title: 'The Bus Ticket Theory of Genius'
+  Link: 'http://paulgraham.com/genius.html'
+  Description: 'Selain kemampuan alami (bakat) dan determinasi yang tinggi ada satu faktor lainnya yang membuat orang '' yaitu sebuah obsesi atas suatu hal yang berasal dari dirinya sendiri, Paul Graham menjelaskannya dalam The Bus Ticket Theory of Genius'
+  Date: 2019-11-26
   Tag:
-    - ''
+    - 'opinion'
+    - 'great-reading'
 -
-  Title: ''
-  Link: ''
-  Description: ''
+  Title: 'The Hidden Life of an Amazon User A project by Joana Moll'
+  Link: 'https://www.janavirgin.com/AMZ/'
+  Description: 'Just another interesting project by someone about how the economics of Data'
   Date:
   Tag:
     - ''
