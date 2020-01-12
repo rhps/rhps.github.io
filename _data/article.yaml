@@ -49,7 +49,7 @@
     - 'cryptocurrency'
     - futurist
 -
-  Title: 'THE WEB BEGAN DYING IN 2014, HERE'S HOW'
+  Title: "THE WEB BEGAN DYING IN 2014, HERE'S HOW"
   Link: 'https://staltz.com/the-web-began-dying-in-2014-heres-how.html'
   Description: 'catatan tentang perkembangan internet hingga terbentuk seperti sekarang ini, dimana traffic dari internet dikuasi oleh big 3 internet company'
   Date: 2019-11-26
@@ -77,7 +77,8 @@
   Description: 'Just another interesting project by someone about how the economics of Data'
   Date: 2019-11-26
   Tag:
-    - ''
+    - 'interesting-project'
+    - 'data-privacy'
 -
   Title: 'Powered by AI: Instagram’s Explore recommender system'
   Link: 'https://instagram-engineering.com/powered-by-ai-instagrams-explore-recommender-system-7ca901d2a882'
@@ -88,82 +89,97 @@
     - 'artifical-intelligence'
     - 'use-case'
 -
-  Title: ''
-  Link: ''
-  Description: ''
-  Date:
+  Title: 'What is Mining & How Cryptocurrency Works?'
+  Link: 'https://medium.com/@BangBitTech/what-is-mining-how-cryptocurrency-works-3ee74f02bf42'
+  Description: 'Overview bagaimana cryptocurrency bekerja dan apa yang sebenarnya terjadi pada proses mining di-bitcoin'
+  Date: 2019-11-28
   Tag:
-    - ''
+    - 'cryptocurrency'
+    - 'mining'
+    - 'brief-introduction'
 -
-  Title: ''
-  Link: ''
-  Description: ''
-  Date:
+  Title: 'Interactive Linear Algebra'
+  Link: 'https://textbooks.math.gatech.edu/ila/'
+  Description: 'Want to learn Linear Algebra in different way? Try this!!!'
+  Date: 2019-11-28
   Tag:
-    - ''
+    - 'linear-algebra'
+    - 'theory'
+    - 'learning'
 -
-  Title: ''
-  Link: ''
-  Description: ''
-  Date:
+  Title: 'Complete Guide ELK Stack'
+  Link: 'https://logz.io/learn/complete-guide-elk-stack/'
+  Description: 'a Complete-brief introduction to elk'
+  Date: 2019-11-29
   Tag:
-    - ''
+    - 'elk'
+    - brief-introduction
 -
-  Title: ''
-  Link: ''
-  Description: ''
-  Date:
+  Title: 'Hard Problems in Cryptocurrency'
+  Link: 'https://github.com/ethereum/wiki/wiki/Problems/89fd07ffff8b042134e4ca67a0ce143d574016bd'
+  Description: 'Problem in Cryptography'
+  Date: 2019-11-30
   Tag:
-    - ''
+    - 'cryptography'
+    - 'futurist'
 -
-  Title: ''
-  Link: ''
-  Description: ''
-  Date:
+  Title: 'Hard Problems in Cryptocurrency: Five Years Later'
+  Link: 'https://vitalik.ca/general/2019/11/22/progress.html'
+  Description: 'Problem in Cryptography, updated afters 5 years'
+  Date: 2019-11-30
   Tag:
-    - ''
+    - 'cryptography'
+    - 'futurist'
 -
-  Title: ''
-  Link: ''
-  Description: ''
-  Date:
+  Title: "In defense of 'flicks' (or how I learned to stop worrying and love 705600000)"
+  Link: 'https://mux.com/blog/in-defense-of-flicks-or-how-i-learned-to-stop-worrying-and-love-705600000/'
+  Description: 'a simple programming method to effectively writa a optimize code'
+  Date: 2019-11-30
   Tag:
-    - ''
+    - 'code'
+    - 'tips-n-trick'
 -
-  Title: ''
-  Link: ''
-  Description: ''
-  Date:
+  Title: 'Getting started: the 3 stages of data infrastructure'
+  Link: 'https://medium.com/@natekupp/getting-started-the-3-stages-of-data-infrastructure-556dac82e825'
+  Description: 'Stage Process to Data Infrastructure'
+  Date: 2019-11-30
   Tag:
-    - ''
+    - 'data-engineering'
+    - 'know-how'
 -
-  Title: ''
-  Link: ''
-  Description: ''
-  Date:
+  Title: 'Schlosspost is an open platform for the Solitude network and those who would like to be part of it.'
+  Link: 'https://schloss-post.com/'
+  Description: 'Project-project gila dari orang-orang diseluruh dunia yang menyangkut banyak hal'
+  Date: 2019-12-01
   Tag:
-    - ''
+    - 'insanity-project'
+    - 'currated-list'
 -
-  Title: ''
-  Link: ''
-  Description: ''
-  Date:
+  Title: 'Introduction to Artificial Life for People who Like AI'
+  Link: 'https://thegradient.pub/an-introduction-to-artificial-life-for-people-who-like-ai/'
+  Description: 'Alife, Artificial Life satu bidang baru yang menggabungkan banyak ilmu untuk mempelajari kehidupan yang artificial'
+  Date: 2019-12-02
   Tag:
-    - ''
+    - 'alife'
+    - 'brief-introduction'
 -
-  Title: ''
-  Link: ''
-  Description: ''
-  Date:
+  Title: 'How to annotate literally everything'
+  Link: 'https://beepb00p.xyz/annotating.html'
+  Description: 'A Trivial but usefull information about annotate literally everything'
+  Date: 2019-12-02
   Tag:
-    - ''
+    - 'annotate'
+    - 'life-hacks'
 -
-  Title: ''
-  Link: ''
-  Description: ''
-  Date:
+  Title: 'Oracle Database Tutorial'
+  Link: 'https://www.oracletutorial.com/'
+  Description: 'A Complete Beginner Guide to Oracle Database'
+  Date: 2019-12-09
   Tag:
-    - ''
+    - 'oracle'
+    - 'database'
+    - 'brief-introduction'
+
 -
   Title: ''
   Link: ''
