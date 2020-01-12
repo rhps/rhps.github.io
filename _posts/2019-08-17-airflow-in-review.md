@@ -9,3 +9,14 @@ comments: true
 share: true
 hidden: true
 ---
+
+https://medium.com/@itunpredictable/apache-airflow-on-docker-for-complete-beginners-cf76cf7b2c9a
+
+https://medium.com/@xnuinside/quick-guide-how-to-run-apache-airflow-cluster-in-docker-compose-615eb8abd67a
+
+https://www.linkedin.com/pulse/dynamic-workflows-airflow-kyle-bridenstine
+
+https://blog.pythian.com/creating-dynamic-tasks-using-apache-airflow/
+
+https://www.astronomer.io/guides/dynamically-generating-dags/
+

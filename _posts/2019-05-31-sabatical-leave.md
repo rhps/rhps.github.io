@@ -3,7 +3,8 @@ layout: post
 title: "Sabatical Leave"
 description: "generate new ideas for innovating in the <strike>organization</strike> life and helped <strike>them</strike>  me gain greater confidence in <strike>themselves</strike> myself as leaders"
 date: 2019-05-26
-tags: [articles]
+categories: [articles]
+tags: []
 comments: true
 share: true
 hidden: true
