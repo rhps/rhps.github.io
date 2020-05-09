@@ -181,6 +181,837 @@
     - 'brief-introduction'
 
 -
+  Title: 'Using Apache Airflow to build reusable ETL on AWS Redshift'
+  Link: 'https://sonra.io/2018/01/01/using-apache-airflow-to-build-a-data-pipeline-on-aws/'
+  Description: 'Using Apache Airflow to build reusable ETL on AWS Redshift'
+  Date: 2020-01-17
+  Tag:
+    - 'airflow'
+    - 'data-eng'
+    - 'pipeline'
+-
+  Title: 'Pro tips for Google Cloud Dataflow & BigQuery'
+  Link: 'https://polleyg.dev/posts/data-engineering-tips/'
+  Description: ''
+  Date: 2020-01-17
+  Tag:
+    - ''
+-
+  Title: 'Spotify Engineering Culture (by Henrik Kniberg)'
+  Link: 'https://www.youtube.com/watch?v=4GK1NDTWbkY&feature=youtu.be'
+  Description: ''
+  Date: 2020-02-13
+  Tag:
+    - ''
+-
+  Title: 'Spotify Engineering Culture - Part 2'
+  Link: 'https://www.youtube.com/watch?v=vOt4BbWLWQw'
+  Description: ''
+  Date: 2020-02-13
+  Tag:
+    - ''
+-
+  Title: 'Spotify Engineering Culture - part 1 transcript'
+  Link: 'https://docs.google.com/presentation/d/1GI7r1Cdi6IqNKV3D7sHBXmD3q1QXCvRE17VFqWnVDrQ/edit#slide=id.g124885d4f_0217'
+  Description: ''
+  Date: 2020-02-13
+  Tag:
+    - ''
+-
+  Title: 'Spotify Engineering Culture - part 2 transcript'
+  Link: 'https://docs.google.com/presentation/d/1NpjcCo8Rd4SU7vbzmymsb3U27Cbp-toFj6UlIjOQEbs/edit#slide=id.g124885d4f_0397'
+  Description: ''
+  Date: 2020-02-13
+  Tag:
+    - ''
+-
+  Title: 'Menghapus dan Menghindari Silo di Internal Perusahaan'
+  Link: 'http://shiftindonesia.com/menghapus-dan-menghindari-silo-di-internal-perusahaan/'
+  Description: 'Silo Management terhadap akses data dari organisasi'
+  Date: 2020-02-13
+  Tag:
+    - 'Management'
+    - 'Silo'
+    - ''
+-
+  Title: 'CS50: Introduction to Computer Science'
+  Link: 'https://online-learning.harvard.edu/course/cs50-introduction-computer-science'
+  Description: 'Kursus online gratis mengenai pengenalan terhadap ilmu komputer yang diberikan oleh Harvard University, kursus ini juga menjadi kursus yang diambil oleh mahasiswa Harvard yang ingin mempelajari Koding'
+  Date: 2020-04-09
+  Tag:
+    - 'Course'
+    - 'Computer-Science'
+    - 'Coding'
+-
+  Title: 'CS 253 Web Security'
+  Link: 'https://web.stanford.edu/class/cs253/'
+  Description: 'Link Resmi dari Kuliah tentang Web Security di-Stanford University'
+  Date: 2020-04-09
+  Tag:
+    - 'Course'
+    - 'WebSecurity'
+-
+  Title: 'Gitlab Official Handbook'
+  Link: 'https://about.gitlab.com/handbook/'
+  Description: 'Handbook bagi karyawan Gitlab, gitlab terkenal sebagai perusahaan yang menerapkan full remote bagi semua karyawannya. Handbook ini menjadi panduan bagi karyawan mereka bagaimana mereka bekerja'
+  Date: 2020-04-09
+  Tag:
+    - 'Documentation'
+    - 'Handbook'
+    - 'Gitlab'
+-
+  Title: 'Galaxy Ansible'
+  Link: 'https://galaxy.ansible.com/'
+  Description: 'Ansible menjadi salah satu automation tools untuk server configuration yang banyak digunakan saat ini. Galaxy Ansible merupakan community driven library of Ansible'
+  Date: 2020-04-12
+  Tag:
+    - 'ansible'
+    - 'devops'
+    - 'library'
+-
+  Title: 'Moving away from GMail (Sebuah catatan untuk mencari layanan customade email service)'
+  Link: 'https://rolisz.ro/2020/04/11/moving-away-from-gmail/'
+  Description: 'Rolisz, mantan SRE team untuk gmail sedang mencari sebuah layanan email service yang customade dan memenuhi keinginannya, berikut merupakan hasil pencariannya'
+  Date: 2020-04-12
+  Tag:
+    - 'email'
+    - 'service'
+-
+  Title: 'Font Fingerprinting'
+  Link: 'https://www.johndcook.com/blog/2019/02/04/font-fingerprinting/'
+  Description: 'Walau kita tidak login pada satu website, namun pemilik website dapat melakukan analisa dan profiling untuk menebak profil kita, salah satu caranya ialah dengan menggunakan font pingeprinting. Yaitu client mengirim informasi font yang terinstall ke-server. Data itu kemudian dianalisis'
+  Date: 2020-04-13
+  Tag:
+    - 'privacy'
+    - 'analyst'
+    - 'know-how'
+-
+  Title: 'Device Info'
+  Link: 'https://www.deviceinfo.me/'
+  Description: 'Ketika mengunjungi suatu website, informasi apa saja yang dapat diambil oleh browser untuk kemudian dikirimkan ke-server? deviceinfo.me memberikan informasi lengkap, kemungkinan data apa saja yang bisa di-gathering oleh browser'
+  Date: 2020-04-13
+  Tag:
+    - 'privacy'
+    - 'browser'
+    - 'device-info'
+-
+  Title: 'CCPA Update 2020'
+  Link: 'http://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201920200AB713'
+  Description: 'California Consumer Privacy Act (CCPA) merupakan aturan perundang-undangan yang mirip dengan GDPR, yang mengatur tentang data privacy menyangkut kegiatan apa saja yang bisa dilakukan oleh pemilik website terhadap data pengguna mereka'
+  Date: 2020-04-15
+  Tag:
+    - 'privacy'
+    - 'law'
+-
+  Title: 'The Bus Ticket Theory of Genius'
+  Link: 'http://paulgraham.com/genius.html'
+  Description: 'Jadi pencapaian dan karya yang briliant dibentuk tidak hanya dari kemampuan alami seseorang dan determinasi, namun juga dari ketertarika yang terobsesi pada topik tertentu. Itulah yang membuat orang-orang hebat mampu bekerja berjam-jam pada hal-hal yang tidak biasa hingga berhasil menemukan sesuatu yang orang lain mungkin abaikan'
+  Date: 2020-04-19
+  Tag:
+    - 'Geinus'
+    - 'Opinion'
+-
+  Title: 'How to write usefully'
+  Link: 'http://paulgraham.com/useful.html'
+  Description: 'Paul Graham beropini: tulisan yang berguna ialah tulisan yang menyampaikan sesuatu yang benar dan yang penting yang orang lain belum tahu. Tidak selamanya hal yang disampaikan tersebut selalu dalam sesuatu yang baru, bisa jadi hanya sekedar penyampaian yang berbeda dari sebelumnya atau mereduksinya menjadi sesuatu yang eksak. Paul Graham berpendapat ada 4 komponen dalam menulis tulisan yang bagus yaitu importance, novelty, correctness, strength'
+  Date: 2020-04-19
+  Tag:
+    - 'Opinion'
+    - 'Writing'
+-
+  Title: 'Interview: Steve Wozniak, Co-Founder, Apple Computer (when he started to build and sell Apple first product)'
+  Link: 'http://www.foundersatwork.com/steve-wozniak.html'
+  Description: ''
+  Date:
+  Tag:
+    - ''
+-
+  Title: ''
+  Link: ''
+  Description: ''
+  Date:
+  Tag:
+    - ''
+-
+  Title: ''
+  Link: ''
+  Description: ''
+  Date:
+  Tag:
+    - ''
+-
+  Title: ''
+  Link: ''
+  Description: ''
+  Date:
+  Tag:
+    - ''
+-
+  Title: ''
+  Link: ''
+  Description: ''
+  Date:
+  Tag:
+    - ''
+-
+  Title: ''
+  Link: ''
+  Description: ''
+  Date:
+  Tag:
+    - ''
+-
+  Title: ''
+  Link: ''
+  Description: ''
+  Date:
+  Tag:
+    - ''
+-
+  Title: ''
+  Link: ''
+  Description: ''
+  Date:
+  Tag:
+    - ''
+-
+  Title: ''
+  Link: ''
+  Description: ''
+  Date:
+  Tag:
+    - ''
+-
+  Title: ''
+  Link: ''
+  Description: ''
+  Date:
+  Tag:
+    - ''
+-
+  Title: ''
+  Link: ''
+  Description: ''
+  Date:
+  Tag:
+    - ''
+-
+  Title: ''
+  Link: ''
+  Description: ''
+  Date:
+  Tag:
+    - ''
+-
+  Title: ''
+  Link: ''
+  Description: ''
+  Date:
+  Tag:
+    - ''
+-
+  Title: ''
+  Link: ''
+  Description: ''
+  Date:
+  Tag:
+    - ''
+-
+  Title: ''
+  Link: ''
+  Description: ''
+  Date:
+  Tag:
+    - ''
+-
+  Title: ''
+  Link: ''
+  Description: ''
+  Date:
+  Tag:
+    - ''
+-
+  Title: ''
+  Link: ''
+  Description: ''
+  Date:
+  Tag:
+    - ''
+-
+  Title: ''
+  Link: ''
+  Description: ''
+  Date:
+  Tag:
+    - ''
+-
+  Title: ''
+  Link: ''
+  Description: ''
+  Date:
+  Tag:
+    - ''
+-
+  Title: ''
+  Link: ''
+  Description: ''
+  Date:
+  Tag:
+    - ''
+-
+  Title: ''
+  Link: ''
+  Description: ''
+  Date:
+  Tag:
+    - ''
+-
+  Title: ''
+  Link: ''
+  Description: ''
+  Date:
+  Tag:
+    - ''
+-
+  Title: ''
+  Link: ''
+  Description: ''
+  Date:
+  Tag:
+    - ''
+-
+  Title: ''
+  Link: ''
+  Description: ''
+  Date:
+  Tag:
+    - ''
+-
+  Title: ''
+  Link: ''
+  Description: ''
+  Date:
+  Tag:
+    - ''
+-
+  Title: ''
+  Link: ''
+  Description: ''
+  Date:
+  Tag:
+    - ''
+-
+  Title: ''
+  Link: ''
+  Description: ''
+  Date:
+  Tag:
+    - ''
+-
+  Title: ''
+  Link: ''
+  Description: ''
+  Date:
+  Tag:
+    - ''
+-
+  Title: ''
+  Link: ''
+  Description: ''
+  Date:
+  Tag:
+    - ''
+-
+  Title: ''
+  Link: ''
+  Description: ''
+  Date:
+  Tag:
+    - ''
+-
+  Title: ''
+  Link: ''
+  Description: ''
+  Date:
+  Tag:
+    - ''
+-
+  Title: ''
+  Link: ''
+  Description: ''
+  Date:
+  Tag:
+    - ''
+-
+  Title: ''
+  Link: ''
+  Description: ''
+  Date:
+  Tag:
+    - ''
+-
+  Title: ''
+  Link: ''
+  Description: ''
+  Date:
+  Tag:
+    - ''
+-
+  Title: ''
+  Link: ''
+  Description: ''
+  Date:
+  Tag:
+    - ''
+-
+  Title: ''
+  Link: ''
+  Description: ''
+  Date:
+  Tag:
+    - ''
+-
+  Title: ''
+  Link: ''
+  Description: ''
+  Date:
+  Tag:
+    - ''
+-
+  Title: ''
+  Link: ''
+  Description: ''
+  Date:
+  Tag:
+    - ''
+-
+  Title: ''
+  Link: ''
+  Description: ''
+  Date:
+  Tag:
+    - ''
+-
+  Title: ''
+  Link: ''
+  Description: ''
+  Date:
+  Tag:
+    - ''
+-
+  Title: ''
+  Link: ''
+  Description: ''
+  Date:
+  Tag:
+    - ''
+-
+  Title: ''
+  Link: ''
+  Description: ''
+  Date:
+  Tag:
+    - ''
+-
+  Title: ''
+  Link: ''
+  Description: ''
+  Date:
+  Tag:
+    - ''
+-
+  Title: ''
+  Link: ''
+  Description: ''
+  Date:
+  Tag:
+    - ''
+-
+  Title: ''
+  Link: ''
+  Description: ''
+  Date:
+  Tag:
+    - ''
+-
+  Title: ''
+  Link: ''
+  Description: ''
+  Date:
+  Tag:
+    - ''
+-
+  Title: ''
+  Link: ''
+  Description: ''
+  Date:
+  Tag:
+    - ''
+-
+  Title: ''
+  Link: ''
+  Description: ''
+  Date:
+  Tag:
+    - ''
+-
+  Title: ''
+  Link: ''
+  Description: ''
+  Date:
+  Tag:
+    - ''
+-
+  Title: ''
+  Link: ''
+  Description: ''
+  Date:
+  Tag:
+    - ''
+-
+  Title: ''
+  Link: ''
+  Description: ''
+  Date:
+  Tag:
+    - ''
+-
+  Title: ''
+  Link: ''
+  Description: ''
+  Date:
+  Tag:
+    - ''
+-
+  Title: ''
+  Link: ''
+  Description: ''
+  Date:
+  Tag:
+    - ''
+-
+  Title: ''
+  Link: ''
+  Description: ''
+  Date:
+  Tag:
+    - ''
+-
+  Title: ''
+  Link: ''
+  Description: ''
+  Date:
+  Tag:
+    - ''
+-
+  Title: ''
+  Link: ''
+  Description: ''
+  Date:
+  Tag:
+    - ''
+-
+  Title: ''
+  Link: ''
+  Description: ''
+  Date:
+  Tag:
+    - ''
+-
+  Title: ''
+  Link: ''
+  Description: ''
+  Date:
+  Tag:
+    - ''
+-
+  Title: ''
+  Link: ''
+  Description: ''
+  Date:
+  Tag:
+    - ''
+-
+  Title: ''
+  Link: ''
+  Description: ''
+  Date:
+  Tag:
+    - ''
+-
+  Title: ''
+  Link: ''
+  Description: ''
+  Date:
+  Tag:
+    - ''
+-
+  Title: ''
+  Link: ''
+  Description: ''
+  Date:
+  Tag:
+    - ''
+-
+  Title: ''
+  Link: ''
+  Description: ''
+  Date:
+  Tag:
+    - ''
+-
+  Title: ''
+  Link: ''
+  Description: ''
+  Date:
+  Tag:
+    - ''
+-
+  Title: ''
+  Link: ''
+  Description: ''
+  Date:
+  Tag:
+    - ''
+-
+  Title: ''
+  Link: ''
+  Description: ''
+  Date:
+  Tag:
+    - ''
+-
+  Title: ''
+  Link: ''
+  Description: ''
+  Date:
+  Tag:
+    - ''
+-
+  Title: ''
+  Link: ''
+  Description: ''
+  Date:
+  Tag:
+    - ''
+-
+  Title: ''
+  Link: ''
+  Description: ''
+  Date:
+  Tag:
+    - ''
+-
+  Title: ''
+  Link: ''
+  Description: ''
+  Date:
+  Tag:
+    - ''
+-
+  Title: ''
+  Link: ''
+  Description: ''
+  Date:
+  Tag:
+    - ''
+-
+  Title: ''
+  Link: ''
+  Description: ''
+  Date:
+  Tag:
+    - ''
+-
+  Title: ''
+  Link: ''
+  Description: ''
+  Date:
+  Tag:
+    - ''
+-
+  Title: ''
+  Link: ''
+  Description: ''
+  Date:
+  Tag:
+    - ''
+-
+  Title: ''
+  Link: ''
+  Description: ''
+  Date:
+  Tag:
+    - ''
+-
+  Title: ''
+  Link: ''
+  Description: ''
+  Date:
+  Tag:
+    - ''
+-
+  Title: ''
+  Link: ''
+  Description: ''
+  Date:
+  Tag:
+    - ''
+-
+  Title: ''
+  Link: ''
+  Description: ''
+  Date:
+  Tag:
+    - ''
+-
+  Title: ''
+  Link: ''
+  Description: ''
+  Date:
+  Tag:
+    - ''
+-
+  Title: ''
+  Link: ''
+  Description: ''
+  Date:
+  Tag:
+    - ''
+-
+  Title: ''
+  Link: ''
+  Description: ''
+  Date:
+  Tag:
+    - ''
+-
+  Title: ''
+  Link: ''
+  Description: ''
+  Date:
+  Tag:
+    - ''
+-
+  Title: ''
+  Link: ''
+  Description: ''
+  Date:
+  Tag:
+    - ''
+-
+  Title: ''
+  Link: ''
+  Description: ''
+  Date:
+  Tag:
+    - ''
+-
+  Title: ''
+  Link: ''
+  Description: ''
+  Date:
+  Tag:
+    - ''
+-
+  Title: ''
+  Link: ''
+  Description: ''
+  Date:
+  Tag:
+    - ''
+-
+  Title: ''
+  Link: ''
+  Description: ''
+  Date:
+  Tag:
+    - ''
+-
+  Title: ''
+  Link: ''
+  Description: ''
+  Date:
+  Tag:
+    - ''
+-
+  Title: ''
+  Link: ''
+  Description: ''
+  Date:
+  Tag:
+    - ''
+-
+  Title: ''
+  Link: ''
+  Description: ''
+  Date:
+  Tag:
+    - ''
+-
+  Title: ''
+  Link: ''
+  Description: ''
+  Date:
+  Tag:
+    - ''
+-
+  Title: ''
+  Link: ''
+  Description: ''
+  Date:
+  Tag:
+    - ''
+-
+  Title: ''
+  Link: ''
+  Description: ''
+  Date:
+  Tag:
+    - ''
+-
+  Title: ''
+  Link: ''
+  Description: ''
+  Date:
+  Tag:
+    - ''
+-
+  Title: ''
+  Link: ''
+  Description: ''
+  Date:
+  Tag:
+    - ''
+-
+  Title: ''
+  Link: ''
+  Description: ''
+  Date:
+  Tag:
+    - ''
+-
+  Title: ''
+  Link: ''
+  Description: ''
+  Date:
+  Tag:
+    - ''
+-
+  Title: ''
+  Link: ''
+  Description: ''
+  Date:
+  Tag:
+    - ''
+-
+  Title: ''
+  Link: ''
+  Description: ''
+  Date:
+  Tag:
+    - ''
+-
   Title: ''
   Link: ''
   Description: ''
