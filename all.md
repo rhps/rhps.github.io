@@ -16,7 +16,12 @@ permalink: /all/
       <a href="{{ post.url | prepend: site.baseurl }}">
       {% endif %}  
         <span class="archive-list-post-title">
-          {{ post.title }}
+          <!-- {{ post.title }} -->
+          {% if post.hidden == false %}
+            {{ post.title }} <b><i>{ published }</i></b>
+          {% else %}
+            {{ post.title }}
+          {% endif %}
         </span>
         <span class="archive-list-post-date">
           <time>| {{ post.date | date_to_string }}</time>
