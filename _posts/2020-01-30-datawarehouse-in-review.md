@@ -3,7 +3,8 @@ layout: post
 title: "Datawarehouse in Review"
 description: "Bagaimana membangun datawarehouse yang menjawab kebutuhan business"
 date: 2020-01-30
-categories: [tutorial]
+categories: 'in-review'
+inreview: true
 tags: [technology, data, datawarehouse, in-review]
 comments: true
 share: true

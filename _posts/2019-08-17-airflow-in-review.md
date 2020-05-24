@@ -3,8 +3,10 @@ layout: post
 title: "Airflow in Review"
 description: "Airflow banyak digunakan oleh tim data sebagai tools orchestration dari pipeline data yang dibuat, tulisan ini akan membahas overview tentang airflow"
 date: 2019-08-17
-categories: [tutorial]
+categories: 'in-review'
+inreview: true
 tags: [technology, airflow, data-engineering, in-review]
+permalink: /airflow
 comments: true
 share: true
 hidden: true

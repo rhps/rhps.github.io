@@ -3,7 +3,7 @@ layout: post
 title: "Signout @itb"
 description: "hari pelepasan dan pengenangan"
 date: 2019-10-25
-categories: [catatan]
+categories: 'catatan'
 tags: [graduation, campuss, memento]
 comments: true
 share: true

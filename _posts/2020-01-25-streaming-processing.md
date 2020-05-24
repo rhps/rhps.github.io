@@ -1,4 +1,14 @@
-
+---
+layout: post
+title: "Streaming Processing"
+description: "Bagaimana membangun datawarehouse yang menjawab kebutuhan business"
+date: 2020-01-30
+categories: 'tutorial'
+tags: [technology, data, datawarehouse, in-review]
+comments: true
+share: true
+hidden: true
+---
 
 https://beam.apache.org/ : Unified model Implement batch and streaming data processing jobs that run on any execution engine.
 

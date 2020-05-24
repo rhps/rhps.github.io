@@ -3,7 +3,8 @@ layout: post
 title: "Belajar Javascript"
 description: "hari pelepasan dan pengenangan"
 date: 2019-10-27
-categories: [tutorial]
+categories: 'in-review'
+inreview: true
 tags: [technology, javascript, coding]
 comments: true
 share: true
