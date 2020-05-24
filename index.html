@@ -1,36 +1,33 @@
----
-layout: index
----
+--- layout: index ---
 
 
 
-  <div class="list">
+<div class="list">
     <div class="list-post">
 
         <div class="col-md-6 col-md-push-1 animate-box">
-						<div class="about-desc">
-							<div class="owl-carousel3">
-								<!-- <div class="item">
+            <div class="about-desc">
+                <div class="owl-carousel3">
+                    <!-- <div class="item">
 									<h2><span>Rio</span><span>Harapan</span></h2>
 								</div> -->
-								<div class="item relative" style="padding: 6rem 3rem;">
-									<h2 id="title-1" style="position: absolute;top: 0;"><span>harapan.me</span><span>~</span></h2>
-									<h2 id="title-2" style="position: absolute;top: 0;" class="hidden"><span>@</span><span>personal weblog</span></h2>
-								</div>
-							</div>
-							<div class="desc">
-								<div class="rotate">
-									<h2 class="heading">harapan.me</h2>
-								</div>
-<<<<<<< HEAD
-								<p>Hidup dalam zaman yang dipenuhi informasi dan setiap hari harus berhadapan dengan limpahan data. Kesadaran timbul ketika berhadapan dengan realitas. Bahwa data menjadi komiditi namun menakutkan ketika mengetahui bahwa apa yang dapat diperbuat dengannya. Ekonomi harus tetap berjalan. Jadilah hidupi hidupmu dengan hanya sedikit saja memberitahu kemana kamu akan pergi, dengan siapa kamu makan siang, apa yang sedang kamu kerjakan, bersama siapa kamu menghabiskan akhir pekan. Karena orang ingin tahu kamu bukan karena tertarik, tapi karena manfaat yang bisa diambil darimu. Oleh karenanya mereka tidak layak tahu kapan kamu menangis sedih atau tertawa bahagia.</p>
-=======
-								<p>Hidup dalam zaman yang dipenuhi informasi dan setiap hari harus berhadapan dengan limpahan data. Kesadaran timbul ketika berhadapan dengan realitas. Bahwa data menjadi komiditi namun menjadi menakutkan ketika mengetahui bahwa apa yang dapat diperbuat dengannya. Ekonomi harus tetap berjalan, hanya sedikit yang bisa dilakukan. Jadilah hidupi hidupmu dengan hanya sedikit saja memberitahu kemana kamu akan pergi, dengan siapa kamu makan siang, apa yang sedang kamu kerjakan, bersama siapa kamu menghabiskan akhir pekan. Karena orang ingin tahu kamu bukan karena tertarik, tapi karena manfaat yang bisa diambil darimu. Oleh karenanya mereka tidak layak tahu kapan kamu menangis sedih atau tertawa bahagia.</p>
->>>>>>> devel
-								<p>Berbagilah seperlunya!</p>
-								<br />
-							</div>
-							<!-- <h3 class="title">
+                    <div class="item relative" style="padding: 6rem 3rem;">
+                        <h2 id="title-1" style="position: absolute;top: 0;"><span>harapan.me</span><span>~</span></h2>
+                        <h2 id="title-2" style="position: absolute;top: 0;" class="hidden"><span>@</span><span>personal weblog</span></h2>
+                    </div>
+                </div>
+                <div class="desc">
+                    <div class="rotate">
+                        <h2 class="heading">harapan.me</h2>
+                    </div>
+                    <p>Hidup dalam zaman yang dipenuhi informasi dan setiap hari harus berhadapan dengan limpahan data. Kesadaran timbul ketika berhadapan dengan realitas. Bahwa data menjadi komiditi namun menjadi menakutkan ketika mengetahui bahwa apa yang
+                        dapat diperbuat dengannya. Ekonomi harus tetap berjalan, hanya sedikit yang bisa dilakukan. Jadilah hidupi hidupmu dengan hanya sedikit saja memberitahu kemana kamu akan pergi, dengan siapa kamu makan siang, apa yang sedang kamu
+                        kerjakan, bersama siapa kamu menghabiskan akhir pekan. Karena orang ingin tahu kamu bukan karena tertarik, tapi karena manfaat yang bisa diambil darimu. Oleh karenanya mereka tidak layak tahu kapan kamu menangis sedih atau tertawa
+                        bahagia.</p>
+                    <p>Berbagilah seperlunya!</p>
+                    <br />
+                </div>
+                <!-- <h3 class="title">
 							{% for nav in site.nav %}
 								{% if nav.url contains 'http://' or nav.url contains 'https://' %}
 									<a class="btn" href="{{ nav.url }}"> {{ nav.name }} </a>
@@ -40,39 +37,35 @@ layout: index
 							{% endfor %}
 							</h3> -->
 
-							<div class="hero-buttons" style="margin: 0 auto; display: table;">
-								{% for nav in site.nav %}
-									{% if nav.url contains 'http://' or nav.url contains 'https://' %}
-										<!-- <a class="btn" href="{{ nav.url }}"> {{ nav.name }} </a> -->
-										<a href="{{ nav.url }}" style="font-family: 'Merriweather', serif;"><button class="btn btn-default btn-lg"> {{ nav.name }} </button></a>
-									{% else %}
-										<!-- <a class="btn" href="{{ nav.url | prepend: site.baseurl }}"> {{ nav.name }} </a> -->
-										<a href="{{ nav.url | prepend: site.baseurl }}" style="font-family: 'Merriweather', serif;"><button class="btn btn-default btn-lg"> {{ nav.name }} </button></a>
-									{% endif %}
-								{% endfor %}
-							</div>
-				  
-						</div>
-					</div>
-				</div>
-			</div>
+                <div class="hero-buttons" style="margin: 0 auto; display: table;">
+                    {% for nav in site.nav %} {% if nav.url contains 'http://' or nav.url contains 'https://' %}
+                    <!-- <a class="btn" href="{{ nav.url }}"> {{ nav.name }} </a> -->
+                    <a href="{{ nav.url }}" style="font-family: 'Merriweather', serif;"><button class="btn btn-default btn-lg"> {{ nav.name }} </button></a> {% else %}
+                    <!-- <a class="btn" href="{{ nav.url | prepend: site.baseurl }}"> {{ nav.name }} </a> -->
+                    <a href="{{ nav.url | prepend: site.baseurl }}" style="font-family: 'Merriweather', serif;"><button class="btn btn-default btn-lg"> {{ nav.name }} </button></a> {% endif %} {% endfor %}
+                </div>
 
-			<script>
-			function hideTitle1 () {
-				setTimeout( () => {
-					document.getElementById("title-1").className = "owl-item animated owl-animated-out fadeOut";
-					document.getElementById("title-2").className = "animated delay-4s fadeIn"
-					hideTitle2();
-			}, 4000)
-			}	
+            </div>
+        </div>
+    </div>
+</div>
 
-				function hideTitle2 () {
-					setTimeout( () => {
-					document.getElementById("title-2").className = "owl-item animated owl-animated-out fadeOut";
-					document.getElementById("title-1").className = "animated delay-4s fadeIn"
-					hideTitle1()
-				}, 6000)
-				}
+<script>
+    function hideTitle1() {
+        setTimeout(() => {
+            document.getElementById("title-1").className = "owl-item animated owl-animated-out fadeOut";
+            document.getElementById("title-2").className = "animated delay-4s fadeIn"
+            hideTitle2();
+        }, 4000)
+    }
 
-				hideTitle1()
-			</script>
+    function hideTitle2() {
+        setTimeout(() => {
+            document.getElementById("title-2").className = "owl-item animated owl-animated-out fadeOut";
+            document.getElementById("title-1").className = "animated delay-4s fadeIn"
+            hideTitle1()
+        }, 6000)
+    }
+
+    hideTitle1()
+</script>
