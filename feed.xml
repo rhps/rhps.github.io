@@ -18,6 +18,50 @@
       
     
       
+
+      
+    
+      
+
+      
+    
+      
+
+      
+    
+      
+
+      
+    
+      
+
+      
+    
+      
+
+      
+    
+      
+
+      
+    
+      
+
+      
+    
+      
+
+      
+    
+      
+
+      
+    
+      
+
+      
+    
+      
       <item>
         <title>memento</title>
         <description>&lt;div style=&quot;font-size:70%; text-align:center;&quot;&gt;
@@ -109,8 +153,165 @@ aku kagum dengan kemampuan kolektif manusia
 rhgps&lt;/p&gt;
 </description>
         <pubDate>Fri, 30 Aug 2019 00:00:00 +0700</pubDate>
-        <link>https://www.harapan.me/blog/memento/</link>
-        <guid isPermaLink="true">https://www.harapan.me/blog/memento/</guid>
+        <link>https://www.harapan.me/memento</link>
+        <guid isPermaLink="true">https://www.harapan.me/memento</guid>
+      </item>
+      
+    
+      
+
+      
+    
+      
+      <item>
+        <title>in review</title>
+        <description>&lt;p&gt;Bekerja menjadi engineer dibidang IT membuatku harus selalu up-to-date terharap perkembangan terbaru. Setiap harinya akan banyak library baru, framework baru, tools baru yang semakin memudahkan pekerjaan. Tidak hanya memudahkan namun tools tersebut juga semakin kompleks untuk dipelajari. Belum lagi dengan silih berganti hadirnya bahasa-bahasa baru yang menawarkan fitur-fitur yang menarik secara default. Oleh karena itu kita mau tidak mau, harus terus belajar dan mengupdate pengetahuan.&lt;/p&gt;
+
+&lt;p&gt;Ada satu pengalaman menarik ketika &lt;a href=&quot;/golang&quot;&gt;belajar Golang&lt;/a&gt; sebelumnya. Awalnya dipertengahan 2019 ditawari seorang teman untuk membantu tim-nya untuk membuat satu fitur sederhana dalam sistem mereka. Dalam beberapa minggu aku belajar golang dari nol hingga dapat membuat fitur tersebut, tidak terlalu bagus memang, tapi setidak fitur tersebut dapat digunakan dan berjalan. Setelah project tersebut selesai, Golang tidak pernah lagi digunakan.&lt;/p&gt;
+
+&lt;p&gt;Kemudian quarter pertama 2020, ada wacana untuk membuat sistem baru ditempatku bekerja, salah satu pilihannya dengan menggunakan golang. Pada akhirnya aku harus belajar dari nol lagi untuk mengingat-ingat kembali syntax dari golang. Walau memang untuk belajar yang kedua kalinya ini waktu yang dihabiskan lebih singkat dibandingkan saat pertama kali menyentuh golang, namun &lt;em&gt;path&lt;/em&gt; yang harus kulalui tetap sama yaitu membaca kembali tutorial yang aku gunakan ketika belajar golang untuk pertama kalinya.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;in-review&lt;/em&gt; ini hadir sebagai bentuk catatan belajarku terhadap satu teknologi maupun satu bahasa pemrograman baru. &lt;em&gt;in-review&lt;/em&gt; akan berisi mengenai catatan singkat tentang hal-hal yang kupelajari, yang daripada disimpan sendiri, dengan sedikit modifikasi dan perbaikan, ada baiknya aku share di-blog ini. &lt;em&gt;in-review&lt;/em&gt; akan berisi hal-hal esensial dan penting ketika aku mempelajari suatu topik, sehingga ketika dibutuhkan kedepannya untuk membaca ulang topik tersebut, catatan ini akan sangat berguna sekali.&lt;/p&gt;
+
+&lt;p&gt;Misalnya ketika aku menulis &lt;a href=&quot;/airflow&quot;&gt;Airflow in-review&lt;/a&gt;, tulisan ini akan berisi penjelasan singkat, esensial dan sederhana mengenai airflow, kemudian diikut dengan beberapa panduan teknis sehingga airflow dapat berjalan dan digunakan. Untuk bacaan lebih lanjut akan ditulis dalam tulisan terpisah.&lt;/p&gt;
+
+&lt;p&gt;Dalam tulisan lain misalnya yang membahas mengenai &lt;a href=&quot;/golang&quot;&gt;belajar bahasa pemrograman Go&lt;/a&gt;, tulisan ini akan lebih cocok dibaca oleh mereka yang sudah berpengalaman memprogram dengan setidaknya satu bahasa pemrograman. Karena &lt;a href=&quot;/golang&quot;&gt;Golang in-review&lt;/a&gt; akan ditulis dengan sangat sederhana dan berisi hal-hal penting dan esensial mengenai bahasa pemrograman Golang, layaknya catatan ketika kita kuliah atau sekolah. Kita tidak memindahkan semua hal dalam buku teks kedalam buku catatan kita.&lt;/p&gt;
+
+&lt;p&gt;Topik-topik pilihan dalam &lt;em&gt;in-review&lt;/em&gt; adalah,&lt;/p&gt;
+&lt;div class=&quot;archive&quot;&gt;
+&lt;div class=&quot;archive-list&quot;&gt;
+&lt;div&gt;
+
+    &lt;div class=&quot;archive-list-post&quot;&gt;
+        
+            Datawarehouse in Review
+            &lt;span class=&quot;archive-list-post-date&quot;&gt;
+            | in-progress
+            &lt;/span&gt;
+        
+    &lt;/div&gt;
+
+    &lt;div class=&quot;archive-list-post&quot;&gt;
+        
+    &lt;/div&gt;
+
+    &lt;div class=&quot;archive-list-post&quot;&gt;
+        
+            Golang in Review
+            &lt;span class=&quot;archive-list-post-date&quot;&gt;
+            | in-progress
+            &lt;/span&gt;
+        
+    &lt;/div&gt;
+
+    &lt;div class=&quot;archive-list-post&quot;&gt;
+        
+            Kubernetes in Review
+            &lt;span class=&quot;archive-list-post-date&quot;&gt;
+            | in-progress
+            &lt;/span&gt;
+        
+    &lt;/div&gt;
+
+    &lt;div class=&quot;archive-list-post&quot;&gt;
+        
+    &lt;/div&gt;
+
+    &lt;div class=&quot;archive-list-post&quot;&gt;
+        
+    &lt;/div&gt;
+
+    &lt;div class=&quot;archive-list-post&quot;&gt;
+        
+            Docker in Review
+            &lt;span class=&quot;archive-list-post-date&quot;&gt;
+            | in-progress
+            &lt;/span&gt;
+        
+    &lt;/div&gt;
+
+    &lt;div class=&quot;archive-list-post&quot;&gt;
+        
+    &lt;/div&gt;
+
+    &lt;div class=&quot;archive-list-post&quot;&gt;
+        
+            Bash in Review
+            &lt;span class=&quot;archive-list-post-date&quot;&gt;
+            | in-progress
+            &lt;/span&gt;
+        
+    &lt;/div&gt;
+
+    &lt;div class=&quot;archive-list-post&quot;&gt;
+        
+    &lt;/div&gt;
+
+    &lt;div class=&quot;archive-list-post&quot;&gt;
+        
+    &lt;/div&gt;
+
+    &lt;div class=&quot;archive-list-post&quot;&gt;
+        
+            Belajar Javascript
+            &lt;span class=&quot;archive-list-post-date&quot;&gt;
+            | in-progress
+            &lt;/span&gt;
+        
+    &lt;/div&gt;
+
+    &lt;div class=&quot;archive-list-post&quot;&gt;
+        
+    &lt;/div&gt;
+
+    &lt;div class=&quot;archive-list-post&quot;&gt;
+        
+    &lt;/div&gt;
+
+    &lt;div class=&quot;archive-list-post&quot;&gt;
+        
+    &lt;/div&gt;
+
+    &lt;div class=&quot;archive-list-post&quot;&gt;
+        
+            Airflow in Review
+            &lt;span class=&quot;archive-list-post-date&quot;&gt;
+            | in-progress
+            &lt;/span&gt;
+        
+    &lt;/div&gt;
+
+    &lt;div class=&quot;archive-list-post&quot;&gt;
+        
+    &lt;/div&gt;
+
+    &lt;div class=&quot;archive-list-post&quot;&gt;
+        
+    &lt;/div&gt;
+
+    &lt;div class=&quot;archive-list-post&quot;&gt;
+        
+    &lt;/div&gt;
+
+    &lt;div class=&quot;archive-list-post&quot;&gt;
+        
+    &lt;/div&gt;
+
+    &lt;div class=&quot;archive-list-post&quot;&gt;
+        
+    &lt;/div&gt;
+
+    &lt;div class=&quot;archive-list-post&quot;&gt;
+        
+    &lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Thu, 01 Aug 2019 00:00:00 +0700</pubDate>
+        <link>https://www.harapan.me/inreview</link>
+        <guid isPermaLink="true">https://www.harapan.me/inreview</guid>
       </item>
       
     
@@ -154,8 +355,8 @@ rhgps&lt;/p&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Sun, 26 May 2019 00:00:00 +0700</pubDate>
-        <link>https://www.harapan.me/blog/hello-world-again/</link>
-        <guid isPermaLink="true">https://www.harapan.me/blog/hello-world-again/</guid>
+        <link>https://www.harapan.me/helloworld</link>
+        <guid isPermaLink="true">https://www.harapan.me/helloworld</guid>
       </item>
       
     
