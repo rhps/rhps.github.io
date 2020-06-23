@@ -55,6 +55,7 @@ markdown:           kramdown
 kramdown:
   input:            GFM
   syntax_highlighter: pygments
+  parse_block_html: true
 highlighter: pygments
 
 # Navigation
