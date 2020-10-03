@@ -5,6 +5,7 @@ description: "hari pelepasan dan pengenangan"
 date: 2019-10-25
 categories: 'catatan'
 tags: [graduation, campuss, memento]
+permalink: /singout
 comments: true
 share: true
 hidden: true

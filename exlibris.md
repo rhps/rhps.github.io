@@ -9,9 +9,15 @@ Rekomendasi dan ulasan dari beberapa buku yang pernah dibaca.
   {% for book in site.data.books %}
     <li class="c-shelf__volume book-item">
       <a href="{{ book.Post }}" class="c-shelf__link">
-        <figure class="c-cover book-figure">
+        {% if "#" == book.Post %}
+          <figure class="c-cover book-figure gray">
+              <img src="{{ book.Image }}?w=250&amp;h=400&amp;fit=crop&amp;q=50&amp;auto=format" alt="{{ book.Title}}"/>
+          </figure>
+        {% else %}
+          <figure class="c-cover book-figure">
             <img src="{{ book.Image }}?w=250&amp;h=400&amp;fit=crop&amp;q=50&amp;auto=format" alt="{{ book.Title}}"/>
-        </figure>
+          </figure>
+        {% endif %}
         <div style="font-size: 0.5rem">
           {% assign star = book.Rating %}
           {% case star %}

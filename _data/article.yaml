@@ -326,99 +326,105 @@
   Tag:
     - ''
 -
-  Title: ''
-  Link: ''
+  Title: 'Economics Blogs List 2020'
+  Link: 'https://www.intelligenteconomist.com/economics-blogs/'
+  Description: 'Daftar blog yang ditulis oleh para economics, dengan topik yang beragam dan cukup update'
+  Date: 2020-06-24
+  Tag:
+    - 'Economics'
+    - 'blogs-review'
+    - 'Opinion'
+-
+  Title: 'Reflections on Being a Female Founder'
+  Link: 'https://tracy.posthaven.com/reflections-on-being-a-female-founder'
+  Description: 'Tracy, Founder of PlanGrid, menyampaikan refleksi dari perjalanan mengharukannya sebagai CEO sebuah startup tech construction. Mengalami hal mengharukan dalam membangun startup diikut dengan pengalamannya hamil dan mnejadi ibu.'
+  Date: 2020-08-08
+  Tag:
+    - 'Reflection'
+    - 'CEOs-Writing'
+    - 'Female'
+-
+  Title: 'Advice to Myself When Starting Out as a Software Developer'
+  Link: 'https://blog.pragmaticengineer.com/advice-to-myself-when-starting-as-a-software-developer/'
+  Description: 'Gergely Orosz give some advice about his experience to be a Software Developer for years. Some of his advices was tell about how to increate our capabilitie and skills on software developer by in-depth reading books, two per year, teach on community.'
+  Date: 2020-08-08
+  Tag:
+    - ''
+-
+  Title: 'Data Structures & Algorithms I Used Working at Tech Companies'
+  Link: 'https://blog.pragmaticengineer.com/data-structures-and-algorithms-i-actually-used-day-to-day/'
+  Description: 'As a developer, Gergely Orosz give and advice to mastering algorithm. First, he give us some example with cases that he has faced before.'
+  Date: 2020-08-08
+  Tag:
+    - ''
+-
+  Title: 'Best Interests'
+  Link: 'https://stopa.io/post/1'
+  Description: 'Apakah setiap orang memiliki ketertarikan terhadap diri kita?'
+  Date: 2020-08-08
+  Tag:
+    - ''
+-
+  Title: 'On the fragility of beliefs'
+  Link: 'https://stopa.io/post/3'
+  Description: ''
+  Date: 2020-08-08
+  Tag:
+    - ''
+-
+  Title: 'You choose how you react to things'
+  Link: 'https://stopa.io/post/4'
+  Description: ''
+  Date: 2020-08-08
+  Tag:
+    - ''
+-
+  Title: 'Feeling Success, Being Successful, Having other people think you’re successful'
+  Link: 'https://stopa.io/post/5'
   Description: ''
   Date:
   Tag:
     - ''
 -
   Title: ''
-  Link: ''
+  Link: 'https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/'
   Description: ''
   Date:
   Tag:
     - ''
 -
-  Title: ''
-  Link: ''
+  Title: "Georgia Tech's OMSCS FAQ (based on my experience)"
+  Link: 'https://eugeneyan.com/writing/georgia-tech-omscs-faq/'
   Description: ''
   Date:
   Tag:
     - ''
 -
-  Title: ''
-  Link: ''
+  Title: 'Your perspective has nothing to do with reality.'
+  Link: 'https://stopa.io/post/9'
+  Description: 'Menghadapi keadaan sulit? Ada 2 hal respon yang bisa anda lakukan, pertama menerimanya, kedua mengabaikannya, sisanya silahkan baca pada artikel ini'
+  Date:
+  Tag:
+    - ''
+-
+  Title: 'A Reporter at LargeAugust 31, 1946 Issue Hiroshima'
+  Link: 'https://www.newyorker.com/magazine/1946/08/31/hiroshima'
   Description: ''
   Date:
   Tag:
     - ''
 -
-  Title: ''
-  Link: ''
-  Description: ''
+  Title: "Our AWS bill is ~ 2% of revenue. Here's how we did it"
+  Link: 'https://www.sankalpjonna.com/posts/our-aws-bill-is-2-of-revenue-heres-how-we-did-it'
+  Description: 'how to reduce server cost on aws'
   Date:
   Tag:
-    - ''
+    - 'AWS'
+    - 'Optimize'
+    - 'Cloud'
 -
   Title: ''
-  Link: ''
-  Description: ''
-  Date:
-  Tag:
-    - ''
--
-  Title: ''
-  Link: ''
-  Description: ''
-  Date:
-  Tag:
-    - ''
--
-  Title: ''
-  Link: ''
-  Description: ''
-  Date:
-  Tag:
-    - ''
--
-  Title: ''
-  Link: ''
-  Description: ''
-  Date:
-  Tag:
-    - ''
--
-  Title: ''
-  Link: ''
-  Description: ''
-  Date:
-  Tag:
-    - ''
--
-  Title: ''
-  Link: ''
-  Description: ''
-  Date:
-  Tag:
-    - ''
--
-  Title: ''
-  Link: ''
-  Description: ''
-  Date:
-  Tag:
-    - ''
--
-  Title: ''
-  Link: ''
-  Description: ''
-  Date:
-  Tag:
-    - ''
--
-  Title: ''
-  Link: ''
+  Link: 'https://www.businessofapps.com/data/spotify-statistics/'
   Description: ''
   Date:
   Tag:

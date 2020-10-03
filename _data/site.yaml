@@ -40,26 +40,28 @@
   Tag:
     - ''
 -
+  Title: 'BigQuery under the hood'
+  Link: 'https://cloud.google.com/blog/products/gcp/bigquery-under-the-hood'
+  Description: 'Tehcnology behind Biguery'
+  Tag:
+    - 'bigquery'
+    - 'tech-how-to'
+    - 'cloud'
+-
   Title: ''
-  Link: ''
+  Link: 'http://gergelyorosz.com/'
   Description: ''
   Tag:
     - ''
 -
   Title: ''
-  Link: ''
+  Link: 'https://blog.pragmaticengineer.com/'
   Description: ''
   Tag:
     - ''
 -
   Title: ''
-  Link: ''
-  Description: ''
-  Tag:
-    - ''
--
-  Title: ''
-  Link: ''
+  Link: 'https://stopa.io/'
   Description: ''
   Tag:
     - ''

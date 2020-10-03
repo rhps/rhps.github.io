@@ -550,3 +550,7 @@ input.btn {
     list-style: inside;
     display: inline-block;
 }
+
+.gray {
+    filter: grayscale(97%);
+}

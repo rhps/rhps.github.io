@@ -143,10 +143,282 @@
   Link: https://www.amazon.com/York-Times-Book-Science-Groundbreaking/dp/1402793219
   Rate: 5
 -
-  Title:
-  Link:
-  Rate:
+  Title: 'Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems'
+  Link: https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321/ref=as_li_ss_tl?keywords=data+lake&qid=1574344488&s=books&sr=1-4&linkCode=sl1&tag=solutionsre04-20&linkId=d149429d651b3fca4c88422c08846a99&language=en_US
+  Rate: 4
 -
-  Title:
-  Link:
-  Rate:
+  Title: 'Big Data: Principles and best practices of scalable realtime data systems'
+  Link: https://www.amazon.com/Big-Data-Principles-practices-scalable/dp/1617290343/ref=as_li_ss_tl?keywords=data+lake&qid=1574344488&s=books&sr=1-8&linkCode=sl1&tag=solutionsre04-20&linkId=a74d401674ec91c76fc663b92bc661fd&language=en_US
+  Rate: 4
+-
+  Title: 'Data Warehousing Fundamentals for IT Professionals'
+  Link: https://www.amazon.com/Warehousing-Fundamentals-Professionals-Paulraj-Ponniah/dp/0470462078/ref=as_li_ss_tl?keywords=data+warehousing&qid=1574106701&s=books&sr=1-6&linkCode=sl1&tag=solutionsre04-20&linkId=7ac29c318ca764af43392d2a1aa5bf21&language=en_US
+  Rate: 4
+-
+  Title: 'Building a Scalable Data Warehouse with Data Vault 2.0'
+  Link: https://www.amazon.com/Building-Scalable-Data-Warehouse-Vault/dp/0128025107/ref=as_li_ss_tl?keywords=data+warehouse&qid=1574104346&s=books&sr=1-4&linkCode=sl1&tag=solutionsre04-20&linkId=249a7fc224fffd0d735c02587268a1d6&language=en_US
+  Rate: 4
+-
+  Title: 'Database Systems: Introduction to Databases and Data Warehouses'
+  Link: https://www.amazon.com/Database-Systems-Introduction-Databases-Warehouses-dp-1943153191/dp/1943153191/ref=as_li_ss_tl?_encoding=UTF8&me=&qid=1574104346&linkCode=sl1&tag=solutionsre04-20&linkId=0f86cd47677069858c5200c101955afe&language=en_US
+  Rate: 4
+-
+  Title: 'Agile Data Warehouse Design: Collaborative Dimensional Modeling, from Whiteboard to Star Schema'
+  Link: https://www.amazon.com/Agile-Data-Warehouse-Design-Collaborative/dp/0956817203/ref=as_li_ss_tl?keywords=data+warehouse&qid=1574104346&s=books&sr=1-2&linkCode=sl1&tag=solutionsre04-20&linkId=59339f0c3d4a0de5d47c3882ce08e9c0&language=en_US
+  Rate: 4
+-
+  Title: 'The Data Warehouse Toolkit: The Definitive Guide to Dimensional Modeling, 3rd Edition'
+  Link: https://www.amazon.com/Data-Warehouse-Toolkit-Definitive-Dimensional/dp/1118530802/ref=as_li_ss_tl?keywords=data+warehouse&qid=1573681239&s=books&sr=1-1&linkCode=sl1&tag=solutionsre04-20&linkId=205fc7bc85c78c3811cdbafd9e5cd169&language=en_US
+  Rate: 4
+-
+  Title: 'Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems'
+  Link: https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321
+  Rate: 4
+-
+  Title: 'Grokking Algorithms: An illustrated guide for programmers and other curious people'
+  Link: 'https://www.amazon.com/gp/product/1617292230/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=gregdoesit-20&creative=9325&linkCode=as2&creativeASIN=1617292230&linkId=b5f611523b554c2c7f33d97e62b6870b'
+  Rate: 5
+-
+  Title: 'The Algorithm Design Manual'
+  Link: 'https://www.amazon.com/gp/product/1848000693/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=gregdoesit-20&creative=9325&linkCode=as2&creativeASIN=1848000693&linkId=f2b71eb63361e28c617672a4ae87e97e'
+  Rate: 5
+-
+  Title: 'How to Read a Book: The Classic Guide to Intelligent Reading' 
+  Link: 'https://www.amazon.com/gp/product/0671212095/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=gregdoesit-20&creative=9325&linkCode=as2&creativeASIN=0671212095&linkId=5d2bb56d2457f52695d9fd996076871d'
+  Rate: 5
+-
+  Title: 'Clean Code: A Handbook of Agile Software Craftsmanship'
+  Link: 'https://www.amazon.com/gp/product/0132350882/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=gregdoesit-20&creative=9325&linkCode=as2&creativeASIN=0132350882&linkId=c57ec49b27acdb4000e7f9126dfb30bc'
+  Rate: 5
+-
+  Title: 'C# in Depth'
+  Link: 'https://www.amazon.com/gp/product/1617294535/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=gregdoesit-20&creative=9325&linkCode=as2&creativeASIN=1617294535&linkId=265e25886b50b713f98987073f625b2f'
+  Rate: 5
+-
+  Title: "Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs" 
+  Link: "https://www.amazon.com/Measure-What-Matters-Google-Foundation/dp/0525536221"
+  Rate: 3
+-
+  Title: "Tales of Two Planets: Stories of Climate Change and Inequality in a Divided World"
+  Link: https://www.amazon.com/Tales-Two-Planets-Stories-Inequality/dp/0143133926
+  Rate: 3
+-
+  Title: "Bad Blood: Secrets and Lies in a Silicon Valley Startup"
+  Link: https://www.amazon.com/Bad-Blood-Secrets-Silicon-Startup/dp/152473165X
+  Rate: 4
+-
+  Title: 
+  Link: 
+  Rate: 
+-
+  Title: 
+  Link: 
+  Rate: 
+-
+  Title: 
+  Link: 
+  Rate: 
+-
+  Title: 
+  Link: 
+  Rate: 
+-
+  Title: 
+  Link: 
+  Rate: 
+-
+  Title: 
+  Link: 
+  Rate: 
+-
+  Title: 
+  Link: 
+  Rate: 
+-
+  Title: 
+  Link: 
+  Rate: 
+-
+  Title: 
+  Link: 
+  Rate: 
+-
+  Title: 
+  Link: 
+  Rate: 
+-
+  Title: 
+  Link: 
+  Rate: 
+-
+  Title: 
+  Link: 
+  Rate: 
+-
+  Title: 
+  Link: 
+  Rate: 
+-
+  Title: 
+  Link: 
+  Rate: 
+-
+  Title: 
+  Link: 
+  Rate: 
+-
+  Title: 
+  Link: 
+  Rate: 
+-
+  Title: 
+  Link: 
+  Rate: 
+-
+  Title: 
+  Link: 
+  Rate: 
+-
+  Title: 
+  Link: 
+  Rate: 
+-
+  Title: 
+  Link: 
+  Rate: 
+-
+  Title: 
+  Link: 
+  Rate: 
+-
+  Title: 
+  Link: 
+  Rate: 
+-
+  Title: 
+  Link: 
+  Rate: 
+-
+  Title: 
+  Link: 
+  Rate: 
+-
+  Title: 
+  Link: 
+  Rate: 
+-
+  Title: 
+  Link: 
+  Rate: 
+-
+  Title: 
+  Link: 
+  Rate: 
+-
+  Title: 
+  Link: 
+  Rate: 
+-
+  Title: 
+  Link: 
+  Rate: 
+-
+  Title: 
+  Link: 
+  Rate: 
+-
+  Title: 
+  Link: 
+  Rate: 
+-
+  Title: 
+  Link: 
+  Rate: 
+-
+  Title: 
+  Link: 
+  Rate: 
+-
+  Title: 
+  Link: 
+  Rate: 
+-
+  Title: 
+  Link: 
+  Rate: 
+-
+  Title: 
+  Link: 
+  Rate: 
+-
+  Title: 
+  Link: 
+  Rate: 
+-
+  Title: 
+  Link: 
+  Rate: 
+-
+  Title: 
+  Link: 
+  Rate: 
+-
+  Title: 
+  Link: 
+  Rate: 
+-
+  Title: 
+  Link: 
+  Rate: 
+-
+  Title: 
+  Link: 
+  Rate: 
+-
+  Title: 
+  Link: 
+  Rate: 
+-
+  Title: 
+  Link: 
+  Rate: 
+-
+  Title: 
+  Link: 
+  Rate: 
+-
+  Title: 
+  Link: 
+  Rate: 
+-
+  Title: 
+  Link: 
+  Rate: 
+-
+  Title: 
+  Link: 
+  Rate: 
+-
+  Title: 
+  Link: 
+  Rate: 
+-
+  Title: 
+  Link: 
+  Rate: 
+-
+  Title: 
+  Link: 
+  Rate: 
+-
+  Title: 
+  Link: 
+  Rate: 
+-
+  Title: 
+  Link: 
+  Rate: 
+-
+  Title: 
+  Link: 
+  Rate: 
