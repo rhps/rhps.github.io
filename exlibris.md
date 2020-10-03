@@ -5,6 +5,8 @@ permalink: /exlibris/
 ---
 <h3>Ex Libris</h3>
 Rekomendasi dan ulasan dari beberapa buku yang pernah dibaca.
+<br />
+<small>Catatan: Cover berwarna menandakan buku telah selesai dibaca dan terdapat tulisan singkat mengenai buku tersebut</small>
 <ul class="c-shelf">
   {% for book in site.data.books %}
     <li class="c-shelf__volume book-item">
