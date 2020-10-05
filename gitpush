@@ -8,17 +8,17 @@ function commit {
 	echo $1
 	git add . --all
 	git commit -m "Commit for : $1 <$NOW>"
-	git push -u https://$githubauth@github.com/rhps/backend-rhps.github.io.git --all
+	git push -u https://rhps@github.com/rhps/backend-rhps.github.io.git --all
 	git checkout master
 	git merge devel
-	git push -u https://$githubauth@github.com/rhps/backend-rhps.github.io.git --all
+	git push -u https://rhps@github.com/rhps/backend-rhps.github.io.git --all
 	git checkout devel
 	############
 	#Repo Production Repos
 	cd _site/
 	git add . --all
 	git commit -m "Commit for : $1 <$NOW>"
-	git push -u https://$githubauth@github.com/rhps/rhps.github.io.git --all	
+	git push -u https://rhps@github.com/rhps/rhps.github.io.git --all	
 }
 
 if [[ $1 == "" ]]; then
