@@ -6,7 +6,7 @@ date: 2020-10-1
 categories: 'notes'
 inreview: true
 tags: [running, Flâneur, photo]
-permalink: /flanerun
+permalink: /flanerun-backup
 comments: true
 share: true
 hidden: true
