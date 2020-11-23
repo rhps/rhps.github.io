@@ -6,6 +6,14 @@
     <atom:link href="https://www.harapan.me/feed.xml" rel="self" type="application/rss+xml" />
     
       
+
+      
+    
+      
+
+      
+    
+      
       <item>
         <title>Membaca</title>
         <description>&lt;p&gt;Membaca dan menulis merupakan salah satu kegiatan yang kurencanakan untuk mengisi &lt;a href=&quot;https://www.harapan.me/leave2020&quot;&gt;sabatical leave&lt;/a&gt;. Sepertinya sabatical leave ini mungkin tidak benar-benar sabatical leave pada umumnya karena aku masih menjalankan beberapa kewajiban dan tanggung jawab.&lt;/p&gt;
@@ -46,6 +54,10 @@
         <link>https://www.harapan.me/membaca</link>
         <guid isPermaLink="true">https://www.harapan.me/membaca</guid>
       </item>
+      
+    
+      
+
       
     
       
@@ -321,6 +333,24 @@ rhgps&lt;/p&gt;
 
     &lt;div class=&quot;archive-list-post&quot;&gt;
         
+            Satu Tahun
+            &lt;span class=&quot;archive-list-post-date&quot;&gt;
+            | in-progress
+            &lt;/span&gt;
+        
+    &lt;/div&gt;
+
+    &lt;div class=&quot;archive-list-post&quot;&gt;
+        
+            Sesar lembang yang tertunda
+            &lt;span class=&quot;archive-list-post-date&quot;&gt;
+            | in-progress
+            &lt;/span&gt;
+        
+    &lt;/div&gt;
+
+    &lt;div class=&quot;archive-list-post&quot;&gt;
+        
             
                 &lt;a href=&quot;/membaca&quot;&gt;
             
@@ -331,6 +361,15 @@ rhgps&lt;/p&gt;
                 &lt;time&gt;| 04 Oct 2020&lt;/time&gt;
             &lt;/span&gt;
             &lt;/a&gt;
+        
+    &lt;/div&gt;
+
+    &lt;div class=&quot;archive-list-post&quot;&gt;
+        
+            Flâneur Run
+            &lt;span class=&quot;archive-list-post-date&quot;&gt;
+            | in-progress
+            &lt;/span&gt;
         
     &lt;/div&gt;
 
