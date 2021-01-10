@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Flaz
-permalink: /flaz/
+title: Bacaan
+permalink: /bacaan/
 ---
 
 Interested article that I read this week
