@@ -23,7 +23,8 @@ author:
 #  medium:           your-id
 #  tumblr:           your-id
   email:            rio@harapan.me
-
+  image:            "/image/site/riohps.jpg"
+port: 4001
 copyright:
   year:             2018
   name:             harapan.me
@@ -74,6 +75,8 @@ nav:
   #   url:            "/portofolio"
   - name:           "exlibris"
     url:            "/exlibris"
+  - name:           "summits"
+    url:            "/thesummits"
   - name:           "blog"
     url:            "/blog"
 
