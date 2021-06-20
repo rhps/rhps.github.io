@@ -480,26 +480,31 @@
     - 'journey'
     - 'interview'
 -
-  Title: ''
-  Link: ''
-  Description: ''
-  Date:
+  Title: '"I designed the DNS so that the namespace could be anything you wanted it to be"'
+  Link: 'https://www.welcometothejungle.com/en/articles/btc-interview-paul-mockapetris'
+  Description: 'Interview with Paul Mockapetris, the inventor of DNS, He share the idea behind DNS, the challenge and the history of it. Paul also mention about the future of DNS 2.0'
+  Date: 2021-01-29
   Tag:
-    - ''
+    - 'DNS'
+    - 'Interview'
+    - 'Future'
+-
+  Title: 'Warren Buffett Says This 1 Simple Habit Separates Successful People From Everyone Else'
+  Link: 'https://www.inc.com/marcel-schwantes/warren-buffett-says-this-is-1-simple-habit-that-separates-successful-people-from-everyone-else.html'
+  Description: 'Warren Buffet menyampaikan bahwa orang sukses itu tahu kapan mengatakan Yes dan kapan mengatakan No, pembedanya ialah fokus yang ingin kita capai dalam hidup'
+  Date: 2021-01-29
+  Tag:
+    - 'Opinion'
+    - 'Self-help'
+    - 'successful'
 -
   Title: ''
-  Link: ''
-  Description: ''
+  Link: 'https://reyammer.io/blog/2020/10/03/the-good-the-bad-and-the-bye-bye-why-i-left-my-tenured-academic-job/'
+  Description: 'Keluh kesah pribadi dari seorang professor yang meninggalkan dunia akademik untuk bekerja full-time diperusahaan'
   Date:
   Tag:
-    - ''
--
-  Title: ''
-  Link: ''
-  Description: ''
-  Date:
-  Tag:
-    - ''
+    - 'Opinion'
+    - 'Career'
 -
   Title: ''
   Link: ''
