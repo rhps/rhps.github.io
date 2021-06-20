@@ -4,7 +4,7 @@ title: "Seperti Dendam, Rindu Harus Dibayar Tuntas"
 description: "Novel yang menceritakan tentang luka mendalam yang disebabkan kematian orang yang disayang yang mengakhiri hidupnya dengan bunuh diri. Membaca novel ini akan membawa pengalaman berharga bagi kita untuk bertahan dari luka tersebut."
 date: 2020-09-12
 categories: 'exlibris'
-inreview: true
+inreview: false
 tags: [book, eka-kurniawan, novel]
 permalink: /seperti-dendam
 comments: true

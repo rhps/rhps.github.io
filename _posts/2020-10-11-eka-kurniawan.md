@@ -4,7 +4,7 @@ title: "Eka Kurniawan"
 description: ""
 date: 2020-12-04
 categories: ''
-inreview: true
+inreview: false
 tags: []
 permalink: /ekakurniawan
 comments: true

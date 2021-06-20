@@ -4,7 +4,7 @@ title: "Flâneur Run"
 description: ""
 date: 2020-10-1
 categories: 'notes'
-inreview: true
+inreview: false
 tags: [running, Flâneur, photo]
 permalink: /flanerun-backup
 comments: true

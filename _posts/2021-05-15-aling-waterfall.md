@@ -11,7 +11,7 @@ nfi: false
 date: 2021-05-15
 summit: true
 categories: 'hiking'
-inreview: true
+inreview: false
 tags: [waterfall, adventure, hiking]
 permalink: /aling
 comments: true

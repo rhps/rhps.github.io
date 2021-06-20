@@ -4,7 +4,7 @@ title: "Sesar lembang yang tertunda"
 description: ""
 date: 2020-10-31
 categories: ''
-inreview: true
+inreview: false
 tags: []
 permalink: /sesarlembang2020
 comments: true

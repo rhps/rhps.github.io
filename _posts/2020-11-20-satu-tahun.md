@@ -4,7 +4,7 @@ title: "Satu Tahun"
 description: ""
 date: 2020-11-20
 categories: 'refleksi'
-inreview: true
+inreview: false
 tags: [flash-back, refleksi, 2020]
 permalink: /satu-tahun
 comments: true

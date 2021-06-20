@@ -11,7 +11,7 @@ nfi: true
 date: 2020-11-15
 summit: true
 categories: 'hiking'
-inreview: true
+inreview: false
 tags: [hiking, adventure, sesar-lembang]
 permalink: /sesar-lembang
 comments: true

@@ -4,7 +4,7 @@ title: "Norwegian Wood"
 description: "Novel yang menceritakan tentang luka mendalam yang disebabkan kematian orang yang disayang yang mengakhiri hidupnya dengan bunuh diri. Membaca novel ini akan membawa pengalaman berharga bagi kita untuk bertahan dari luka tersebut."
 date: 2020-05-25
 categories: 'exlibris'
-inreview: true
+inreview: false
 tags: [book, haruki-murakami, novel]
 permalink: /norwegianwood
 comments: true
