@@ -61,10 +61,12 @@ highlighter: pygments
 
 # Navigation
 nav:
+  - name:           "home"
+    url:            "/"
   - name:           "about"
     url:            "/about"
-  - name:           "me"
-    url:            "/me"
+  # - name:           "me"
+  #   url:            "/me"
   # - name:           "archive"
     # url:            "/archive"
 #  - name:           "CV"
