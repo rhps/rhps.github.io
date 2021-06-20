@@ -62,3 +62,16 @@ sitemap: false
 .absolute {
   position: absolute;
 }
+
+.detailed {
+  background: transparent;
+  border: 0;
+  box-sizing: content-box;
+  display: block;
+  font-size: 11px;
+  height: 16px;
+  line-height: 14px;
+  margin: 0 auto;
+  padding: 3px 6px 0 6px;
+  width: 100px;
+}
