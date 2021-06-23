@@ -106,9 +106,10 @@
 .iis-has-bullet-nav .iis-caption { max-width: 42%; }
 .iis-caption .iis-caption-title { font-weight: bold; }
 .iis-caption .iis-caption-content {
-	font-size: 13px;
+	font-size: 17px;
 	line-height: 1.6em;
 	color: #eee;
+	font-weight: 500;
 }
 .iis-caption .iis-caption-content a,
 .iis-caption .iis-caption-content a:visited {
