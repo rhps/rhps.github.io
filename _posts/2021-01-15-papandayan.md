@@ -17,4 +17,10 @@ permalink: /papandayan
 comments: true
 share: true
 hidden: true
+image_sliders:
+  - example_slider
 ---
+
+Introduction dulu lah
+
+{% include slider.html selector="example_slider" %}

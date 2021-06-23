@@ -1,0 +1,13 @@
+# example slider
+- selector: example_slider
+  captions: true
+  images:
+    - src: /images/adventure/20210115-papandayan/GOPR0746.JPG
+      alt: image one
+    - src: /images/adventure/20210115-papandayan/GOPR0753.JPG
+      alt: image two
+    - src: /images/adventure/20210115-papandayan/GOPR0786.JPG
+      alt: image three
+  settings:
+    height: "'auto'"
+    effect: "'fade'"
