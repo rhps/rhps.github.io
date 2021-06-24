@@ -16,7 +16,7 @@ tags: [hiking, adventure, papandayan]
 permalink: /papandayan
 comments: true
 share: true
-hidden: true
+hidden: false
 image_sliders:
   - papandayan
 ---
