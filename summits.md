@@ -21,7 +21,7 @@ Tidak ada tekanan, tidak ada paksaan, tergantung ajakan kemana kesitulah kaki me
   <h2>No post found</h2>
 {% else %}
   {% for post in site.posts %}
-    {% if post.summit == true %}
+    {% if post.summit == true and post.hidden == false %}
     <div class="wow  fadeIn animated" data-wow-delay=".15s" style="visibility: visible; animation-delay: 0.15s; animation-name: fadeIn;">
       {% if post.link %}
         <a href="{{ post.link }}" class="project card text-themed">
