@@ -9,7 +9,7 @@ tags: [talks, bigdata, glints]
 permalink: /bigdata-glints
 comments: true
 share: true
-hidden: false
+hidden: true
 ---
 
 Jumat ini, 11 Juni 2021, saya berkesempatan untuk mengisi salah satu [Event Expert Class](https://glints.com/id/expert-class) yang diselenggarakan oleh [Glints](https://glints.com/id). Glints Expert Class sendiri merupakan suatu Event yang rutin diadakan oleh Glints, sebuah Talent Platform Career Development di Asia Tenggara. Expert Class ini akan menghadirkan seorang professional disuatu bidang untuk sharing tentang pengalaman mereka, salah satu series yang ada yaitu [Data and Analytics Series](https://glints.com/id/expert-class?categories=Data+%26+Analytics). Dalam Data and Analytics Series ini saya membawakan Topik mengenai Implementasi Big Data.
