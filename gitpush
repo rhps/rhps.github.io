@@ -6,8 +6,8 @@ function commit {
 	############
 	#Repo Development Repos
 	echo $1
-	git add . --all
-	git commit -m "Commit for : $1 <$NOW>"
+	# git add . --all
+	# git commit -m "Commit for : $1 <$NOW>"
 	git push -u https://rhps@github.com/rhps/backend-rhps.github.io.git --all
 	git checkout master
 	git merge devel
