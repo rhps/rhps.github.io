@@ -34,14 +34,17 @@
   <!-- Google Analytics -->
 
 <script>
-(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+var host = window.location.hostname;
+if(host != "localhost")
+{
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
-ga('create', 'UA-134611589-1', 'auto');
-ga('send', 'pageview');
-
+  ga('create', 'UA-134611589-1', 'auto');
+  ga('send', 'pageview');
+}
 </script>
 
 
@@ -127,6 +130,26 @@ ga('send', 'pageview');
       
       <div class="list-post-desc">
         Gunung Papandayan dengan ketinggian mencapai 2600an meter ini, sangat cocok untuk pemula karena memilik trek yang bersahabat dan dikelola dengan baik. Pemandangan dari area gunung ini juga indah, tidak begitu jauh dari Camp area di Pondok Selada kita dapat menikmati hutan mati dan area kawah terbuka.
+      </div>
+      
+    </a>
+
+
+  </div>
+
+  <div class="list-post">
+    
+    <a href="/ciremai">
+      
+      <div class="list-post-date">
+        <time>15 Dec 2020</time>
+      </div>
+      <div class="list-post-title">
+        Gunung Ciremai
+      </div>
+      
+      <div class="list-post-desc">
+        Gunung Ciremai description
       </div>
       
     </a>

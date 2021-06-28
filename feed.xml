@@ -348,7 +348,154 @@ Rasanya tidak mungkin untuk dapat mencapai punggungan menuju puncak gunung Papan
       
     
       
+      <item>
+        <title>Gunung Ciremai</title>
+        <description>&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+    &lt;a href=&quot;https://www.google.com/maps/d/viewer?mid=19vO9uZPAhGG2kulltDiqYJF09jmY7iA4&quot; title=&quot;Gunung Rinjani&quot; target=&quot;_blank&quot;&gt;
+    
+        &lt;img src=&quot;https://www.harapan.me//images/adventure/20210615-rinjani/rinjani.png&quot; alt=&quot;Gunung Rinjani&quot; class=&quot;imgjkl&quot; /&gt;
+    
+    &lt;/a&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;Peta 3 Dimesi Pendakian Rinjani dari Google Earth&lt;/p&gt;
+    
+&lt;/div&gt;
 
+&lt;p&gt;&lt;strong&gt;Gunung Ciremai&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Lokasi : Majalengka, Jawa Barat&lt;/p&gt;
+
+&lt;p&gt;Tinggi : 3078&lt;/p&gt;
+
+&lt;p&gt;Tanggal: november 2020&lt;/p&gt;
+
+&lt;p&gt;GPX    : &lt;a href=&quot;/images/adventure/20201215-ciremai/ciremai_apuy.gpx&quot;&gt;Gunung Ciremai&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/images/adventure/20201215-ciremai/ciremai_apuy.gpx&quot;&gt;Download file GPX&lt;/a&gt;&lt;/p&gt;
+
+&lt;iframe src=&quot;https://www.google.com/maps/d/u/0/embed?mid=1ABEgYR0X1TkoLM40K7niz8z-j2aa24VI&quot; width=&quot;828&quot; height=&quot;651&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+    &lt;a href=&quot;https://www.harapan.me/rinjani&quot; title=&quot;Gunung Rinjani&quot; target=&quot;_blank&quot;&gt;
+    
+        &lt;img src=&quot;https://www.harapan.me//images/adventure/20210615-rinjani/20210529_103122.jpg&quot; alt=&quot;Gunung Rinjani&quot; class=&quot;imgjkl&quot; /&gt;
+    
+    &lt;/a&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;Puncak Gunung Rinjani&lt;/p&gt;
+    
+&lt;/div&gt;
+
+&lt;!-- Jekyll Ideal Image Slider Include --&gt;
+&lt;!-- https://github.com/jekylltools/jekyll-ideal-image-slider-include --&gt;
+&lt;!-- v1.8 --&gt;
+&lt;!-- Jekyll Ideal Image Slider Include --&gt;
+&lt;!-- https://github.com/jekylltools/jekyll-ideal-image-slider-include --&gt;
+&lt;!-- v1.8 --&gt;
+&lt;link rel=&quot;stylesheet&quot; href=&quot;/assets/css/slider/ideal-image-slider.css&quot; /&gt;
+
+&lt;link rel=&quot;stylesheet&quot; href=&quot;/assets/css/slider/themes/default.css&quot; /&gt;
+&lt;div id=&quot;rinjani&quot;&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/20210526_213728.jpg&quot; title=&quot;&quot; alt=&quot;Rinjani 1/64: Begitu tiba di Lombok, tergoda untuk mencoba banyak aktivitas wisata dan mengunjungi tempat-tempat baru, tapi harus fokus persiapan diri dan stamina untuk pendakian ke Rinjani&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/20210528_090410.jpg&quot; title=&quot;&quot; alt=&quot;Rinjani 2/64: Pendakian dimulai dari pos pendakian Sembalun, berjalan melewati perkampungan warga dan perkebunan selama kurang lebih 1 jam, kemudian jalur pendakian berlanjut ke Savana&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/20210528_101632.jpg&quot; title=&quot;&quot; alt=&quot;Rinjani 3/64: Berjalan terus dari Pos Sembalun selama kurang lebih 3 jam akhirnya tiba juga di Pos 1, Pementan&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/20210528_101741.jpg&quot; title=&quot;&quot; alt=&quot;Rinjani 4/64: Plang pos-nya tenyata dilengkapi dengan jarak yang ditempuh hingga kepuncak. Tujuan untuk hari ini ialah harus tiba di-Plawangan, sekitar 5.3 kilometer lagi, semoga bisa tiba sebelum malam&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/20210528_103909.jpg&quot; title=&quot;&quot; alt=&quot;Rinjani 5/64: Istirahat sebentar di Pos 1, lanjut perjalanan lagi. Jalur pendakian masih sama, medannya Savana dengan jalan setapak yang bisa dilalui motor. Di Rinjani ada juga jasa ojek hingga ke pos 2, harganya sekitar Rp. 150.000&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/20210528_110341.jpg&quot; title=&quot;&quot; alt=&quot;Rinjani 6/64: Terus melangkah akhirnya pukul 11.00 tiba juga di pos 2, Tingengean. Disini biasanya dijadikan check point untuk makan siang, namun karena kita belum lapar akhirnya kita beristirahat sebentar dan kemudian melanjutkan lagi perjalan. Nanti makan siang di pos 3&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/20210528_111010.jpg&quot; title=&quot;&quot; alt=&quot;Rinjani 7/64: Plawangan masih sekitar 3.9 km lagi, puncak sekitar 7.7 km lagi. Semangat!!!&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/20210528_112010.jpg&quot; title=&quot;&quot; alt=&quot;Rinjani 8/64: Walau treknya banyak percabangan, namun plang arah dan keterangan yang terpasang cukup jelas. Lanjut berjalan menuju pos 3&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/20210528_112052.jpg&quot; title=&quot;&quot; alt=&quot;Rinjani 9/64: Menuju pos 3, Jalan masih panjang!&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/20210528_122130.jpg&quot; title=&quot;&quot; alt=&quot;Rinjani 10/64: Pukul 12.30, perjalanan masih jauh menuju pos 3. Beberapa pendaki memilih untuk beristirahat sebentar, makan atau bahkan tidur.&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/20210528_130739.jpg&quot; title=&quot;&quot; alt=&quot;Rinjani 11/64: Sepanjang perjalanan disuguhi pemandangan savana hijau berbukit-bukit nan indah. Melewati beberapa jembatan dan alur aliran lahar dingin seperti ini, karena tidak erupsi alur alirannya jadi seperti sungai yang kering.&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/20210528_132734.jpg&quot; title=&quot;&quot; alt=&quot;Rinjani 12/64: Akhirnya tiba juga di Pos 3 - Padabalong pukul 13.30&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/20210528_132749.jpg&quot; title=&quot;&quot; alt=&quot;Rinjani 13/64: Plawangan tinggal 2.2 km lagi, masih ada waktu panjang untuk makan, istirahat, peregangan badan dan tidur! Lebih baik jangan daki gunung kalau cuma buat buang sampah, INGAT SAMPAHMU!&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/20210528_134633.jpg&quot; title=&quot;&quot; alt=&quot;Rinjani 14/64: Jalur pendakian berbatasan langsung dengan alam liar, jadi akan banyak ditemui binatang liar. Salah satunya Monyet Pusuk, monyet yang berekor panjang ini dikeramatkan oleh warga sekitar&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/20210528_145710.jpg&quot; title=&quot;&quot; alt=&quot;Rinjani 15/64: Pukul 15.00 akhirnya kita tiba di Pos 4 - Cemara Siu. Istirahat dulu dan jajan&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/20210528_151440.jpg&quot; title=&quot;&quot; alt=&quot;Rinjani 16/64: Di pos 4 masih terdapat warung dan juga porter Keril. Jadi kalau sudah capek bisa menyewa Porter untuk bawain keril sampe ke Plawangan.&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/20210528_154238.jpg&quot; title=&quot;&quot; alt=&quot;Rinjani 17/64: Trek pendakian sekarang sudah tidak lagi savana, pohon-pohon mulai tampak, mungkin sebentar lagi akan memasuki hutan&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/20210528_173758.jpg&quot; title=&quot;&quot; alt=&quot;Rinjani 18/64: Dari tempat kita berjalan, sebenarnya puncak sudah keliatan, tapi kecil banget&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/20210528_174032.jpg&quot; title=&quot;&quot; alt=&quot;Rinjani 19/64: Mungkin besok kita akan menyusuri punggungan itu, kayaknya nanjak terus gaada bonus-bonusnya&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/IMG_0210.JPG&quot; title=&quot;&quot; alt=&quot;Rinjani 20/64: Hari sudah mulai sore, tapi Plawangan rasanya belum juga sampai, mau gimana lagi harus terus berjalan, sebelum malam&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/20210528_205725.jpg&quot; title=&quot;&quot; alt=&quot;Rinjani 21/64: Akhirnya tiba juga di Plawangan sekitar pukul 17.30. Setelah tenda berdiri, makan, kemudian tidur. Malam sebelumnya baru saja gerhana, sehingga kali ini bulan penuh (full moon)&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/20210529_055123.jpg&quot; title=&quot;&quot; alt=&quot;Rinjani 22/64: Kita bangun pukul 3.00 pagi untuk memulai summit attack. Pendakian ke Puncak, pukul 06.00 matahari sudah mulai tampak, langit menguning.&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/20210529_061812.jpg&quot; title=&quot;&quot; alt=&quot;Rinjani 23/64: Pendakian ke puncak ternyata lebih berat, namun dengan adanya pemandangan matahari terbit lelahnya teralihkan&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/20210529_061437.jpg&quot; title=&quot;&quot; alt=&quot;Rinjani 24/64: Selain matahari terbit, ketika kita melihat kebelakang juga ada pemandangan indah Danau Segara Anak.&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/IMG_1002.JPG&quot; title=&quot;&quot; alt=&quot;Rinjani 25/64: Matahari sudah penuh keluar, Savana yang kita lalui tadi tampak kuning keemasan. Dilihat dari sini, orang-orang di Plawangan kecil juga yah&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/20210529_085301.jpg&quot; title=&quot;&quot; alt=&quot;Rinjani 26/64: Kondisi trek pendakian, sebenarnya disepanjang trek pendakian ke Puncak ini, banyak ditemui pendaki yang tergeletak, tidur, beristirahat ataupun sudah menyerah. Summit ke Rinjani memang menguras tenaga, medannya yang panjang dan berbatu, naik tiga langkah turun dua langkah&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/IMG_0251.JPG&quot; title=&quot;&quot; alt=&quot;Rinjani 27/64: Perjalan sudah sejauh ini rasanya, gaada opsi untuk balik, yaudah tabah saja dan jalan perlahan. Nikmati setiap langkahnya&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/20210529_103122.jpg&quot; title=&quot;&quot; alt=&quot;Rinjani 28/64: Akhirnya setelah perjuangan panjang, pada pukul 10.00 pagi kita sampai ke puncak Rinjani. Ritual wajib berphoto dengan plang puncak&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/20210529_102037.jpg&quot; title=&quot;&quot; alt=&quot;Rinjani 29/64: Dari atas kita dapat melihat pemandangan gunung Barujari dan danau Segara Anak. Pukul 10.00 juga awan mulai naik&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/20210529_181234.jpg&quot; title=&quot;&quot; alt=&quot;Rinjani 30/64: Pendakian ke-Puncak memakan waktu 7 jam, untuk turunnya sekitar 4 jam. Pukul 15.00 kita sudah tiba kembali di Plawangan. Setelah beristirahat sejenak kita melanjutkan perjalanan turun ke danau Segara Anak. Kabut sudah turun.&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/20210529_181346.jpg&quot; title=&quot;&quot; alt=&quot;Rinjani 31/64: Berjalan kurang lebih 4 jam, pukul 18.00 akhirnya Danau mulai kelihatan yang artinya kita sudah hampir tiba di Kamp. Bisa istirahat, makan, peregangan dan tidur.&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/20210530_094941.jpg&quot; title=&quot;&quot; alt=&quot;Rinjani 32/64: Namaste, Paginya bagun tidur, cuaca cerah. Danau Segara anak dengan latar belakang Gunung Barujari sungguh indah.&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/IMG_20210530_093535.jpg&quot; title=&quot;&quot; alt=&quot;Rinjani 33/64: Danau Segara Anak&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/IMG_20210530_061420.jpg&quot; title=&quot;&quot; alt=&quot;Rinjani 34/64: Kondisi Camp di Danau Segara Anak pagi hari. Ada yang masih ditenda, ada yang bermain di pinggir danau, ada yang sedang mancing cari ikan.&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/IMG_1170.JPG&quot; title=&quot;&quot; alt=&quot;Rinjani 35/64: Ga jauh dari danau Segara Anak terdapat sumber air panas dan sungai yang dapat digunakan untuk mandi. Akhirnya setelah 3 hari ga mandi. Relaksasi dengan air panas enak juga.&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/IMG_1213.JPG&quot; title=&quot;&quot; alt=&quot;Rinjani 36/64: Air terjun dari sungai yang airnya berasal dari Danau Segara Anak. Segar!&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/IMG_20210530_062902.jpg&quot; title=&quot;&quot; alt=&quot;Rinjani 37/64: Didekat sungai dan pemandian air panas juga ada para pendaki yang Camping.&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/IMG_1235.JPG&quot; title=&quot;&quot; alt=&quot;Rinjani 38/64: Setelah makan siang, kita lanjutkan perjalanan turun melalui jalur Torean. Hari ketiga, Puncak sudah, Danau Segara Anak sudah, perjalanan jadi lebih santai. Sebelum turun dari Danau Segara Anak menuju basecamp Torean, Rombongan kita berfoto dulu&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/IMG_20210530_125643.jpg&quot; title=&quot;&quot; alt=&quot;Rinjani 39/64: Trek yang harus kita lalui, perpaduan lembah, hutan dan lereng&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/20210530_133248.jpg&quot; title=&quot;&quot; alt=&quot;Rinjani 40/64: Jalur Torean menyajikan pemandangan yang sangat indah dan menawan. Di sepanjang trek, kita akan melewati setidaknya 3 alur aliran sungai dan pemandangan air terjun, ini salah satunya&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/20210530_142000.jpg&quot; title=&quot;&quot; alt=&quot;Rinjani 41/64: Air terjun lainnya yang kita lalui. Jalur Torean juga lebih ekstrim dibandingkan jalur Sembalun yang kita lalui sebelumnya, turun naik-bukit, berjalan di lembah yang diapit kaki-kaki gunung&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/IMG_1259.JPG&quot; title=&quot;&quot; alt=&quot;Rinjani 42/64: Beberapa bagian trek pendakian harus melewati tangga seperti ini. Kita berganti-gantian dan saling tolong-menolong supaya bisa lewat&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/20210530_142208.jpg&quot; title=&quot;&quot; alt=&quot;Rinjani 43/64: Selain sungai, pendaki juga akan melalui alur jalur lahar dingin seperti ini.&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/DSC9118.JPG&quot; title=&quot;&quot; alt=&quot;Rinjani 44/64: Ketemu sungai, istirahat lagi sambil main air. Karena sungai ini mengandung belerang, jadi gabisa dimimum&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/DSC9134.JPG&quot; title=&quot;&quot; alt=&quot;Rinjani 45/64: Keril dilepas, ada yang ngerokok ada yang main air, ada yang ghibah. Macam-macam pokoknya&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/DSC9168.JPG&quot; title=&quot;&quot; alt=&quot;Rinjani 46/64: Untuk melewati sungai berbelerang tersebut, terdapat jembatan darurat seperti ini. Jadi gantian lewatnya&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/IMG_1387.JPG&quot; title=&quot;&quot; alt=&quot;Rinjani 47/64: Setelah setengah perjalanan dari Danau Segara Anak menuju Desa Torean, kita beristirahat di-area Camp dekat dengan sungai. Kita nginap semalam lagi disini&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/20210531_060129.jpg&quot; title=&quot;&quot; alt=&quot;Rinjani 48/64: Camp kali ini dekat dengan hutan dan sungai. Masih ditemani full moon malam ini&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/20210531_060102.jpg&quot; title=&quot;&quot; alt=&quot;Rinjani 49/64: Pagi hari, matahari mulai terbit dilembah diantara dua gunung. Persiapan untuk pulang&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/DSC9197.JPG&quot; title=&quot;&quot; alt=&quot;Rinjani 50/64: Mandi lagi. Tidak jauh dari camp kami ada sungai yang jernih dan segar. Dibagian agak keatas, kita mengambil air, bagian bawahnya bisa dipake untuk mandi&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/IMG_1404.JPG&quot; title=&quot;&quot; alt=&quot;Rinjani 51/64: Bagian atas dari sungai, tempat kita mengambil air yang dipake untuk minum&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/20210531_090246.jpg&quot; title=&quot;&quot; alt=&quot;Rinjani 52/64: Perjalanan selanjutnya kita memang benar-benar turun naik bukit dan melewati lereng-lereng gunung. Ada tempat yang cukup luas sedikit kita manfaatkan untuk beristirahat&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/20210531_091621.jpg&quot; title=&quot;&quot; alt=&quot;Rinjani 53/64: Aliran sungai tepat dibawah lereng yang kami lalui, sungai ini mengandung belerang dan sumber airnya dari danau&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/20210531_091636.jpg&quot; title=&quot;&quot; alt=&quot;Rinjani 54/64: Pemandangan didepan pegunungan hijau, sebentar-sebentar berhenti untuk mengambil gambar&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/20210531_090251.jpg&quot; title=&quot;&quot; alt=&quot;Rinjani 55/64: Kayaknya waktunya tepat yah, ke Rinjani bulan-bulan April-Mei. Rinjani baru dibuka setelah 3 bulan ditutup diawal tahun, awal musim kemarau. Pohon dan belukar masih hijau, cuaca juga bersahabat&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/20210531_092543.jpg&quot; title=&quot;&quot; alt=&quot;Rinjani 56/64: Walau sudah dua jam berjalan, capek ga terlalu berasa. Pemandangannya indah begini!&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/20210531_105249.jpg&quot; title=&quot;&quot; alt=&quot;Rinjani 57/64: Air terjun lainnya yang kita lalui. Cerita dari bapak porter yang bersama kami, sejak gempa 2018 yang lalu banyak perubahan terjadi dialur sungai dan Air terjun. Ada sungai yang jadi kering, air terjun yang berpindah.&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/IMG_1475.JPG&quot; title=&quot;&quot; alt=&quot;Rinjani 58/64: Ketemu aliran sungai kering, terus agak rindang ditutupi tebing, istirahat dulu sambil foto-foto&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/DSC9334.JPG&quot; title=&quot;&quot; alt=&quot;Rinjani 59/64: Pukul 12.00 kita berhenti di area camp ditengah hutan. Istirahat dan makan siang.&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/DSC9335.JPG&quot; title=&quot;&quot; alt=&quot;Rinjani 60/64: Porter yang menemani kami, selain membawakan perlengkapan kelompok, juga memasak makanan. Mereka akan berjalan duluan dan mempersiapkan makanan di pos-pos perjalanan&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/IMG_1337.JPG&quot; title=&quot;&quot; alt=&quot;Rinjani 61/64: Sajian makan dalam perjalanan kali ini yang paling nikmat adalah sambal ini. Dibuat oleh bapak Porter dan di-ulek langsung dengan alat seadanya&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/IMG_1338.JPG&quot; title=&quot;&quot; alt=&quot;Rinjani 62/64: Nasi, sayur sop dan ayam ditambah sambal yang tadi. Top!&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/IMG_1422.JPG&quot; title=&quot;&quot; alt=&quot;Rinjani 63/64: Tidak lupa juga buah-buahan segar!&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/IMG_1536.JPG&quot; title=&quot;&quot; alt=&quot;Rinjani 64/64: Setengah sisa perjalanan jalur Torean akan melalui hutan rindang seperti ini. Emang jalur Torean ini paket lengkap semua medan treking ada disini.&quot; /&gt;
+  &lt;/div&gt;
+&lt;!-- Jekyll Ideal Image Slider Include --&gt;
+&lt;!-- https://github.com/jekylltools/jekyll-ideal-image-slider-include --&gt;
+&lt;!-- v1.8 --&gt;
+&lt;script src=&quot;/assets/js/slider/ideal-image-slider.min.js&quot;&gt;&lt;/script&gt;
+
+&lt;script src=&quot;/assets/js/slider/iis-bullet-nav.js&quot;&gt;&lt;/script&gt;
+
+&lt;script src=&quot;/assets/js/slider/iis-captions.js&quot;&gt;&lt;/script&gt;
+
+&lt;script&gt;
+  var rinjani = new IdealImageSlider.Slider({
+      selector: '#rinjani',
+      height: 'auto',
+      maxHeight: '621',
+      interval: 7000,
+      effect: 'fade',
+      });
+    rinjani.addCaptions();
+    rinjani.start();
+  &lt;/script&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 15 Dec 2020 00:00:00 +0700</pubDate>
+        <link>https://www.harapan.me/ciremai</link>
+        <guid isPermaLink="true">https://www.harapan.me/ciremai</guid>
+      </item>
       
     
       
