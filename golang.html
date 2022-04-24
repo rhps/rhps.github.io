@@ -1,0 +1,347 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Golang in Review</title>
+
+  <link rel="stylesheet" href="/assets/css/main.css" type="text/css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="/assets/css/prism.css">
+  <script async src="/assets/js/prism.js"></script>
+  <link rel="stylesheet" href="/assets/css/ideal-image-slider.css">
+  <link rel="stylesheet" href="/assets/css/video-embed.css">
+  <script async src="/assets/js/ideal-image-slider.js"></script>
+  <link href="https://fonts.googleapis.com/css?family=Fira+Sans&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Ubuntu+Mono" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,400i,700" rel="stylesheet">
+  <link rel="shortcut icon" href="/assets/images/alchemy.ico">
+  <link rel="alternate" type="application/rss+xml" title="RSS Feed for archiavelli" href="/feed.xml" />
+  <!-- Begin Jekyll SEO tag v2.5.0 -->
+<title>Golang in Review | archiavelli</title>
+<meta name="generator" content="Jekyll v3.7.4" />
+<meta property="og:title" content="Golang in Review" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Bahasa pemrograman yang sedang naik daun, sangat powerful dan akan tersedia dimana-mana. Para programmernya sedang banyak dicari, sehingga" />
+<meta property="og:description" content="Bahasa pemrograman yang sedang naik daun, sangat powerful dan akan tersedia dimana-mana. Para programmernya sedang banyak dicari, sehingga" />
+<link rel="canonical" href="http://localhost:4001/golang" />
+<meta property="og:url" content="http://localhost:4001/golang" />
+<meta property="og:site_name" content="archiavelli" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2020-02-27T00:00:00+07:00" />
+<script type="application/ld+json">
+{"@type":"BlogPosting","url":"http://localhost:4001/golang","headline":"Golang in Review","dateModified":"2020-02-27T00:00:00+07:00","datePublished":"2020-02-27T00:00:00+07:00","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4001/golang"},"description":"Bahasa pemrograman yang sedang naik daun, sangat powerful dan akan tersedia dimana-mana. Para programmernya sedang banyak dicari, sehingga","@context":"http://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+
+
+  <!-- Google Analytics -->
+
+<script>
+var host = window.location.hostname;
+if(host != "localhost")
+{
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-134611589-1', 'auto');
+  ga('send', 'pageview');
+}
+</script>
+
+
+  
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  <script>
+      (adsbygoogle = window.adsbygoogle || []).push({
+            google_ad_client: "ca-pub-4188943909307860",
+            enable_page_level_ads: true
+      });
+  </script>
+
+</head>
+
+<body>
+  <div class="content-container">
+    
+    
+      <header class="header">
+    <div class="header-small">
+      <a href="http://localhost:4001">archiavelli</a>
+    </div>
+    <nav class="header-nav-small">
+      
+      
+      <a href="/">home</a>
+      
+      
+      
+      <a href="/about">about</a>
+      
+      
+      
+      <a href="/exlibris">exlibris</a>
+      
+      
+      
+      <a href="/thesummits">summits</a>
+      
+      
+      
+      <a href="/blog">blog</a>
+      
+      
+    </nav>
+  </header>
+    
+
+    <!-- <div class="post-paging">
+  
+    <div class="left">
+      <a href="/blog/datawarehouse-in-review/">
+        <i class="fa fa-angle-left fa-2x" style="color:#343a40"></i>
+      </a>
+    </div>
+  
+  
+    <div class="right">
+      <a href="/norwegianwoodv2">
+        <i class="fa fa-angle-right fa-2x" style="color:#343a40"></i>
+      </a>
+    </div>
+  
+</div>
+ -->
+<div class="post">
+  <div class="post-title">Golang in Review</div>
+  <span class="post-date">
+    in-review ~ <time>27 Feb 2020</time>
+  </span>
+  <div class="post-tag">
+    <ul>
+      
+      <li>
+        <a href="http://localhost:4001/blog/label#technology">
+          <span>technology</span>
+        </a>
+      </li>
+      
+      
+      <li>
+        <a href="http://localhost:4001/blog/label#programmming">
+          <span>programmming</span>
+        </a>
+      </li>
+      
+      
+      <li>
+        <a href="http://localhost:4001/blog/label#go">
+          <span>go</span>
+        </a>
+      </li>
+      
+      
+      <li>
+        <a href="http://localhost:4001/blog/label#in-review">
+          <span>in-review</span>
+        </a>
+      </li>
+      
+      
+    </ul>
+  </div>
+
+  <br />
+  <div class="line-numbers">
+  <p>Pertengahan 2019 menjadi project pertama, sekaligus pertama kali aku belajar Golang. Bahasa yang cukup menarik karena syntax-nya sedikit banyak mirip dengan C++. Dan harusnya learning curve untuk mempelajari bahasa ini tidaklah begitu tinggi. Selain itu Golang menawarkan kecepatan dan high perfomance by default, hmm cukup menarik digunakan, mengingat kebutuhan untuk membangung sistem processing yang cepat. Selanjutnya Golang untuk beberapa saat ini sangat populer dimana banyak perusahaan menggunakan Golang sebagai dalam sistem mereka. Project tersebut hanya penambahan fitur kecil sehingga tidak cukup mendalam Golang ku gunakan. Kemudian diawal tahun ini ada rencana untuk sebuah project baru yang akan menggunakan Golang sebagai bahasa pemrogrammnya. Mungkin kali ini adalah kesempatanku untuk belajar lebih mendalam lagi bahasa ini.</p>
+
+<p>Karena belajar untuk kedua kalinya ini, aku kepikiran untuk mencatat dan mendokumentasinyakan. Setidaknya sebelum mahir-mahir banget aku dapat melihat kembali catatan ini ketika lupa syntax dan konsep-konsep esensial lainya.</p>
+
+<ul id="markdown-toc">
+  <li><a href="#sintaks-dasar" id="markdown-toc-sintaks-dasar">Sintaks Dasar</a>    <ul>
+      <li><a href="#hello-world" id="markdown-toc-hello-world">Hello World</a></li>
+      <li><a href="#variable" id="markdown-toc-variable">Variable</a></li>
+      <li><a href="#if-statement" id="markdown-toc-if-statement">If Statement</a></li>
+      <li><a href="#loop-statement" id="markdown-toc-loop-statement">Loop statement</a></li>
+    </ul>
+  </li>
+  <li><a href="#rekomendasi-bahan-bacaan-dan-belajar-lebih-lanjut" id="markdown-toc-rekomendasi-bahan-bacaan-dan-belajar-lebih-lanjut">Rekomendasi bahan bacaan dan belajar lebih lanjut</a></li>
+</ul>
+
+<h3 id="sintaks-dasar">Sintaks Dasar</h3>
+
+<h4 id="hello-world">Hello World</h4>
+
+<div class="language-go highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">package</span><span class="x"> </span><span class="n">main</span><span class="x">
+
+</span><span class="k">import</span><span class="x"> </span><span class="p">(</span><span class="x">
+	</span><span class="s">"fmt"</span><span class="x">
+</span><span class="p">)</span><span class="x">
+</span><span class="k">func</span><span class="x"> </span><span class="n">main</span><span class="p">()</span><span class="x"> </span><span class="p">{</span><span class="x">
+    </span><span class="n">fmt</span><span class="o">.</span><span class="n">Println</span><span class="p">(</span><span class="s">"Hello World"</span><span class="p">)</span><span class="x">
+</span><span class="p">}</span><span class="x">
+</span></code></pre></div></div>
+
+<h4 id="variable">Variable</h4>
+
+<div class="language-go highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">package</span><span class="x"> </span><span class="n">main</span><span class="x">
+
+</span><span class="k">import</span><span class="x"> </span><span class="p">(</span><span class="x">
+	</span><span class="s">"fmt"</span><span class="x">
+</span><span class="p">)</span><span class="x">
+</span><span class="k">func</span><span class="x"> </span><span class="n">main</span><span class="p">()</span><span class="x"> </span><span class="p">{</span><span class="x">
+    </span><span class="n">fmt</span><span class="o">.</span><span class="n">Println</span><span class="p">(</span><span class="s">"Hello World"</span><span class="p">)</span><span class="x">
+</span><span class="p">}</span><span class="x">
+</span></code></pre></div></div>
+
+<h4 id="if-statement">If Statement</h4>
+
+<div class="language-go highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">package</span><span class="x"> </span><span class="n">main</span><span class="x">
+
+</span><span class="k">import</span><span class="x"> </span><span class="p">(</span><span class="x">
+	</span><span class="s">"fmt"</span><span class="x">
+</span><span class="p">)</span><span class="x">
+</span><span class="k">func</span><span class="x"> </span><span class="n">main</span><span class="p">()</span><span class="x"> </span><span class="p">{</span><span class="x">
+    </span><span class="n">fmt</span><span class="o">.</span><span class="n">Println</span><span class="p">(</span><span class="s">"Hello World"</span><span class="p">)</span><span class="x">
+</span><span class="p">}</span><span class="x">
+</span></code></pre></div></div>
+
+<h4 id="loop-statement">Loop statement</h4>
+
+<div class="language-go highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">package</span><span class="x"> </span><span class="n">main</span><span class="x">
+
+</span><span class="k">import</span><span class="x"> </span><span class="p">(</span><span class="x">
+	</span><span class="s">"fmt"</span><span class="x">
+</span><span class="p">)</span><span class="x">
+</span><span class="k">func</span><span class="x"> </span><span class="n">main</span><span class="p">()</span><span class="x"> </span><span class="p">{</span><span class="x">
+    </span><span class="n">fmt</span><span class="o">.</span><span class="n">Println</span><span class="p">(</span><span class="s">"Hello World"</span><span class="p">)</span><span class="x">
+</span><span class="p">}</span><span class="x">
+</span></code></pre></div></div>
+<p><br />
+<br /></p>
+
+<hr />
+
+<h3 id="rekomendasi-bahan-bacaan-dan-belajar-lebih-lanjut">Rekomendasi bahan bacaan dan belajar lebih lanjut</h3>
+
+<ul>
+  <li><a href="https://github.com/quii/learn-go-with-tests">Github, learn-go-with test</a>, menganut prinsip learning by doing, repository ini menjadi alternatif yang bagus untuk belajar golang dengan cukup cepat. Saya sangat menyukai pendekatannya.</li>
+  <li><a href="https://www.amazon.com/Head-First-Go-Jay-McGavren/dp/1491969555">Head First Go</a>, jika saya pertama kali belajar pemrograman, buku ini akan menjadi pilihan utama saya. Namun tidak untuk programmer yang sudah berpengalaman.</li>
+</ul>
+
+  </div>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  <ins class="adsbygoogle"
+      style="display:block; text-align:center;"
+      data-ad-layout="in-article"
+      data-ad-format="fluid"
+      data-ad-client="ca-pub-4188943909307860"
+      data-ad-slot="8423988260"></ins>
+  <script>
+      (adsbygoogle = window.adsbygoogle || []).push({});
+  </script>
+
+  <!-- include relatedposts.html Belum selesai Design -->
+
+  <!-- Disqus -->
+  
+  <div class="post-disqus">
+      <section id="disqus_thread"></section>
+      <div id="disqus_thread"></div>
+<script>
+
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+/*
+var disqus_config = function () {
+this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+*/
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://harapanme.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+                            
+  </div>
+  
+
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- harapan.me-TextAds -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4188943909307860"
+     data-ad-slot="5493028008"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+  <div class="post-up" align="center">
+  	<a href="#">
+  	<i class="fa fa-angle-up fa-2x" style="color:#343a40"></i>
+  	</a>
+  </div>
+
+</div>
+
+    <!-- Documents about icons are here: http://fontawesome.io/icons/ -->
+<div class="footer">
+  <hr />
+  <div class="footer-link">
+    
+	
+	
+	
+	
+
+    
+    <a href="https://twitter.com/archiavelli"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+    
+
+    
+    <a href="https://github.com/rhps"><i class="fa fa-github" aria-hidden="true"></i></a>
+    
+	
+	
+    <a href="http://stackoverflow.com/users/5575744"><i class="fa fa-stack-overflow" aria-hidden="true"></i></a>
+    
+	
+	
+
+    
+	
+	
+	
+	
+	
+	
+	
+	
+
+    
+
+    
+
+    
+    <a href="mailto:rio@harapan.me"><i class="fa fa-envelope" aria-hidden="true"></i></a>
+    
+
+  </div>
+  <i class="fa fa-copyright" aria-hidden="true"></i> 2018 harapan.me. Made with <i class="fa fa-heart pink"></i> with many cups of <i class="fa fa-coffee" aria-hidden="true"></i>
+</div>
+
+  </div>
+
+  <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.10.0/css/lightbox.min.css" />
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.10.0/js/lightbox-plus-jquery.min.js"></script>
+</body>
+</html>

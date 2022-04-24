@@ -1,9 +1,61 @@
---- 
-layout: index 
----
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>archiavelli</title>
+
+  <link rel="stylesheet" href="/assets/css/main.css" type="text/css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="/assets/css/prism.css">
+  <script async src="/assets/js/prism.js"></script>
+  <link rel="stylesheet" href="/assets/css/ideal-image-slider.css">
+  <link rel="stylesheet" href="/assets/css/video-embed.css">
+  <script async src="/assets/js/ideal-image-slider.js"></script>
+  <link href="https://fonts.googleapis.com/css?family=Fira+Sans&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Ubuntu+Mono" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,400i,700" rel="stylesheet">
+  <link rel="shortcut icon" href="/assets/images/alchemy.ico">
+  <link rel="alternate" type="application/rss+xml" title="RSS Feed for archiavelli" href="/feed.xml" />
+  <!-- Begin Jekyll SEO tag v2.5.0 -->
+<title>archiavelli</title>
+<meta name="generator" content="Jekyll v3.7.4" />
+<meta property="og:title" content="archiavelli" />
+<meta property="og:locale" content="en_US" />
+<link rel="canonical" href="http://localhost:4001/" />
+<meta property="og:url" content="http://localhost:4001/" />
+<meta property="og:site_name" content="archiavelli" />
+<script type="application/ld+json">
+{"@type":"WebSite","url":"http://localhost:4001/","headline":"archiavelli","name":"archiavelli","@context":"http://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
 
 
-<div class="list">
+
+  <!-- Google Analytics -->
+
+<script>
+var host = window.location.hostname;
+if(host != "localhost")
+{
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-134611589-1', 'auto');
+  ga('send', 'pageview');
+}
+</script>
+
+
+  
+
+</head>
+
+<body>
+  <div class="content-container">
+
+    <div class="list">
     <div class="list-post">
 
         <!-- <div class="col-md-6 col-md-push-1 animate-box"> -->
@@ -28,21 +80,41 @@ layout: index
                     <br />
                 </div>
                 <!-- <h3 class="title">
-							{% for nav in site.nav %}
-								{% if nav.url contains 'http://' or nav.url contains 'https://' %}
-									<a class="btn" href="{{ nav.url }}"> {{ nav.name }} </a>
-								{% else %}
-									<a class="btn" href="{{ nav.url | prepend: site.baseurl }}"> {{ nav.name }} </a>
-								{% endif %}
-							{% endfor %}
+							
+								
+									<a class="btn" href="/"> home </a>
+								
+							
+								
+									<a class="btn" href="/about"> about </a>
+								
+							
+								
+									<a class="btn" href="/exlibris"> exlibris </a>
+								
+							
+								
+									<a class="btn" href="/thesummits"> summits </a>
+								
+							
+								
+									<a class="btn" href="/blog"> blog </a>
+								
+							
 							</h3> -->
 
                 <div class="hero-buttons" style="margin: 0 auto; display: table;">
-                    {% for nav in site.nav %} {% if nav.url contains 'http://' or nav.url contains 'https://' %}
-                    <!-- <a class="btn" href="{{ nav.url }}"> {{ nav.name }} </a> -->
-                    <a href="{{ nav.url }}" style="font-family: 'Merriweather', serif;"><button class="btn btn-default btn-lg"> {{ nav.name }} </button></a> {% else %}
-                    <!-- <a class="btn" href="{{ nav.url | prepend: site.baseurl }}"> {{ nav.name }} </a> -->
-                    <a href="{{ nav.url | prepend: site.baseurl }}" style="font-family: 'Merriweather', serif;"><button class="btn btn-default btn-lg"> {{ nav.name }} </button></a> {% endif %} {% endfor %}
+                     
+                    <!-- <a class="btn" href="/"> home </a> -->
+                    <a href="/" style="font-family: 'Merriweather', serif;"><button class="btn btn-default btn-lg"> home </button></a>   
+                    <!-- <a class="btn" href="/about"> about </a> -->
+                    <a href="/about" style="font-family: 'Merriweather', serif;"><button class="btn btn-default btn-lg"> about </button></a>   
+                    <!-- <a class="btn" href="/exlibris"> exlibris </a> -->
+                    <a href="/exlibris" style="font-family: 'Merriweather', serif;"><button class="btn btn-default btn-lg"> exlibris </button></a>   
+                    <!-- <a class="btn" href="/thesummits"> summits </a> -->
+                    <a href="/thesummits" style="font-family: 'Merriweather', serif;"><button class="btn btn-default btn-lg"> summits </button></a>   
+                    <!-- <a class="btn" href="/blog"> blog </a> -->
+                    <a href="/blog" style="font-family: 'Merriweather', serif;"><button class="btn btn-default btn-lg"> blog </button></a>  
                 </div>
 
             </div>
@@ -69,3 +141,53 @@ layout: index
 
     hideTitle1()
 </script>
+
+    <!-- Documents about icons are here: http://fontawesome.io/icons/ -->
+<div class="footer">
+  <hr />
+  <div class="footer-link">
+    
+	
+	
+	
+	
+
+    
+    <a href="https://twitter.com/archiavelli"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+    
+
+    
+    <a href="https://github.com/rhps"><i class="fa fa-github" aria-hidden="true"></i></a>
+    
+	
+	
+    <a href="http://stackoverflow.com/users/5575744"><i class="fa fa-stack-overflow" aria-hidden="true"></i></a>
+    
+	
+	
+
+    
+	
+	
+	
+	
+	
+	
+	
+	
+
+    
+
+    
+
+    
+    <a href="mailto:rio@harapan.me"><i class="fa fa-envelope" aria-hidden="true"></i></a>
+    
+
+  </div>
+  <i class="fa fa-copyright" aria-hidden="true"></i> 2018 harapan.me. Made with <i class="fa fa-heart pink"></i> with many cups of <i class="fa fa-coffee" aria-hidden="true"></i>
+</div>
+
+  </div>
+</body>
+</html>

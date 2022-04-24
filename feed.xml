@@ -1,24 +1,919 @@
----
-layout: null
----
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
-    <title>{{ site.name | xml_escape }}</title>
-    <link>{{ site.url }}{{ site.baseurl }}</link>
-    <atom:link href="{{ site.url }}{{ site.baseurl }}/feed.xml" rel="self" type="application/rss+xml" />
-    {% for post in site.posts %}
-      {% if post.hidden == true %}
-
-      {% else %}
+    <title>archiavelli</title>
+    <link>http://localhost:4001</link>
+    <atom:link href="http://localhost:4001/feed.xml" rel="self" type="application/rss+xml" />
+    
+      
       <item>
-        <title>{{ post.title | xml_escape }}</title>
-        <description>{{ post.content | xml_escape }}</description>
-        <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-        <link>{{ site.url }}{{ site.baseurl }}{{ post.url }}</link>
-        <guid isPermaLink="true">{{ site.url }}{{ site.baseurl }}{{ post.url }}</guid>
+        <title>7 Summits</title>
+        <description>
+</description>
+        <pubDate>Sun, 15 Aug 2021 00:00:00 +0700</pubDate>
+        <link>http://localhost:4001/blog/7-summits/</link>
+        <guid isPermaLink="true">http://localhost:4001/blog/7-summits/</guid>
       </item>
-      {% endif %}
-    {% endfor %}
+      
+    
+      
+      <item>
+        <title>Gunung Rinjani</title>
+        <description>&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+    &lt;a href=&quot;https://www.google.com/maps/d/viewer?mid=19vO9uZPAhGG2kulltDiqYJF09jmY7iA4&quot; title=&quot;Gunung Rinjani&quot; target=&quot;_blank&quot;&gt;
+    
+        &lt;img src=&quot;http://localhost:4001//images/adventure/20210615-rinjani/rinjani.png&quot; alt=&quot;Gunung Rinjani&quot; class=&quot;imgjkl&quot; /&gt;
+    
+    &lt;/a&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;Peta 3 Dimesi Pendakian Rinjani dari Google Earth&lt;/p&gt;
+    
+&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Gunung Rinjani&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Lokasi : Lombok, Nusa Tenggara Barat&lt;/p&gt;
+
+&lt;p&gt;Tinggi : 3727&lt;/p&gt;
+
+&lt;p&gt;Tanggal: mei 2021&lt;/p&gt;
+
+&lt;p&gt;GPX    : &lt;a href=&quot;/images/adventure/20210615-rinjani/rinjani_sembalun_torean.gpx&quot;&gt;Gunung Rinjani&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Kalau ingin naik gunung, cuman untuk sekali saja, pergilah ke gunung terindah, Rinjani!&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Ujar salah satu guide yang menemani kami sepanjang perjalanan mendaki Rinjani, Mei 2021 yang lalu. Rinjani memang indah, pemandangan yang ditawarkan tidak hanya puncak dan Danau Segara Anak yang sebagai satu kesatuan yang membuat rasa lelah hilang telah sampai diatas. Padang Ilalang yang luas, lembah dan perbukitan nan indah, mata air panas, air terjun dan hutan yang rindang. Paket lengkap untuk sebuah trek pendakian. Sangat memuaskan perjalanan kali ini.&lt;/p&gt;
+
+&lt;p&gt;Tidak seperti gunung lainnya di-sekitaran Pulau Jawa yang bisa ditempuh hanya dengan 2 hari dan 1 malam, trek pendakian Rinjani begitu panjang, setidaknya butuh 4 hari dan 3 malam untuk menyelesaikan gunung ini dan setidaknya untuk mendapatkan semua tempat yang ditawarkannya. Dari Sembalun, Plawangan, Puncak, Danau Segara Anak hingga turun melalui Torean. Setidaknya itulah tempat utama yang kami jalani kemarin.&lt;/p&gt;
+
+&lt;p&gt;Untuk mendaki ke Rinjani setidaknya ada 6 jalur pendakian yang dibuka yaitu Air Berik, Sembalun, Senaru, Tete Batuh, Timbanuh dan Torean. Sembalun menjadi jalur pendakian favorit untuk dapat mencapai puncak dan Torean menjadi jalur dengan pemandangan yang paling indah sekaligus menjadi jalur yang paling susah medannya. Para pendaki dapat mengurus sendiri dan mendaftarkan diri pada situs &lt;a href=&quot;https://www.rinjaninationalpark.id/book&quot;&gt;Taman Nasional Gunung Rinjani&lt;/a&gt; untuk mendapatkan izin pendakian dengan biaya senilai Rp. 5.000/hari untuk pendaki Indonesia dan Rp. 150.000/hari untuk pendaki Internasional. Ya biayanya perhari, berarti untuk pendakian yang direncanakan selama 4 hari dan 3 malam, kita harus membayar Rp. 20.000 per-orangnya. Biaya ini cukup masuk akal, mengingat bahwa ketika kita tidak sampai kesalah satu pos akhir pendakian pada waktu yang telah ditentukan (akhir hari ke 4) maka akan dibentuk tim untuk melakukan pencarian dan penyelamatan. Kita juga dapat mengikuti Paket Wisata untuk pendakian di Rinjani dan tidak perlu lagi repot-repot mengurus pendaftaran tersebut. Juga tersedia Guide dan Porter yang dapat membantu kita untuk membawa perlengkapan kita selama pendakian. Untuk Porter sendiri biayanya sekitar Rp. 250.000 hingga Rp. 300.000 per-hari-nya.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/images/adventure/20210615-rinjani/rinjani_sembalun_torean.gpx&quot;&gt;Download file GPX&lt;/a&gt;&lt;/p&gt;
+
+&lt;iframe src=&quot;https://www.google.com/maps/d/u/0/embed?mid=19vO9uZPAhGG2kulltDiqYJF09jmY7iA4&quot; width=&quot;828&quot; height=&quot;651&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;br /&gt;
+Jalur Sembalun yang kita lalui kemarin pemandangannya didominasi oleh savana hijau. Waktunya tepat banget untuk melakukan pendakian ke Rinjani pada April atau Mei, karena Rinjani baru saja dibuka pendakiannya diawal April, kondisinya masih asri dan bersih, padang ilalangnya masih hijau. Setiap tahunnya pendakian di Rinjani akan ditutup dari 1 Januari hingga 31 Maret untuk dilakukan perawatan dan penghijauan Rutin. Dari pos sembalun kita akan menuju tempat camping pertama di Plawangan. Setidaknya kalau kita berangkat pagi sekitar pukul 07.00 atau 08.00 pagi, kita bisa tiba di Plawangan sektiar pukur 18.00 atau lebih cepat. Malam pertama pendakian akan dihabiskan di Plawangan, punggungan bukit yang luas yang dapat menampung ratusan tenda disini. Untuk summit, perjalanan menuju puncak, biasanya akan dimulai dari Plawangan sekitar pukul 02.00 atau 03.00 pagi keesokan harinya. Dari Plawangan menuju puncak sendiri akan memakan waktu hingga 7 jam. Medan kepuncak sendiri cukup berat karena kita akan berjalan dipunggungan yang artinya pendakian akan lebih terjal, ditambah dengan pijakan kita sebagian besar batu kerikil dan pasir, membuat perjalanan menjadi lebih susah.&lt;/p&gt;
+
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+    &lt;a href=&quot;https://www.harapan.me/rinjani&quot; title=&quot;Gunung Rinjani&quot; target=&quot;_blank&quot;&gt;
+    
+        &lt;img src=&quot;http://localhost:4001//images/adventure/20210615-rinjani/20210529_103122.jpg&quot; alt=&quot;Gunung Rinjani&quot; class=&quot;imgjkl&quot; /&gt;
+    
+    &lt;/a&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;Puncak Gunung Rinjani&lt;/p&gt;
+    
+&lt;/div&gt;
+
+&lt;p&gt;Setelah mencapai puncak, kita akan turun ke Danau Segara Anak dan akan Camping disini pada malam kedua. Danau Segara anak sendiri sebenarnya merupakan kawah yang tidak aktif lagi. Kawah ini sekarang hanya menyisakan Gunung Barujari yang masih aktif dan mengeluarkan asap panas dipuncaknya. Pemandangan dari Danau Segara Anak sangat indah dipagi hari dengan latar belakang puncak Rinjani dan Gunung Barujari, ada air terjun didekat danau untuk mandi dan sumber air panas yang dapat digunakan untuk berendam. Sehabis pendakian, relaksasi dikolam air panas membuat lelah dan penat hilang. Di Danau ini juga banyak ikan, sehingga akan banyak pendaki dan penduduk lokal yang mancing dipinggiran danau. Oiya, Gunung Rinjani juga banyak menyimpan cerita dan legenda yang dipercaya oleh penduduk lokal, salah satunya ialah Gunung Rinjani dipercaya sebagai pusat semesta oleh umat Hindu Bali, sehingga tidak jarang kita akan menemui warga yang ke Rinjani untuk melakukan upacara adat.&lt;/p&gt;
+
+&lt;p&gt;Setelah dari Danau perjalanan dilanjutkan untuk turun melalui Jalur Torean, dari sinilah perjalan ekstrim dimulai. Jalur Torean merupakan jalur pendakian terindah di Rinjani, karena sepanjang jalur ini kita akan melewati banyak pemandangan indah. Medan yang akan dilalui mulai hutan rindang, lembah yang hijau, lereng perbukitan, menyeberangi sungai dan alur aliran lahar dingin, tak jarang juga dalam pendakian ini kita akan dibantu dengan tali webing dan anak tangga. Kita akan melewati beberapa air terjun dan sungai berbelerang. Disepanjang perjalanan juga terdapat sumber mata air yang dapat digunakan untuk minum.&lt;/p&gt;
+
+&lt;!-- Jekyll Ideal Image Slider Include --&gt;
+&lt;!-- https://github.com/jekylltools/jekyll-ideal-image-slider-include --&gt;
+&lt;!-- v1.8 --&gt;
+&lt;!-- Jekyll Ideal Image Slider Include --&gt;
+&lt;!-- https://github.com/jekylltools/jekyll-ideal-image-slider-include --&gt;
+&lt;!-- v1.8 --&gt;
+&lt;link rel=&quot;stylesheet&quot; href=&quot;/assets/css/slider/ideal-image-slider.css&quot; /&gt;
+
+&lt;link rel=&quot;stylesheet&quot; href=&quot;/assets/css/slider/themes/default.css&quot; /&gt;
+&lt;div id=&quot;rinjani&quot;&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/20210526_213728.jpg&quot; title=&quot;&quot; alt=&quot;Rinjani 1/64: Begitu tiba di Lombok, tergoda untuk mencoba banyak aktivitas wisata dan mengunjungi tempat-tempat baru, tapi harus fokus persiapan diri dan stamina untuk pendakian ke Rinjani&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/20210528_090410.jpg&quot; title=&quot;&quot; alt=&quot;Rinjani 2/64: Pendakian dimulai dari pos pendakian Sembalun, berjalan melewati perkampungan warga dan perkebunan selama kurang lebih 1 jam, kemudian jalur pendakian berlanjut ke Savana&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/20210528_101632.jpg&quot; title=&quot;&quot; alt=&quot;Rinjani 3/64: Berjalan terus dari Pos Sembalun selama kurang lebih 3 jam akhirnya tiba juga di Pos 1, Pementan&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/20210528_101741.jpg&quot; title=&quot;&quot; alt=&quot;Rinjani 4/64: Plang pos-nya tenyata dilengkapi dengan jarak yang ditempuh hingga kepuncak. Tujuan untuk hari ini ialah harus tiba di-Plawangan, sekitar 5.3 kilometer lagi, semoga bisa tiba sebelum malam&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/20210528_103909.jpg&quot; title=&quot;&quot; alt=&quot;Rinjani 5/64: Istirahat sebentar di Pos 1, lanjut perjalanan lagi. Jalur pendakian masih sama, medannya Savana dengan jalan setapak yang bisa dilalui motor. Di Rinjani ada juga jasa ojek hingga ke pos 2, harganya sekitar Rp. 150.000&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/20210528_110341.jpg&quot; title=&quot;&quot; alt=&quot;Rinjani 6/64: Terus melangkah akhirnya pukul 11.00 tiba juga di pos 2, Tingengean. Disini biasanya dijadikan check point untuk makan siang, namun karena kita belum lapar akhirnya kita beristirahat sebentar dan kemudian melanjutkan lagi perjalan. Nanti makan siang di pos 3&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/20210528_111010.jpg&quot; title=&quot;&quot; alt=&quot;Rinjani 7/64: Plawangan masih sekitar 3.9 km lagi, puncak sekitar 7.7 km lagi. Semangat!!!&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/20210528_112010.jpg&quot; title=&quot;&quot; alt=&quot;Rinjani 8/64: Walau treknya banyak percabangan, namun plang arah dan keterangan yang terpasang cukup jelas. Lanjut berjalan menuju pos 3&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/20210528_112052.jpg&quot; title=&quot;&quot; alt=&quot;Rinjani 9/64: Menuju pos 3, Jalan masih panjang!&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/20210528_122130.jpg&quot; title=&quot;&quot; alt=&quot;Rinjani 10/64: Pukul 12.30, perjalanan masih jauh menuju pos 3. Beberapa pendaki memilih untuk beristirahat sebentar, makan atau bahkan tidur.&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/20210528_130739.jpg&quot; title=&quot;&quot; alt=&quot;Rinjani 11/64: Sepanjang perjalanan disuguhi pemandangan savana hijau berbukit-bukit nan indah. Melewati beberapa jembatan dan alur aliran lahar dingin seperti ini, karena tidak erupsi alur alirannya jadi seperti sungai yang kering.&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/20210528_132734.jpg&quot; title=&quot;&quot; alt=&quot;Rinjani 12/64: Akhirnya tiba juga di Pos 3 - Padabalong pukul 13.30&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/20210528_132749.jpg&quot; title=&quot;&quot; alt=&quot;Rinjani 13/64: Plawangan tinggal 2.2 km lagi, masih ada waktu panjang untuk makan, istirahat, peregangan badan dan tidur! Lebih baik jangan daki gunung kalau cuma buat buang sampah, INGAT SAMPAHMU!&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/20210528_134633.jpg&quot; title=&quot;&quot; alt=&quot;Rinjani 14/64: Jalur pendakian berbatasan langsung dengan alam liar, jadi akan banyak ditemui binatang liar. Salah satunya Monyet Pusuk, monyet yang berekor panjang ini dikeramatkan oleh warga sekitar&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/20210528_145710.jpg&quot; title=&quot;&quot; alt=&quot;Rinjani 15/64: Pukul 15.00 akhirnya kita tiba di Pos 4 - Cemara Siu. Istirahat dulu dan jajan&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/20210528_151440.jpg&quot; title=&quot;&quot; alt=&quot;Rinjani 16/64: Di pos 4 masih terdapat warung dan juga porter Keril. Jadi kalau sudah capek bisa menyewa Porter untuk bawain keril sampe ke Plawangan.&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/20210528_154238.jpg&quot; title=&quot;&quot; alt=&quot;Rinjani 17/64: Trek pendakian sekarang sudah tidak lagi savana, pohon-pohon mulai tampak, mungkin sebentar lagi akan memasuki hutan&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/20210528_173758.jpg&quot; title=&quot;&quot; alt=&quot;Rinjani 18/64: Dari tempat kita berjalan, sebenarnya puncak sudah keliatan, tapi kecil banget&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/20210528_174032.jpg&quot; title=&quot;&quot; alt=&quot;Rinjani 19/64: Mungkin besok kita akan menyusuri punggungan itu, kayaknya nanjak terus gaada bonus-bonusnya&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/IMG_0210.JPG&quot; title=&quot;&quot; alt=&quot;Rinjani 20/64: Hari sudah mulai sore, tapi Plawangan rasanya belum juga sampai, mau gimana lagi harus terus berjalan, sebelum malam&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/20210528_205725.jpg&quot; title=&quot;&quot; alt=&quot;Rinjani 21/64: Akhirnya tiba juga di Plawangan sekitar pukul 17.30. Setelah tenda berdiri, makan, kemudian tidur. Malam sebelumnya baru saja gerhana, sehingga kali ini bulan penuh (full moon)&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/20210529_055123.jpg&quot; title=&quot;&quot; alt=&quot;Rinjani 22/64: Kita bangun pukul 3.00 pagi untuk memulai summit attack. Pendakian ke Puncak, pukul 06.00 matahari sudah mulai tampak, langit menguning.&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/20210529_061812.jpg&quot; title=&quot;&quot; alt=&quot;Rinjani 23/64: Pendakian ke puncak ternyata lebih berat, namun dengan adanya pemandangan matahari terbit lelahnya teralihkan&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/20210529_061437.jpg&quot; title=&quot;&quot; alt=&quot;Rinjani 24/64: Selain matahari terbit, ketika kita melihat kebelakang juga ada pemandangan indah Danau Segara Anak.&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/IMG_1002.JPG&quot; title=&quot;&quot; alt=&quot;Rinjani 25/64: Matahari sudah penuh keluar, Savana yang kita lalui tadi tampak kuning keemasan. Dilihat dari sini, orang-orang di Plawangan kecil juga yah&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/20210529_085301.jpg&quot; title=&quot;&quot; alt=&quot;Rinjani 26/64: Kondisi trek pendakian, sebenarnya disepanjang trek pendakian ke Puncak ini, banyak ditemui pendaki yang tergeletak, tidur, beristirahat ataupun sudah menyerah. Summit ke Rinjani memang menguras tenaga, medannya yang panjang dan berbatu, naik tiga langkah turun dua langkah&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/IMG_0251.JPG&quot; title=&quot;&quot; alt=&quot;Rinjani 27/64: Perjalan sudah sejauh ini rasanya, gaada opsi untuk balik, yaudah tabah saja dan jalan perlahan. Nikmati setiap langkahnya&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/20210529_103122.jpg&quot; title=&quot;&quot; alt=&quot;Rinjani 28/64: Akhirnya setelah perjuangan panjang, pada pukul 10.00 pagi kita sampai ke puncak Rinjani. Ritual wajib berphoto dengan plang puncak&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/20210529_102037.jpg&quot; title=&quot;&quot; alt=&quot;Rinjani 29/64: Dari atas kita dapat melihat pemandangan gunung Barujari dan danau Segara Anak. Pukul 10.00 juga awan mulai naik&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/20210529_181234.jpg&quot; title=&quot;&quot; alt=&quot;Rinjani 30/64: Pendakian ke-Puncak memakan waktu 7 jam, untuk turunnya sekitar 4 jam. Pukul 15.00 kita sudah tiba kembali di Plawangan. Setelah beristirahat sejenak kita melanjutkan perjalanan turun ke danau Segara Anak. Kabut sudah turun.&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/20210529_181346.jpg&quot; title=&quot;&quot; alt=&quot;Rinjani 31/64: Berjalan kurang lebih 4 jam, pukul 18.00 akhirnya Danau mulai kelihatan yang artinya kita sudah hampir tiba di Kamp. Bisa istirahat, makan, peregangan dan tidur.&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/20210530_094941.jpg&quot; title=&quot;&quot; alt=&quot;Rinjani 32/64: Namaste, Paginya bagun tidur, cuaca cerah. Danau Segara anak dengan latar belakang Gunung Barujari sungguh indah.&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/IMG_20210530_093535.jpg&quot; title=&quot;&quot; alt=&quot;Rinjani 33/64: Danau Segara Anak&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/IMG_20210530_061420.jpg&quot; title=&quot;&quot; alt=&quot;Rinjani 34/64: Kondisi Camp di Danau Segara Anak pagi hari. Ada yang masih ditenda, ada yang bermain di pinggir danau, ada yang sedang mancing cari ikan.&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/IMG_1170.JPG&quot; title=&quot;&quot; alt=&quot;Rinjani 35/64: Ga jauh dari danau Segara Anak terdapat sumber air panas dan sungai yang dapat digunakan untuk mandi. Akhirnya setelah 3 hari ga mandi. Relaksasi dengan air panas enak juga.&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/IMG_1213.JPG&quot; title=&quot;&quot; alt=&quot;Rinjani 36/64: Air terjun dari sungai yang airnya berasal dari Danau Segara Anak. Segar!&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/IMG_20210530_062902.jpg&quot; title=&quot;&quot; alt=&quot;Rinjani 37/64: Didekat sungai dan pemandian air panas juga ada para pendaki yang Camping.&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/IMG_1235.JPG&quot; title=&quot;&quot; alt=&quot;Rinjani 38/64: Setelah makan siang, kita lanjutkan perjalanan turun melalui jalur Torean. Hari ketiga, Puncak sudah, Danau Segara Anak sudah, perjalanan jadi lebih santai. Sebelum turun dari Danau Segara Anak menuju basecamp Torean, Rombongan kita berfoto dulu&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/IMG_20210530_125643.jpg&quot; title=&quot;&quot; alt=&quot;Rinjani 39/64: Trek yang harus kita lalui, perpaduan lembah, hutan dan lereng&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/20210530_133248.jpg&quot; title=&quot;&quot; alt=&quot;Rinjani 40/64: Jalur Torean menyajikan pemandangan yang sangat indah dan menawan. Di sepanjang trek, kita akan melewati setidaknya 3 alur aliran sungai dan pemandangan air terjun, ini salah satunya&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/20210530_142000.jpg&quot; title=&quot;&quot; alt=&quot;Rinjani 41/64: Air terjun lainnya yang kita lalui. Jalur Torean juga lebih ekstrim dibandingkan jalur Sembalun yang kita lalui sebelumnya, turun naik-bukit, berjalan di lembah yang diapit kaki-kaki gunung&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/IMG_1259.JPG&quot; title=&quot;&quot; alt=&quot;Rinjani 42/64: Beberapa bagian trek pendakian harus melewati tangga seperti ini. Kita berganti-gantian dan saling tolong-menolong supaya bisa lewat&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/20210530_142208.jpg&quot; title=&quot;&quot; alt=&quot;Rinjani 43/64: Selain sungai, pendaki juga akan melalui alur jalur lahar dingin seperti ini.&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/DSC9118.JPG&quot; title=&quot;&quot; alt=&quot;Rinjani 44/64: Ketemu sungai, istirahat lagi sambil main air. Karena sungai ini mengandung belerang, jadi gabisa dimimum&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/DSC9134.JPG&quot; title=&quot;&quot; alt=&quot;Rinjani 45/64: Keril dilepas, ada yang ngerokok ada yang main air, ada yang ghibah. Macam-macam pokoknya&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/DSC9168.JPG&quot; title=&quot;&quot; alt=&quot;Rinjani 46/64: Untuk melewati sungai berbelerang tersebut, terdapat jembatan darurat seperti ini. Jadi gantian lewatnya&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/IMG_1387.JPG&quot; title=&quot;&quot; alt=&quot;Rinjani 47/64: Setelah setengah perjalanan dari Danau Segara Anak menuju Desa Torean, kita beristirahat di-area Camp dekat dengan sungai. Kita nginap semalam lagi disini&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/20210531_060129.jpg&quot; title=&quot;&quot; alt=&quot;Rinjani 48/64: Camp kali ini dekat dengan hutan dan sungai. Masih ditemani full moon malam ini&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/20210531_060102.jpg&quot; title=&quot;&quot; alt=&quot;Rinjani 49/64: Pagi hari, matahari mulai terbit dilembah diantara dua gunung. Persiapan untuk pulang&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/DSC9197.JPG&quot; title=&quot;&quot; alt=&quot;Rinjani 50/64: Mandi lagi. Tidak jauh dari camp kami ada sungai yang jernih dan segar. Dibagian agak keatas, kita mengambil air, bagian bawahnya bisa dipake untuk mandi&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/IMG_1404.JPG&quot; title=&quot;&quot; alt=&quot;Rinjani 51/64: Bagian atas dari sungai, tempat kita mengambil air yang dipake untuk minum&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/20210531_090246.jpg&quot; title=&quot;&quot; alt=&quot;Rinjani 52/64: Perjalanan selanjutnya kita memang benar-benar turun naik bukit dan melewati lereng-lereng gunung. Ada tempat yang cukup luas sedikit kita manfaatkan untuk beristirahat&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/20210531_091621.jpg&quot; title=&quot;&quot; alt=&quot;Rinjani 53/64: Aliran sungai tepat dibawah lereng yang kami lalui, sungai ini mengandung belerang dan sumber airnya dari danau&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/20210531_091636.jpg&quot; title=&quot;&quot; alt=&quot;Rinjani 54/64: Pemandangan didepan pegunungan hijau, sebentar-sebentar berhenti untuk mengambil gambar&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/20210531_090251.jpg&quot; title=&quot;&quot; alt=&quot;Rinjani 55/64: Kayaknya waktunya tepat yah, ke Rinjani bulan-bulan April-Mei. Rinjani baru dibuka setelah 3 bulan ditutup diawal tahun, awal musim kemarau. Pohon dan belukar masih hijau, cuaca juga bersahabat&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/20210531_092543.jpg&quot; title=&quot;&quot; alt=&quot;Rinjani 56/64: Walau sudah dua jam berjalan, capek ga terlalu berasa. Pemandangannya indah begini!&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/20210531_105249.jpg&quot; title=&quot;&quot; alt=&quot;Rinjani 57/64: Air terjun lainnya yang kita lalui. Cerita dari bapak porter yang bersama kami, sejak gempa 2018 yang lalu banyak perubahan terjadi dialur sungai dan Air terjun. Ada sungai yang jadi kering, air terjun yang berpindah.&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/IMG_1475.JPG&quot; title=&quot;&quot; alt=&quot;Rinjani 58/64: Ketemu aliran sungai kering, terus agak rindang ditutupi tebing, istirahat dulu sambil foto-foto&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/DSC9334.JPG&quot; title=&quot;&quot; alt=&quot;Rinjani 59/64: Pukul 12.00 kita berhenti di area camp ditengah hutan. Istirahat dan makan siang.&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/DSC9335.JPG&quot; title=&quot;&quot; alt=&quot;Rinjani 60/64: Porter yang menemani kami, selain membawakan perlengkapan kelompok, juga memasak makanan. Mereka akan berjalan duluan dan mempersiapkan makanan di pos-pos perjalanan&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/IMG_1337.JPG&quot; title=&quot;&quot; alt=&quot;Rinjani 61/64: Sajian makan dalam perjalanan kali ini yang paling nikmat adalah sambal ini. Dibuat oleh bapak Porter dan di-ulek langsung dengan alat seadanya&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/IMG_1338.JPG&quot; title=&quot;&quot; alt=&quot;Rinjani 62/64: Nasi, sayur sop dan ayam ditambah sambal yang tadi. Top!&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/IMG_1422.JPG&quot; title=&quot;&quot; alt=&quot;Rinjani 63/64: Tidak lupa juga buah-buahan segar!&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210615-rinjani/IMG_1536.JPG&quot; title=&quot;&quot; alt=&quot;Rinjani 64/64: Setengah sisa perjalanan jalur Torean akan melalui hutan rindang seperti ini. Emang jalur Torean ini paket lengkap semua medan treking ada disini.&quot; /&gt;
+  &lt;/div&gt;
+&lt;!-- Jekyll Ideal Image Slider Include --&gt;
+&lt;!-- https://github.com/jekylltools/jekyll-ideal-image-slider-include --&gt;
+&lt;!-- v1.8 --&gt;
+&lt;script src=&quot;/assets/js/slider/ideal-image-slider.min.js&quot;&gt;&lt;/script&gt;
+
+&lt;script src=&quot;/assets/js/slider/iis-bullet-nav.js&quot;&gt;&lt;/script&gt;
+
+&lt;script src=&quot;/assets/js/slider/iis-captions.js&quot;&gt;&lt;/script&gt;
+
+&lt;script&gt;
+  var rinjani = new IdealImageSlider.Slider({
+      selector: '#rinjani',
+      height: 'auto',
+      maxHeight: '621',
+      interval: 7000,
+      effect: 'fade',
+      });
+    rinjani.addCaptions();
+    rinjani.start();
+  &lt;/script&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Pendakian Rinjani melalui Sembaluan lintas ke Torean memang menjadi pendakian terindah yang pernah kulalui. Sangat puas rasanya, walau memang melelahkan dengan jalur pendakian yang panjang dan ekstrem. Untuk pendakian selanjutnya ke Rinjani, kayaknya akan melewati jalur lain seperti Senaru dan Timbanuh. Jalur Timbanuh terdapat jalan untuk menuju ke Puncak Barujari.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 15 Jun 2021 00:00:00 +0700</pubDate>
+        <link>http://localhost:4001/rinjani</link>
+        <guid isPermaLink="true">http://localhost:4001/rinjani</guid>
+      </item>
+      
+    
+      
+
+      
+    
+      
+
+      
+    
+      
+
+      
+    
+      
+
+      
+    
+      
+
+      
+    
+      
+
+      
+    
+      
+
+      
+    
+      
+
+      
+    
+      
+
+      
+    
+      
+
+      
+    
+      
+      <item>
+        <title>Gunung Papandayan</title>
+        <description>&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+    &lt;a href=&quot;https://www.harapan.me/papandayan&quot; title=&quot;Gunung Papandayan&quot; target=&quot;_blank&quot;&gt;
+    
+        &lt;img src=&quot;http://localhost:4001//images/adventure/20210115-papandayan/GOPR0831.JPG&quot; alt=&quot;Gunung Papandayan&quot; class=&quot;imgjkl&quot; /&gt;
+    
+    &lt;/a&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;Hutan mati di Gunung Papandayan&lt;/p&gt;
+    
+&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Gunung Papandayan&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Lokasi : Garut, Jawa Barat&lt;/p&gt;
+
+&lt;p&gt;Tinggi : 2666&lt;/p&gt;
+
+&lt;p&gt;Tanggal: desember 2020&lt;/p&gt;
+
+&lt;p&gt;GPX    : &lt;a href=&quot;/images/adventure/20210115-papandayan/papandayan.gpx&quot;&gt;Gunung Papandayan&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Untuk pendaki pemula yang ingin merasakan hiking ringan dipadukan dengan camping ceria dengan pemandangan yang indah, Gunung Papandayan dapat menjadi pilihan utama. Gunung dengan pemandangan yang indah dan tempat camping yang tertata dan dikelola dengan baik ini dapat memberikan kesan yang bagus untuk pendaki pemula. Taman Wisata Alam Gunung Papandayan ini dikelola oleh swasta ini membuat tempat ini sangat baik dan tertata rapi. Jalur hiking telah dibuat dari batu-batu alami, sehingga memudahkan kita untuk dapat hiking, setidaknya sampai ke area camping Pondok Seladah dan hutan mati. Selebihnya melewati hutan mati merupakan jalan setapak seperti biasa.&lt;/p&gt;
+
+&lt;p&gt;Pada pendakian kali ini, Desember 2020, kami berniat untuk dapat sampai ke puncak tertinggi gunung Papandayan. Namun karena kebakaran hutan pada kurun waktu tahun 2010an membuat akses kepuncak ditutup. Pendakian ke Puncak tetap dapat dilakukan dengan izin khusus.&lt;/p&gt;
+
+&lt;p&gt;Perjalan kami kali ini dimulai dari Camp David, area parkir TWA Papandayan. Tidak berapa lama berjalan dari Camp David kita akan langsung menghadapi trek hiking dari batu alami yang disusun menjadi anak tangga. Cukup bagus dan terawat untuk sebuah Trek Pendakian di Indonesia. Sekitar sejam perjalanan, kita akan sampai di area kawah terbuka Gunung Papandayan, dimana kita dapat melihat secara langsung erupsi dari celah-celah disekitaran area tersebut.&lt;/p&gt;
+
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+    &lt;a href=&quot;https://www.harapan.me/papandayan&quot; title=&quot;Gunung Rinjani&quot; target=&quot;_blank&quot;&gt;
+    
+        &lt;img src=&quot;http://localhost:4001//images/adventure/20210115-papandayan/GOPR1056.JPG&quot; alt=&quot;Gunung Rinjani&quot; class=&quot;imgjkl&quot; /&gt;
+    
+    &lt;/a&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;Kawah terbuka Gunung Papandayan&lt;/p&gt;
+    
+&lt;/div&gt;
+
+&lt;p&gt;Setelah melewati kawah terbuka dan pos pandang, terus berjalan dan kemudian melewati hutan mati beserta banyak kubangan air berbelerang. Hutan mati ini merupakan area hutan yang dulunya terbakar karena erupsi dari gunung Papandayan dan menyisakan batang pohon hitam yang masih berdiri tegak. Kalau kita datang ketempat ini siang hari, kita mendapati area ini sangat indah dengan kabut awan tipis yang melingkupi pemandangan hutan mati.&lt;/p&gt;
+
+&lt;p&gt;Setelah melewati hutan mati, kita akan masuk ke area hutan. Disini trek pendakian menjadi agak sulit, karena selain lebih terjal kita akan menemui akar pohon dan bebatuan disepanjang trek pendakian. Terus berjalan sekitar 2 jam, kita akan sampai ke savana yang luas bernama Tegal Alun. Area ini dapat dijadikan pendakian sebelum kita menuju puncak tertinggi papandayan. Mulai dari Tegal Alun hingga kepuncak, trek pendakiannya menjadi sangat sulit dan berbahaya, karena trek pendakian akan didominasi oleh padang ilalang yang tingginya dapat mencapai 2 meter. Sebenarnya ini area hutan dulunya, namun karena sempat terbakar sekitar tahun 2010an, membuat semak belukar dan rerumputan tumbuh subur diarea ini. Dari sini punggungan menuju puncak cukup jelas terlihat, namun susah dicapai, kami harus membuka jalur baru dan harus menebas pohon dan rerumputan.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/images/adventure/20210115-papandayan/papandayan.gpx&quot;&gt;Download file GPX&lt;/a&gt;&lt;/p&gt;
+
+&lt;iframe src=&quot;https://www.google.com/maps/d/embed?mid=1_H8wJ7N27zVIdmm-gcp28AWeVw6q1xe_&quot; width=&quot;828&quot; height=&quot;651&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;br /&gt;
+Rasanya tidak mungkin untuk dapat mencapai punggungan menuju puncak gunung Papandayan. Semaknya terlalu tinggi dan area tanah yang dipijak terasa agak lunak dan membuat kaki kami tenggelam. Sepertinya dibawah kaki merupakan rerumputan dan tanah humus dengan akar pohon, tidak stabil. Akhirnya kami memutuskan untuk mengakhiri pendakian dan putar balik menuju Camp David untuk pulang.
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;!-- Jekyll Ideal Image Slider Include --&gt;
+&lt;!-- https://github.com/jekylltools/jekyll-ideal-image-slider-include --&gt;
+&lt;!-- v1.8 --&gt;
+&lt;!-- Jekyll Ideal Image Slider Include --&gt;
+&lt;!-- https://github.com/jekylltools/jekyll-ideal-image-slider-include --&gt;
+&lt;!-- v1.8 --&gt;&lt;/p&gt;
+&lt;link rel=&quot;stylesheet&quot; href=&quot;/assets/css/slider/ideal-image-slider.css&quot; /&gt;
+
+&lt;link rel=&quot;stylesheet&quot; href=&quot;/assets/css/slider/themes/default.css&quot; /&gt;
+&lt;div id=&quot;papandayan&quot;&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210115-papandayan/GOPR0746.JPG&quot; title=&quot;&quot; alt=&quot;Photo 1: Begitu sampai ke gerbang awal pendakian kawasan Gunung Papandayan, langsung disuguhi kawah terbuka yang besar&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210115-papandayan/GOPR0753.JPG&quot; title=&quot;&quot; alt=&quot;Photo 2: Jalan menuju ke puncak/area perkemahan. Berbatu dan berpasir, kiri-kanan disuguhi tebing-tebing serta hamparan luas kawah&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210115-papandayan/GOPR0757.JPG&quot; title=&quot;&quot; alt=&quot;Photo 3: Pada beberapa bagian, terdapat aliran air kecil yang merupakan air belerang, berasal dari area kawah&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210115-papandayan/GOPR0786.JPG&quot; title=&quot;&quot; alt=&quot;Photo 4: Sebelum melanjutkan perjalanan Jamal dan Fandi berpose dulu didekat menara pandang&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210115-papandayan/GOPR0794.JPG&quot; title=&quot;&quot; alt=&quot;Photo 5: Untuk menuju hutan mati dan area perkemahan terdapat anak tangga yang tersusun rapi hingga keatas&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210115-papandayan/GOPR0802.JPG&quot; title=&quot;&quot; alt=&quot;Photo 6: Tangganya juga dilengkapi dengan pagar pembatas, untuk menjaga pengunjung tidak mendekat kearea kawah&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210115-papandayan/GOPR0829.JPG&quot; title=&quot;&quot; alt=&quot;Photo 7: Tiba diarea hutan mati, kabut sudah turun&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210115-papandayan/GOPR0831.JPG&quot; title=&quot;&quot; alt=&quot;Photo 8: Kondisi dihutan mati, area bekas hutan yang terbakar akibat dampak dari erupsi&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210115-papandayan/GOPR0843.JPG&quot; title=&quot;&quot; alt=&quot;Photo 9: Ditengah-tengah hutan mati terdapat aliran air/sungai yang mengandung belerang&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210115-papandayan/GOPR0844.JPG&quot; title=&quot;&quot; alt=&quot;Photo 10: Kondisi hutan mati, diujung jalannya terdapat hamparan hutan yang masih hijau dan semak yang mulai tumbuh&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210115-papandayan/GOPR0852.JPG&quot; title=&quot;&quot; alt=&quot;Photo 11: Memasuki kawasan hutan, mulai dari sini perjalanan akan lebih menantang&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210115-papandayan/GOPR0856.JPG&quot; title=&quot;&quot; alt=&quot;Photo 12: Perjalanan selanjutnya akan melewati bebatuan dan akar pohon, kita gantian untuk dapat naik keatas&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210115-papandayan/GOPR0862.JPG&quot; title=&quot;&quot; alt=&quot;Photo 13: Dengan bantuan akar dan ranting pohon kita terus melanjutkan perjalanan&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210115-papandayan/GOPR0867.JPG&quot; title=&quot;&quot; alt=&quot;Photo 14: Kita naik berganti-gantian dan saling membantu, Fandi sedang berusaha naik dengan diikuti Wandika sambil menunggu giliran&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210115-papandayan/GOPR0870.JPG&quot; title=&quot;&quot; alt=&quot;Photo 15: Walau pendakiannya melewati hutan, namun jalurnya cukup jelas dan memiliki tanda berwarna orange seperti ini&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210115-papandayan/GOPR0886.JPG&quot; title=&quot;&quot; alt=&quot;Photo 16: Memasuki area berbatu dan hutan sudah mulai terbuka, artinya sudah dekat dengan puncak&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210115-papandayan/GOPR0923.JPG&quot; title=&quot;&quot; alt=&quot;Photo 17: Namun ternyata tidak, setelah terus melangkah yang kita temui ternyata hamparan padang savana luas. Kondisi saat itu sangat berkabut&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210115-papandayan/GOPR0953.JPG&quot; title=&quot;&quot; alt=&quot;Photo 18: Setelah melewati savana, kita melihat beberapa punggungan dan puncak. Untuk mencari puncak sejatinya, kita menelusuri savana kepunggungan terdekat&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210115-papandayan/GOPR0963.JPG&quot; title=&quot;&quot; alt=&quot;Photo 19: Terus berjalan turun naik punggungan, keliatan cukup dekat, namun ternyata sudah satu jam dan kita belum tiba dipunggungan yang kita tuju&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210115-papandayan/GOPR0971.JPG&quot; title=&quot;&quot; alt=&quot;Photo 20: Kondisi menuju punggungan tersebut cukup ekstrim, karena ternyata yang kita temui ialah semak belukar yang tingginya hingga 2 meter serta hutan bekas terbakar. Kita memutuskan balik badan&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210115-papandayan/GOPR1004.JPG&quot; title=&quot;&quot; alt=&quot;Photo 21: Dareah yang kita lalui tadi ternyata area Cagar Alam, sebelum tahun 2010 katanya pernah terbakar, sehingga kawasan ini memerlukan izin untuk memasukinya&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210115-papandayan/GOPR1012.JPG&quot; title=&quot;&quot; alt=&quot;Photo 22: Untuk pulang kita melewati jalan yang sama kembali, namun kali ini kabut lebi tebal&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210115-papandayan/GOPR1021.JPG&quot; title=&quot;&quot; alt=&quot;Photo 23: Kondisi hutan mati sekitar pukul 2 siang, kabut sudah turun dan jarak pandang sekitar 50 meter saja.&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210115-papandayan/GOPR1024.JPG&quot; title=&quot;&quot; alt=&quot;Photo 24: Larangan untuk menaiki dahan pohon di hutan mati, karena kondisinya yang sudah lama terbakar dan mulai lapuk dikhawatirkan akan terjadi kecelakaan&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210115-papandayan/GOPR1030.JPG&quot; title=&quot;&quot; alt=&quot;Photo 25: Setelah menyelesaikan pendakian, hal yang paling nikmat ialah menikmati kawah-kawah terbuka sembari minum teh, seperti yang dilakukan Fabi&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210115-papandayan/GOPR1031.JPG&quot; title=&quot;&quot; alt=&quot;Photo 26: Hamparan kawah terbuka, terdapat 4 atau lebih kawah terbuka yang menghasilkan belerang&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/adventure/20210115-papandayan/GOPR1056.JPG&quot; title=&quot;&quot; alt=&quot;Photo 27: Sisi lain dari kawah terbuka, terdapat pagar yang membatasi area treking dan kawah&quot; /&gt;
+  &lt;/div&gt;
+&lt;!-- Jekyll Ideal Image Slider Include --&gt;
+&lt;!-- https://github.com/jekylltools/jekyll-ideal-image-slider-include --&gt;
+&lt;!-- v1.8 --&gt;
+&lt;script src=&quot;/assets/js/slider/ideal-image-slider.min.js&quot;&gt;&lt;/script&gt;
+
+&lt;script src=&quot;/assets/js/slider/iis-bullet-nav.js&quot;&gt;&lt;/script&gt;
+
+&lt;script src=&quot;/assets/js/slider/iis-captions.js&quot;&gt;&lt;/script&gt;
+
+&lt;script&gt;
+  var papandayan = new IdealImageSlider.Slider({
+      selector: '#papandayan',
+      height: 'auto',
+      interval: 7000,
+      effect: 'fade',
+      });
+    papandayan.addCaptions();
+    papandayan.start();
+  &lt;/script&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Mungkin suatu saat nanti ketika melakukan pendakian ke Gunung Papandayan kembali dan berniat mencapai puncak tertinggi, kita harus persiapan stamina yang cukup untuk dapat membuka jalan, karena jalan menuju puncak tidak terlalu jelas dan jarang dilalui. Persiapan logistik pun harus lebih banyak sehingga cukup untuk pendakian setidaknya 3 hari dan 2 malam.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 15 Jan 2021 00:00:00 +0700</pubDate>
+        <link>http://localhost:4001/papandayan</link>
+        <guid isPermaLink="true">http://localhost:4001/papandayan</guid>
+      </item>
+      
+    
+      
+
+      
+    
+      
+
+      
+    
+      
+
+      
+    
+      
+
+      
+    
+      
+
+      
+    
+      
+
+      
+    
+      
+
+      
+    
+      
+
+      
+    
+      
+
+      
+    
+      
+
+      
+    
+      
+
+      
+    
+      
+      <item>
+        <title>Membaca</title>
+        <description>&lt;p&gt;Membaca dan menulis merupakan salah satu kegiatan yang kurencanakan untuk mengisi &lt;a href=&quot;https://www.harapan.me/leave2020&quot;&gt;sabatical leave&lt;/a&gt;. Sepertinya sabatical leave ini mungkin tidak benar-benar sabatical leave pada umumnya karena aku masih menjalankan beberapa kewajiban dan tanggung jawab.&lt;/p&gt;
+
+&lt;p&gt;Kenapa membaca? Karena dengan membaca aku akan dapat mengerti banyak hal, mulai dari pengetahuan, kebijaksanaan, perasaan, narasi, budaya dan banyak hal lainnya. Satu hal lagi, sehari-hari aku bekerja membuat program komputer untuk mengolah data yang besar. Dalam menjalankan pekerjaan, semua bekerja dan berjalan terlalu rigid (program komputernya), kalau kondisinya terpenuhi maka program akan berjalan, bila tidak maka program akan berhenti dan mengeluarkan pesan error, tidak ada nilai diantaranya. Sehingga untuk bisa tetap waras, aku berusaha untuk menikmati seni dan budaya, salah satunya dapat kutemui dari membaca.&lt;/p&gt;
+
+&lt;p&gt;Buku apa saja yang aku baca? Kalau dulu ketika kuliah dan sekolah, aku membaca textbook yang menjadi pedoman untuk mata kuliah, selain itu beberapa buku self development seperti &lt;a href=&quot;https://www.goodreads.com/book/show/36072.The_7_Habits_of_Highly_Effective_People&quot;&gt;The 7 Habits of Highly Effective People&lt;/a&gt;, &lt;a href=&quot;https://www.goodreads.com/book/show/69571.Rich_Dad_Poor_Dad&quot;&gt;Rich Dad, Poor Dad&lt;/a&gt; dan buku populer lainnya. Satu hal aku juga membaca pemikiran-pemikiran filsuf yang menarik perhatian saja, seperti Martin Heidegger, Søren Kierkegaard, Friedrich Nietzsche dan tulisan dari filsuf Yunani seperti Plato dan Aristoteles.&lt;/p&gt;
+
+&lt;p&gt;Saat ini untuk mengisi Sabatical Leave 2020, aku berencana untuk tidak membaca buku-buku yang berat. Kukira novel-novel populer dari pengarang Indonesia dan beberapa pengarang luar. Novel yang ingin kuselesaikan diantaranya, &lt;strong&gt;Agatha Christie&lt;/strong&gt;, dengan cerita-cerita detektifnya. Aku belum pernah membaca Agatha Christie sebelumnya, namun ketika melihat review-review bukunya di-Internet, sepertinya cukup menarik. Bulan lalu juga aku baru saja mendapatkan hibahan Novel Agatha Christie sekitar 10 judul, selain itu ada satu penjual buku bekas yang menjual banyak novel Agatha Christie bekas dari sebuah perpustakaan. Setidaknya dari pembeli buku bekas tersebut aku dapat 15 Judul Novel. Dan yang terakhir, teman kuliah dulu juga menjual koleksi buku bekasnya, ada sekitar 6 judul. jadi total sekarang ada 21 Judul Agatha Christie yang siap untuk dibaca.&lt;/p&gt;
+
+&lt;p&gt;Pengarang Indonesia yang ingin kubaca bukunya lainya ialah, Pramoedya Ananta Toer, Eka Kurniawan dan Dee Lestari. Untuk &lt;strong&gt;Pramoedya Ananta Toer&lt;/strong&gt;, aku ingin mengulang kembali membaca Tetralogi Pulau Buru yang terdiri atas Bumi Manusia, Anak Semua Bangsa, Jejak Langkah dan Rumah Kaca. Dulu ketika kuliah aku telah menamatkan 2 kali Tetralogi Pulau Buru ini. Dua kali aku membacanya, aku selalu mendapatkan pengalaman berbeda. Dan minggu ini aku telah setengah jalan untuk menyelesaikan buku pertama Pram, yaitu Bumi Manusia. Tetap, ada rasa yang berbeda setiap kali aku membaca buku ini, detail tambahan dan pengetahuan yang mungkin terlewat sebelum-sebelumnya. Selain Tetralogi Pulau Buru, ada beberapa buku Pram yang lain yang masih tersimpan rapi di rak buku, menunggu untuk dibaca. Gadis Pantai, Panggil Aku Kartini Saja, setidaknya dua itu dulu yang ingin kuselesaikan.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Eka Kurniawan&lt;/strong&gt;, pengarang Indonesia masa kini yang cukup terkenal hingga kemancanegara, kurasa aku tidak bisa melewatkan satu ini. Buku yang baru saja selesai aku baca minggu lalu, yaitu &lt;a href=&quot;#&quot;&gt;Seperti dendam, rindu harus dibayar tuntas&lt;/a&gt;, sangat menarik, Eka Kurniawan berhasil membawa kehidupan masyarakat bawah dan menggambarkan realitas hidupnya dalam sebuah bacaan bermakna. Ada pesan tersendiri yang berhasil Eka sampaikan melalui bukunya, walau dengan membahas kelamin lelaki dalam semua kisah dibukunya ini, tunggu hingga aku selesai menulis reviewnya di-&lt;a href=&quot;https://www.harapan.me/exlibris/&quot;&gt;Ex-Libris&lt;/a&gt;. Selain itu daftar bacaan yang mengantri dari Eka lainnya ialah Lelaki Harimau dan Cantik itu Luka.&lt;/p&gt;
+
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+    &lt;a href=&quot;https://www.harapan.me/membaca&quot; title=&quot;Daftar bacaan untuk Sabatical Leave 2020&quot; target=&quot;_blank&quot;&gt;
+    
+        &lt;img src=&quot;http://localhost:4001/images/daftar-bacaan.jpeg&quot; alt=&quot;Daftar bacaan untuk Sabatical Leave 2020&quot; class=&quot;imgjkl&quot; /&gt;
+    
+    &lt;/a&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;Beberapa buku yang akan coba aku baca selama Sabatical Leave 2020 ini&lt;/p&gt;
+    
+&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Dee Lestari&lt;/strong&gt;, dengan seri novel supernovanya. Aku hanya baru menyelesaikan bagian pertama dari seri Supernova ini, yaitu Ksatria, Putri dan Bintang Jatuh. Kurasa aku harus menyelesaikan 5 seri berikutnya, tidak bisa tidak.&lt;/p&gt;
+
+&lt;p&gt;Satu lagi pengarang luar yang ingin serius kubaca bukunya ialah &lt;strong&gt;&lt;a href=&quot;https://www.harukimurakami.com/&quot;&gt;Haruki Murakami&lt;/a&gt;&lt;/strong&gt;. Penulis surealis terkenal dari Jepang, telah banyak menghasilkan karya besar. Salah satu Magnum Opus-nya (masterpiece, great work) ialah 1Q84. Ini yang sedang kubaca, buku yang sangat tebal dan detail. Baru sepertiga perjalanan untuk menyelesaikan buku ini, aku sudah sangat lelah, bahkan kurasa ini masih sama sekali bagian perkenalan dari bukunya, belum menyentuh puncak masalah sama sekali. Namun menarik untuk terus membaca dan menyelesaikannya. Buku lainnya yang telah selesai aku baca ialah, &lt;a href=&quot;https://www.harapan.me/norwegianwood&quot;&gt;Norwegian Wood&lt;/a&gt;, novel yang bagus namun jika ditilik kembali ternyata benang merah dari cerita ini cukup tragis, mengenai duka ditinggalkan orang yang kita kasihi karena mereka bunuh diri. Satu lagi, Norwegian Wood ini merupakan salah satu buku realis dari Murakami.&lt;/p&gt;
+
+&lt;p&gt;Saat ini aku juga sedang terlibat beberapa project dikantor yang mengharuskan aku untuk memahami secara mendetail mengenai satu teknologi tertentu. Oleh karenanya aku harus membaca beberapa buku teknis tersebut. Tunggu projectnya selesai dan tidak terikat NDA, baru aku dapat membagikannya.&lt;/p&gt;
+
+&lt;p&gt;Ya, semoga aku dapat menikmati bacaan-bacaan ini.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 04 Oct 2020 00:00:00 +0700</pubDate>
+        <link>http://localhost:4001/membaca</link>
+        <guid isPermaLink="true">http://localhost:4001/membaca</guid>
+      </item>
+      
+    
+      
+
+      
+    
+      
+
+      
+    
+      
+
+      
+    
+      
+      <item>
+        <title>Sabatical Leave 2020</title>
+        <description>&lt;p&gt;2020 menghujam kehidupan dengan sangat keras, siapa sangka tahun ini akan berjalan seperti ini? Semua aktivitas seolah berhenti karena merebaknya virus corona diawal tahun ini. Perekonomian turun, banyak perusahaan yang merumahkan karyawannya. Banyak pengusaha yang gulung tikar. Untuk pribadi kita sendiri, banyak rencana dan resolusi yang telah ditetapkan pada awal tahun ini menjadi gagal dan tidak terlaksana. Padahal sebelum memasuki 2020 ini, ada optimisme yang tinggi untuk membuat tahun ini lebih baik dari tahun lalu.&lt;/p&gt;
+
+&lt;p&gt;Setelah aku &lt;a href=&quot;https://www.harapan.me/memento&quot;&gt;menyelasikan tugas akhir dan lulus&lt;/a&gt; pada quarter ketiga tahun lalu, optimisme ku membumbung tinggi untuk menghadapi kehidupan dan menjalani untuk mewujudkan satu persatu cita-citaku. Banyak rencana yang telah kubuat untuk tahun ini. Banyak kegiatan yang telah kurencanakan tahun ini, namun satu persatu gagal, satu persatu urung untuk terlaksana.&lt;/p&gt;
+
+&lt;p&gt;Ditahun ini juga aku mengalami hal-hal menyedihkan dan tidak menyenangkan sejak awal tahun. Beberapa kejadian tersebut sangat memukul hidupku, jauh lebih memukul, juga memberi beban lebih untuk dapatku berjalan dalam kehidupan, tanggung jawab. Aku tidak lagi bertanya mengapa betapa begitu kerasnya kehidupan ini, sejauh setelah aku menyelesaikan banyak tantangan, ujian dan kesalahan dalam kehidupan, hidup menjadi sedikit berubah, tidak sama seperti dulu lagi, level kehidupan naik, meningkat, kemampuan diri bertambah, pundak ini jauh lebih kuat untuk menanggung beban, kaki ini menjadi jauh lebih kuat untuk berjalan. Jadi aku tidak akan bertanya mengapa hidup sekeras ini? Sabar dan tabah saja menghadapinya. Kalau kuat terus dijalani, kalau gakuat istirahat sejenak, hal yang wajar.&lt;/p&gt;
+
+&lt;p&gt;Juli 2020, harusnya menjadi bulan terbaik untuk melakukan evaluasi terhadap 6 bulan kehidupan yang telah berjalan ditahun ini. Namun, ketika melihat kebelakang, terlalu berat untuk melihat banyak kegagalan dan kesedihan yang telah lewat. Terlalu berat tahun ini berlalu, terlalu sedih. Terlalu kesal untuk melihat banyak daftar kegiatan dan keinginan tidak banyak yang tercoret menandakan bahwa sudah dikerjakan. Walau daftar tersebut hanya berisi kesenangan dan kenikmatan hidup, tidak banyak yang terlaksana sedikitpun. Ada sesal, ada kesal, ada juga amarah, namun bisa dikata apa? Melampiaskan diri hanya untuk emosi negatif akan sangat berpengaruh dalam kehidupan, tanggungjawab terus tetap berjalan, kewajiban akan terus tetap menekan, tidak bisa tidak untuk menunggu hingga sedih, sesal dan kesal ini selesai.&lt;/p&gt;
+
+&lt;p&gt;September 2020, aku berada disini sekarang, untuk tidak lagi kesal dan sesal. Menerima dan melihat apa hal-hal yang masih bisa diselamatkan, seharusnya adalah tindakan yang terbaik. Sebulan lebih merenungi dan berusaha menerima, walau agak lama, namun setidaknya bersyukur untuk tidak menghabiskan tahun ini dengan emosi negatif.&lt;/p&gt;
+
+&lt;p&gt;Baiklah, banyak hal mungkin tidak dapat diselesaikan tahun ini, banyak hal mungkin tidak dapat dikerjakan tahun ini, banyak hal yang tidak terwujud tahun ini. Beberapa untungnya masih dapat ditunda, walau tidak tahu hingga kapan. Namun selebihnya, sisa hari-hari di-2020 ini ada baiknya untuk diisi dengan hal-hal yang positif, yang tidak lagi berisi target-target beban akan kesuksesan, tidak lagi diisi oleh ambisi-ambisi, walau kehidupan harus terus maju dan diri harus tetap berkembang. Namun hal yang terbaik sekarang, ialah hanya untuk dapat mempertahankan derajat hidup, maksudnya untuk tetap sehat dan berpikiran positif agar dapat terus untuk hanya sekedar menjalankan kewajiban dan bertahan hingga pandemi ini selesai.&lt;/p&gt;
+
+&lt;p&gt;Itulah kurasa hal yang akan kulakukan untuk mengisi bulan-bulan kedepan menjelang akhir 2020. Hidup sehat, banyak membaca dan menulis, banyak mendengar dan belajar. Tidak lebih. Kurasa ini saat yang tepat untuk berbenah diri, masuk kekedalaman diri.&lt;/p&gt;
+
+&lt;!--
+Setelah aku [menyelasikan tugas akhir yang dan lulus](https://www.harapan.me/memento) pada quarter ketiga tahun lalu, optimisme ku membumbung tinggi untuk menghadapi kehidupan dan menjalani satu persatu untuk mewujudkan satu persatu cita-citaku. Salah satunya ialah untuk membangun [consulting firm dibidang data](https://www.katalyti.com) secara part-time disela-sela kesibukan dikantor, untuk membantu perusahaan dalam mengelola data mereka menjadi sebuah insight yang berguna untuk bisnis mereka. Beruntung diawal tahun ini semua berjalan baik, setelah menyelesaikan project yang telah dijalankan sejak September tahun lalu, asa membumbung tinggi untuk terus mencoba fokus dan mengembangkan usaha ini. Cita-cita lainnya mencoba untuk mengerjakan beberapa project lainnya yang cukup menarik serta mempersiapkan jalan untuk S2. Ada juga beberapa target yang ingin kulakukan ditempatku bekerja sekarang, untuk mengembangkan dan implementasi  beberapa teknologi dibidang big data, yang menjadi project besar ditahun ini. Tahun ini juga aku berencana untuk mengambil sertifikasi [Open Water Diver oleh PADI](https://www.padi.com/) sekalian liburan disekitaran bulan Agustus tahun ini. Ini seperti rencana yang indah, bila bisa terwujud, karena ditahun sebelumnya aku tak pernah sesemangat ini. Ditekan oleh pekerjaan dan harus menyelesaikan Tugas Akhir yang menjadi kewajiban terakhir untuk menyelesaikan kuliah yang sempat tertunda. Pokoknya aku harus menikmati tahun ini. Begitulah awal pemikiranku untuk menyambut 2020.
+
+Yah semua berjalan lancar hingga, Maret 2020. ketika virus ini mulai merebak di Indonesia, semua kegiatan sepertinya terhenti karena diterapkan lock-down total di Jakarta. Beberapa meeting dibatalkan atau dipindahkan menjadi online. Kita terkurung dirumah dan dikamar masing-masing. Semua rencana yang kusebutkan tadi hampir gagal sepenuhnya, mungkin kecuali untuk pekerjaan kantor, karena hal itu yang menjadi suatu kewajiban yang mengikat untukku sekarang. Kita tidak bisa kemana-mana, semua kesenangan seperti terenggut. Ada beberapa kejadian yang menyedihkan juga diawal tahun ini. Semua seolah datang bertubi-tubi.
+
+Pada Juli 2020, aku sempat berpikir 'Yasudahlah kalau memang begini adanya tahun ini, mungkin ini saatnya untuk berhenti sejenak dari semua target dan rencana tersebut, menarik diri dan menikmati hidup'. Aku sudah sampai pada posisi menerima/acceptence ([dalam 5 Stages of grief](https://www.healthline.com/health/stages-of-grief#order)) dan mencoba berpikir positif untuk memungut sisa-sisa hal yang masih bisa dilakukan pada tahun ini. Mencoba untuk mengalir dan mengikuti arus kehidupan kemanapun 2020 ini membawanya. Setidaknya aku harus bersyukur masih banyak keberuntungan dan berkat yang bisa kuterima hingga saat ini.
+
+Anugerah aku masih dapat bekerja, anugerah aku masih bisa makan dan berpenghasilan, disisi lain begitu banyak aku mendengar berita tentang teman-temanku yang di-berhentikan dari pekerjaannya karena bisnis perusahaan mereka tidak berjalan dengan baik, akibat dampak dari pandemi ini. Setiap hari ketika aku kekantor dan berinteraksi dengan driver gojek/grab yang kutumpangi, mereka selalu membicarakan bahwa penghasilan mereka turun. Toko dan tempat usaha lainnya juga mulai tutup satu-persatu. Seharusnya aku tidak mengeluh seperti ini, tidak juga harus bersyukur karena aku lebih baik. Dilema yang menyakitkan.
+--&gt;
+
+&lt;hr /&gt;
+
+</description>
+        <pubDate>Tue, 15 Sep 2020 00:00:00 +0700</pubDate>
+        <link>http://localhost:4001/leave2020</link>
+        <guid isPermaLink="true">http://localhost:4001/leave2020</guid>
+      </item>
+      
+    
+      
+
+      
+    
+      
+
+      
+    
+      
+
+      
+    
+      
+
+      
+    
+      
+
+      
+    
+      
+      <item>
+        <title>Norwegian Wood</title>
+        <description>&lt;p&gt;Norwegian Wood sejujurnya menjadi novel pertama yang kubaca dan coba aku review dalam blog ini. Memang sebelumnya aku telah membaca beberapa novel seperti punyanya Pramoedya Ananta Toer, Bumi Manusia, Anak Segala Bangsa, Jejak Langkah dan Rumah Kaca atau Novel dari Mochtar Loebis seperti Senja di-Jakarta dan novel lain, namun ini novel penulis luar pertama yang serius kubaca. Kalau novel-novel Indonesia lainnya, mungkin akan cukup mudah untuk menuliskanya, karena kesamaan latar, namun ini berbeda sama sekali.&lt;/p&gt;
+
+&lt;p&gt;Walaupun begitu aku coba menulis singkat &lt;em&gt;pengalamanku membacanya&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Pertama aku mengira ini seperti Novel Remaja biasa, kisa percintaan dua orang yang mana si-lelakinya tidak bisa melupakan wanita yang sungguh dicintainya. Sehingga ketika sudah lama berlalu ketika si-Pria yang bernama Watanabe tersebut berpisah dengan wanitanya, dia tidak bisa melupakannya, memori tersebut, Naoko, wanita yang pernah ada dalam hidupnya datang kembali ketika 37 tahun kemudian dia tiba dibandara Hamburg dengan diiringi music yang lembut dari lagu &lt;em&gt;“Norwegian Wood”&lt;/em&gt; oleh &lt;em&gt;The Beatles&lt;/em&gt;. Kemudian dari sinilah cerita tersebut dimulai, dalam kenangan akan masa lalu, Haruki Murakami mulai menuliskan seorang Toru Watanabe menceritakan pengalaman indah dan menyedihkan untuk lepas dari rasa kehilangan terhadap orang yang dicintainya.
+Pengalaman hidup yang tidak sekedar hanya kisah cinta, namun juga hubungan-hubungan yang dibangunnya dengan orang-orang disekitarnya.&lt;/p&gt;
+
+&lt;p&gt;Pada masa SMA-nya, Watanabe bersahabat dengan sepasang kekasih Kizuki dan Naoko. Persahabatan mereka tidak biasa karena bagi Watanabe, Kizuki merupakan satu-satunya sahabatnya dan begitu juga sebaliknnya. Mereka bertiga selalu bersama, bermain dan menghabiskan waktu bertiga, diantara hubungan mereka bertiga Naoko dan Kizuki jarang berinteraksi kecuali ketika ada Kizuki, karena Kizukilah yang membuat suasana menjadi ceria, hidup dan seimbang. Suatu hari, Kizuki ditemukan bunuh diri tanpa meninggalkan pesan apa-apa dan tanpa ada masalah sebelumnya. Watanabe dan Kizuki menjadi sangat terpukul atas kejadian ini. Watanabe menjadi orang yang terakhir ditemui Kizuki dan mereka menghabiskan waktu bersama bermain billiard sebelum Kizuki mengakhiri hidupnya, kenangan bersama Kuziku membekas didalam hidup Watanabe dan meninggalkan lubang mendalam dalam hidupnya. Begitu juga Naoko, Kizuki sejak kecil mereka bersama dan ketika sekolah mulai berpacaran, kepergian Kizuki meninggalkan luka mendalam, menyesakkan. Kemudian setelah mereka lulus SMA, Watanabe dan Naoko keluar dari kampung halamannya dan sama-sama melanjutkan kuliahnya ke Tokyo, tanpa ada berjanji sama sekali sebelumnya. Sejak kematian Kizuki mereka tidak pernah bertemu sama sekali. Tanpa sengaja mereka bertemu di Tokyo dan mulai sering bersama lagi. Mereka saling bercerita satu sama lain dan setiap minggu mereka bertemu untuk jalan-jalan mengelilingi Tokyo, Naoko memintanya. Suatu hari Naoko menghilang tanpa ada kabar, Hari sebelumnya Naoko ulang tahun, mereka merayakannya berdua, banyak hal yang terjadi hari itu dan malamnya mereka juga berhubungan seks. Kepergian Naoko tanpa kabar membuat Watanabe menjadi bingung dan galau. Watanabe melampiaskan kehilangann dan kekosongannya dengan meniduri banyak wanita. Pengalaman sex yang begitu banyak didapatkannya dari temannya diperkuliahan Nagasawa-San. Mereka menjadi sering bersama berkeliling tiap minggu dimalam hari untuk mencari wanita-wanita yang bisa diajak tidur.&lt;/p&gt;
+
+&lt;p&gt;Diperkuliahan Watanabe juga bertemu dengan Midori, perempuan riang dan cerita, sangat baik. Midori mengisi hari-hari Watanabe. Midori suka bercerita kepada Watanabe, dia menceritakan segala hal termasuk fantasi sexnya. Midori membuat hidup Watanabe menjadi berwarna, namun siapa yang bisa menyangka Midori yang mengisi keriangan dalam hidup Watanabe dibalik itu semua harus menghadapi pengalaman hidup merawat ayah yang sakit-sakit selama bertahun-tahun dan menjadi pengurus rumah tangga untuk Ayah dan kakaknya. Hubungan mereka tidak berlanjut lebih jauh karena Watanaba masih memikirkan Naoko yang ternyata sedang menjalani pengobatan terhadap luka jiwanya disuatu tempat. Naoko dua kali mengalami luka dari kehilangan orang yang dikasihinya akibat mengakhiri hidupnya. Selain karena kematian Kizuki, sebelumnya Naoko juga menghadapi pengalaman kakaknya yang bunuh diri. Di tempat pengobatan, Naoko ditemani oleh Reiko, seorang wanita paruh baya yang mengalami luka batin karena dua pengalaman yang menyakitkan baginya kehilangan kemampuannya bermain piano dan mengalami pengalamn sexual dari anak perempuan remaja lesbian. Beberapa kali Watanabe megunjungi Naoko dan Reiko ketempat pengobatannya. Watanabe juga tetap berhubungan dengan Midori dan semakin dekat. Watanabe sekarang terjebak diantara dua wanita, Midori yang mengisi hidupnya dengan keceriaan dan Naoko yang ditunggu-tunggunya selalu.&lt;/p&gt;
+
+&lt;p&gt;Sampai 3/4 bagian Novel ini baru aku menyadari bahwa hal yang ingin disampaikan oleh Watanabe bukan merupakan sekedar cerita cinta Remaja menuju dewasa. Pengalaman hidup Watanabe dalam menemani Naoko menghadapi luka batin yang besar setelah mengalami kehilangan dua orang yang disayaninya sangat menyedihkan. Luka batin yang membuat hidup Naoko tidak dapat berjalan normal kembali, terpisah antara dunianya yang menyedihkan yang dirasakan Naoko dan dunia luar. Cerita demi cerita yang dituliskan Murakami menunjukkan bagaimana pengalaman Naoko untuk lepas dari luka itu. Diakhir cerita Watanabe ternyata harus mengalami pengalaman tragis juga, kehilangan Naoko. Naoko menggantungkan dirinya ditengah hutan ditempat pengobatannya.&lt;/p&gt;
+
+&lt;p&gt;Mungkin guncangan yang sama yang dihadapi Naoko, juga dihadapi oleh Watanabe ketika kehilangan Naoko. Kalau Naoko harus mengalami pengobatan untuk berusaha memulihkan jiwanya, Watanabe berusaha untuk bangkit dengan melarikan diri, berkelana dan mengunjungi tempat-tempat jauh. Berputar-putar kemana saja yang dia inginkan tanpa arah dan tujuang, hampir 2 bulan, hingga dia kemudian menyadari untuk bangkit dan melanjutkan hidup. Reiko menjadi orang yang paling berpengaruh dalam kebangkitan Watanabe, dalam pertemuan mereka setelah kematian Naoko, Reiko menyampaikan hal berikut yang sangat membekas bagi kita aku yang membacanya,&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“If you feel some kind of pain with regard to Naoko’s death, I would advise you to keep on feeling that pain for the rest of your life. And if there’s something you can learn from it, you should do that, too. But quite aside from that, you should be happy with Midor. Your pain has nothing to do with your relationship with her. If you hurt her any more than you have already have, the wound could be too deep to fix. So, hard as it may be, you have to be strong. You have to grow up more, be more of an adult. I felt the sanatorium and came all the way up here to Tokyo to tell you that - all the way on that coffin of a train.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Murakami dalam bukunya yang secara eksplisit banyak menyampaikan pengalaman seks dari watanabe. Tidak hanya dengan Naoko, Watanabe terlibat aktivitas seks dengan semua tokoh wanita yang ada dalam hidupnya, walaupun itu hanya sekali. Selain cerita sex, setiap tokoh yang dihadapi Watanabe datang dengan cerita kesuraman hidupnya masing-masing, detail kejiwaan yang beraneka ragam dengan luka hidup yang beraneka ragam dari setiap tokoh. Murakami berusaha menyampaikan pengalaman psikologis mengenai kehilangan, kehilangan akan orang-orang yang kita sayangi. Konteksnya di-Jepang begitu banyak kasus bunuh diri, Watanabe dalam Novelnya bisa jadi ingin mengggambarkan rasa kehilangan akibat ditinggalkan orang-orang yang bunuh diri ini. Pemgalamanku membaca Novel ini membuatku sampai kepada penilaian 3 dari 5 bintang yang bisa kuberi. Dua bintang hilang karena kesuraman dari setiap bagian dalam Novel ini membuatnya terlalu sedih untuk sebuah bahan bacaan, kemudian kesuraman tersebut membawaku untuk kehilangan sedikit semangat untuk menyelesaikannya. Tiga bintang masing-masing untuk pelajaran terhadap luka jiwa dan bagaimana harus bangkit yang diberikan oleh novel ini, kisah cerita yang mind-blowing, referensi bacaan-bacaan dan lagu-lagu klasik yang terselip dalam ceritanya.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 25 May 2020 00:00:00 +0700</pubDate>
+        <link>http://localhost:4001/norwegianwood</link>
+        <guid isPermaLink="true">http://localhost:4001/norwegianwood</guid>
+      </item>
+      
+    
+      
+
+      
+    
+      
+
+      
+    
+      
+
+      
+    
+      
+
+      
+    
+      
+
+      
+    
+      
+
+      
+    
+      
+
+      
+    
+      
+
+      
+    
+      
+
+      
+    
+      
+
+      
+    
+      
+
+      
+    
+      
+
+      
+    
+      
+
+      
+    
+      
+
+      
+    
+      
+
+      
+    
+      
+      <item>
+        <title>memento</title>
+        <description>&lt;div style=&quot;font-size:70%; text-align:center;&quot;&gt;
+&lt;h3&gt;memento&lt;/h3&gt;
+aku kagum dengan kemampuan kolektif manusia
+&lt;br /&gt;dan ambisinya pada ilmu pengetahuan
+&lt;br /&gt;seperti mampu melakukan segalanya
+&lt;br /&gt;menjelajah semesta, mencabik sang surya
+&lt;br /&gt;mencukupkan makanannya, menciptakan konsep
+&lt;br /&gt;(uang dan pemerintahan contohnya)
+&lt;br /&gt;merekayasa genetika keturunannya sampai perilaku sesamanya
+&lt;br /&gt;hingga menciptakan senjata pemusnah masal
+&lt;br /&gt;manusia menjadi maha/adi-manusia
+&lt;br /&gt;yang cinta akan kehidupannya
+&lt;br /&gt;.
+&lt;br /&gt;Fisika sendiri menyediakan begitu banyak konsep
+&lt;br /&gt;untuk menjawab banyak keingintahuan dan pertanyaan
+&lt;br /&gt;membelah benda menjadi partikel kecil dan memanfaatkannya
+&lt;br /&gt;menghasilkan potret semesta hingga kedalaman tubuh manusia
+&lt;br /&gt;menebak asal-usul alam semesta hingga perkiraan akhir dari alam semesta
+&lt;br /&gt;manusia memiliki kekuatan untuk menjawab
+&lt;br /&gt;(namun ada rahasia besar)
+&lt;br /&gt;banyak juga pertanyaan yang tidak diketahui jawabannya
+&lt;br /&gt;apa penyusun dasar materi, bagaimana gravitasi tersebut
+&lt;br /&gt;mengapa waktu hanya berjalan satu arah
+&lt;br /&gt;hingga bagaimana menyatukan semua konsep tersebut
+&lt;br /&gt;dalam satu kesatuan utuh
+&lt;br /&gt;.
+&lt;br /&gt;diakhir perjalanan aku menyadari
+&lt;br /&gt;kemampuan untuk tetap bertahan waras
+&lt;br /&gt;dengan mengisi diri akan tiga konsep penting
+&lt;br /&gt;&lt;b&gt;iman&lt;/b&gt;, mengisi lobang-lobang kosong atas ketidaktahuan
+&lt;br /&gt;bukti untuk hal yang tidak terlihat
+&lt;br /&gt;penerimaan bahwa manusia tidak ada apa-apanya
+&lt;br /&gt;rapuh, tidak utuh dan sangat bergantung.
+&lt;br /&gt;&lt;b&gt;kasih&lt;/b&gt;, menjaga untuk tetap berpaut dengan sesama
+&lt;br /&gt;selalu mengkhususkan kasih untuk orang-orang tersayang
+&lt;br /&gt;keluarga, pasangan, teman, sahabat, orang-orang disekitar
+&lt;br /&gt;hingga kita mampu tidak saling meniadakan dan saling memaafkan masa lalu
+&lt;br /&gt;karena kita telah lebih dulu dikasihi.
+&lt;br /&gt;&lt;b&gt;pengharapan&lt;/b&gt;, menguatkan diri bahwa akan selalu ada hari esok
+&lt;br /&gt;akan selalu ada jalan ketika kita mau mencari
+&lt;br /&gt;akan sealu ada alternatif lain dari setiap kebuntuan
+&lt;br /&gt;oleh karenanya teruslah berjuang hingga jerih payah anda sedikit terlihat mekarnya
+&lt;br /&gt;beristirahatlah ketika lelah, namun jangan menyerah
+&lt;br /&gt;.
+&lt;br /&gt;sebagai pertanggungjawaban terhadap hidup
+&lt;br /&gt;kepada orang-orang yang kusayang yang telah berjuang hidup-matinya untukku
+&lt;br /&gt;kututup satu bagian penting yang telah kumulai
+&lt;br /&gt;konsep terbesar dari segala sesuatu yang menyertai kita
+&lt;br /&gt;august 2019
+&lt;br /&gt;-- &lt;b&gt;non magnum opus ex rhgps&lt;/b&gt; --
+&lt;br /&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;30 Agustus 2019 malam, secara tidak resmi aku telah mengakhiri status kemahasiswaanku. Dengan sebuah presentasi mengenai topik penelitian Tugas Akhir yang telah kukerjakan dan disertai dengan pertanyaan-pertanyaan dan sanggahan dari penguji dan pembimbing, akhirnya aku dapat menyelesaikan dengan baik satu tanggung-jawab, sebuah pilihan yang telah aku mulai. Untuk mengenangnya, aku membuat sebuah tulisan &lt;del&gt;sajak&lt;/del&gt; bebas diatas, untuk kemudian aku selipkan kebuku laporan Tugas Akhirku.&lt;/p&gt;
+
+&lt;p&gt;Memento tidak hanya mengenang momen malam dimana aku menyelesaikan semua tanggungjawab kuliahku, namun lebih dari itu, perjuangan bertahun belakangan yang selama ini aku lakukan. Kenangan diawal-awal kehidupan kampus, mencoba segala hal, mempertanyakan segala sesuatu, menggugat ketidak-idealan hingga pemberontakan-pemberontakan kecil berdasarkan pemikiran sempit. Nikmat awalnya, berjibaku dengan berbagai masalah, menjadi dewasa dan mencoba bertanggungjawab. Namun pada akhirnya frustasi dan kalah juga dengan keadaan. Ketika perjuangan tidak membawakan hasil, ketika usaha mandek, tertipu akan ilusi dan romansa kebebasan, hingga seolah tidak punya lagi sesuatu yang ingin diraih, hancur-lebur hidup. Mulailah hilang dari kenyataan, sedikit lari dari Tuhan, hingga pernah ada waktu mengabdikan diri kepada Tuhan sebagai bentuk keputus-asa-an dan penyerahan diri (yah manusia memang seperti ini), lalu pada akhirnya bangkit dan mencoba memperbaiki semuanya, hidup dimasa depan dan melupakan masa kini yang sedang berlangsung. Khusus yang terakhir, itu membuahkan hasil saat ini. Aku menikmatinya, sebelum kemudian tersadar bahwa aku kehilangan masa lalu dan momen-momen berharganya.&lt;/p&gt;
+
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+    &lt;a href=&quot;https://www.harapan.me/memento/&quot; title=&quot;ITB&quot; target=&quot;_blank&quot;&gt;
+    
+        &lt;img src=&quot;http://localhost:4001/images/itb.jpg&quot; alt=&quot;ITB&quot; class=&quot;imgjkl&quot; /&gt;
+    
+    &lt;/a&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;Memento: pada akhirnya aku bersyukur bisa menyelesaikannya&lt;/p&gt;
+    
+&lt;/div&gt;
+
+&lt;p&gt;Kemudian, selama dua tahun belakang ini, kehidupan berubah ketika hidup tidak hanya berorientasi dimasa kini, peluang yang ada menjadi sedikit pembangkit semangat untuk hidup. Aku menjadi sadar bahwa hidup tidak berakhir ketika satu kesalahan atau kegagalan terjadi. Hidup masih akan berlanjut apapun itu yang telah terjadi, apakah itu kebahagiaan yang datang atau kesedihan, apakah dirimu menghadapi keberhasilan atau kegagalan. Hidup terus berjalan. Kita tidak bisa meminta waktu untuk berhenti hanya karena kita ingin menikmati keberhasilan yang sedang diraih atau karena sedang bersedih akan kegagalan yang baru saja menimpa. Tidak, hidup harus tetap berjalan. Untuk itu rayakanlah dan berbahagialah secukupnya atau menangislah seperlunya.&lt;/p&gt;
+
+&lt;p&gt;Menjalani dua tahun belakangan ini dengan penuh rasa percaya diri. Menyadari bahwa beberapa hal telah berubah dan ternyata masih ada kesempatan untukku. Asyik memang, seperti terlahir dan hidup kembali, punya semangat baru lagi. Semangat untuk hidup dan bertumbuh membuatku totalitas menghadapi tantangan didepan. Mempertaruhkan segala sesuatu untuk sebuah kejayaan. Namun pertaruhan yang dilakukan sepertinya sebuah kebodohan, mempertaruhkan waktu untuk hadiah yang tidak tahu apa. Pada akhirnya sekarang inilah aku, dengan sedikit badai kehidupan saja, hancur total berantakan. Tapi tetap bertahan.&lt;/p&gt;
+
+&lt;p&gt;Sudahlah, ini terakhir kalinya untuk mencurahkan segala keluh kesah dan romantisme perjuangan. Sudah cukup, karena seorang pria harus berdiri tegap dengan berani dan gagah perkasa, tubuh kekar untuk siap menghadapi segala kehidupan didepannya. Karena kaki kecilku inilah yang akan menopang kehidupan diri. Supaya romansa masa lalu dan kenangan agar bisa dinikmati dalam interaksi dengan teman dan sahabat terutama dengan orang-orang yang kita cintai. Semua tulisan tangis dan keluh kesah yang dulu terkumpul rapi disini sudah diturunkan, kecuali satu, memento. Agar aku dapat mengingat bahwa, inilah romantisme terakhirku terhadap kehidupan. Setelah ini, aku akan lebih banyak berkontribusi ke-masyarakat dan peradaban.&lt;/p&gt;
+
+&lt;p&gt;Saat ini aku hanya bisa berterimakasih kepada orang-orang yang kutemui. Semua hal yang kita bicarakan, semua hal yang kita lalui, itu sangat berarti. Kepada kesempatan yang bisa kudapatkan, terima kasih sekali kepada kalian yang telah mempercayakannya. Maaf beberapa belum bisa aku lakukan dengan penuh tanggungjawab, aku berharap ini tidak mengurangi kepercayaan kalian kepadaku. Kepada momen yang selalu tidak terjadi dua kali, aku menikmatinya, sedih harus memaksa memori ini hilang demi melanjutkan hidup. Aku harus berterimakasih, lagi-lagi kepada semua orang yang kutemui difase dua tahun kebelakang dalam hidupku. Pelajaran hidup yang berharga yang kalian berikan, melalui nyatanya keras kehidupan. Di-kantor-kantor yang kusinggahi, Bandung-BSD-Jakarta, yah yang terpenting orang-orang yang mengisinya, orang-orang yang berjuang bersama untuk melanjutkan hidup atau lebih tinggi mereka yang melakukannya sebagai aktualisasi diri. Karena manusialah yang membuat momen. Berharga sekali itu. Sahabat tersayang terima kasih, aku berharap waktunya akan tepat kelak, tidak seperti dulu. Ketika bertemu kembali dan ada hal-hal yang bisa kita kenang, saling memaafkan dan saling memperbaiki kesalahan.&lt;/p&gt;
+
+&lt;p&gt;Dalam kehidupan yang telah kulalui keluarga, sahabat dan teman-teman menjadi sangat penting bagiku. Momen yang datang oleh kebersamaan dengan mereka itulah yang membentuk kehidupan itu. Ada saat masa bahagia bersama mereka, membentuk momen bahagia. Ada kala sedih, lelah dan tangis membentuk satu momen yang mana menghasilkan satu ikatan penuh bersama mereka. Itulah kehidupan dan aku mensyukuri kehidupan dalam dua hal, pertama untuk hidup itu sendiri yang sungguh indah. Kedua adalah orang-orang yang kutemui didalamnya. Puji Syukurku selalu kupanjatkan dan penyertaan selalu kupinta kepada konsep terbesar dari segala sesuatu.&lt;/p&gt;
+
+&lt;p&gt;Salam hangat
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+rhgps&lt;/p&gt;
+</description>
+        <pubDate>Fri, 30 Aug 2019 00:00:00 +0700</pubDate>
+        <link>http://localhost:4001/memento</link>
+        <guid isPermaLink="true">http://localhost:4001/memento</guid>
+      </item>
+      
+    
+      
+
+      
+    
+      
+      <item>
+        <title>in review</title>
+        <description>&lt;p&gt;Bekerja menjadi engineer dibidang IT membuatku harus selalu up-to-date terharap perkembangan terbaru. Setiap harinya akan banyak library baru, framework baru, tools baru yang semakin memudahkan pekerjaan. Tidak hanya memudahkan namun tools tersebut juga semakin kompleks untuk dipelajari. Belum lagi dengan silih berganti hadirnya bahasa-bahasa baru yang menawarkan fitur-fitur yang menarik secara default. Oleh karena itu kita mau tidak mau, harus terus belajar dan mengupdate pengetahuan.&lt;/p&gt;
+
+&lt;p&gt;Ada satu pengalaman menarik ketika &lt;a href=&quot;/golang&quot;&gt;belajar Golang&lt;/a&gt; sebelumnya. Awalnya dipertengahan 2019 ditawari seorang teman untuk membantu tim-nya untuk membuat satu fitur sederhana dalam sistem mereka. Dalam beberapa minggu aku belajar golang dari nol hingga dapat membuat fitur tersebut, tidak terlalu bagus memang, tapi setidak fitur tersebut dapat digunakan dan berjalan. Setelah project tersebut selesai, Golang tidak pernah lagi digunakan.&lt;/p&gt;
+
+&lt;p&gt;Kemudian quarter pertama 2020, ada wacana untuk membuat sistem baru ditempatku bekerja, salah satu pilihannya dengan menggunakan golang. Pada akhirnya aku harus belajar dari nol lagi untuk mengingat-ingat kembali syntax dari golang. Walau memang untuk belajar yang kedua kalinya ini waktu yang dihabiskan lebih singkat dibandingkan saat pertama kali menyentuh golang, namun &lt;em&gt;path&lt;/em&gt; yang harus kulalui tetap sama yaitu membaca kembali tutorial yang aku gunakan ketika belajar golang untuk pertama kalinya.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;in-review&lt;/em&gt; ini hadir sebagai bentuk catatan belajarku terhadap satu teknologi maupun satu bahasa pemrograman baru. &lt;em&gt;in-review&lt;/em&gt; akan berisi mengenai catatan singkat tentang hal-hal yang kupelajari, yang daripada disimpan sendiri, dengan sedikit modifikasi dan perbaikan, ada baiknya aku share di-blog ini. &lt;em&gt;in-review&lt;/em&gt; akan berisi hal-hal esensial dan penting ketika aku mempelajari suatu topik, sehingga ketika dibutuhkan kedepannya untuk membaca ulang topik tersebut, catatan ini akan sangat berguna sekali.&lt;/p&gt;
+
+&lt;p&gt;Misalnya ketika aku menulis &lt;a href=&quot;/airflow&quot;&gt;Airflow in-review&lt;/a&gt;, tulisan ini akan berisi penjelasan singkat, esensial dan sederhana mengenai airflow, kemudian diikut dengan beberapa panduan teknis sehingga airflow dapat berjalan dan digunakan. Untuk bacaan lebih lanjut akan ditulis dalam tulisan terpisah.&lt;/p&gt;
+
+&lt;p&gt;Dalam tulisan lain misalnya yang membahas mengenai &lt;a href=&quot;/golang&quot;&gt;belajar bahasa pemrograman Go&lt;/a&gt;, tulisan ini akan lebih cocok dibaca oleh mereka yang sudah berpengalaman memprogram dengan setidaknya satu bahasa pemrograman. Karena &lt;a href=&quot;/golang&quot;&gt;Golang in-review&lt;/a&gt; akan ditulis dengan sangat sederhana dan berisi hal-hal penting dan esensial mengenai bahasa pemrograman Golang, layaknya catatan ketika kita kuliah atau sekolah. Kita tidak memindahkan semua hal dalam buku teks kedalam buku catatan kita.&lt;/p&gt;
+
+&lt;p&gt;Topik-topik pilihan dalam &lt;em&gt;in-review&lt;/em&gt; adalah,&lt;/p&gt;
+&lt;div class=&quot;archive&quot;&gt;
+    &lt;div class=&quot;archive-list&quot;&gt;
+        &lt;div class=&quot;archive-list-post&quot;&gt;
+            
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    Golang in Review
+                    &lt;span class=&quot;archive-list-post-date&quot;&gt; | in-progress&lt;/span&gt;
+                
+                &lt;br /&gt;
+            
+                
+                    Datawarehouse in Review
+                    &lt;span class=&quot;archive-list-post-date&quot;&gt; | in-progress&lt;/span&gt;
+                
+                &lt;br /&gt;
+            
+                
+                    
+                
+                    Kubernetes in Review
+                    &lt;span class=&quot;archive-list-post-date&quot;&gt; | in-progress&lt;/span&gt;
+                
+                &lt;br /&gt;
+            
+                
+                    
+                
+                    
+                
+                    Docker in Review
+                    &lt;span class=&quot;archive-list-post-date&quot;&gt; | in-progress&lt;/span&gt;
+                
+                &lt;br /&gt;
+            
+                
+                    
+                
+                    Bash in Review
+                    &lt;span class=&quot;archive-list-post-date&quot;&gt; | in-progress&lt;/span&gt;
+                
+                &lt;br /&gt;
+            
+                
+                    
+                
+                    
+                
+                    Belajar Javascript
+                    &lt;span class=&quot;archive-list-post-date&quot;&gt; | in-progress&lt;/span&gt;
+                
+                &lt;br /&gt;
+            
+                
+                    
+                
+                    
+                
+                    
+                
+                    Airflow in Review
+                    &lt;span class=&quot;archive-list-post-date&quot;&gt; | in-progress&lt;/span&gt;
+                
+                &lt;br /&gt;
+            
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Thu, 01 Aug 2019 00:00:00 +0700</pubDate>
+        <link>http://localhost:4001/inreview</link>
+        <guid isPermaLink="true">http://localhost:4001/inreview</guid>
+      </item>
+      
+    
+      
+
+      
+    
+      
+
+      
+    
+      
+
+      
+    
+      
+
+      
+    
+      
+      <item>
+        <title>Hello World Again</title>
+        <description>&lt;p&gt;Hello World &lt;em&gt;Again&lt;/em&gt;. Akhirnya dapat memulai kembali kegiatan menulis.&lt;/p&gt;
+
+&lt;p&gt;Setelah blog yang lama hilang lenyap dan ditengah &lt;a href=&quot;blog/sabatical-leave/&quot;&gt;sabatical leave&lt;/a&gt; yang sedang dijalani (walaupun tidak seperti &lt;a href=&quot;https://www.thebalancecareers.com/why-employers-should-consider-sabbatical-leave-programs-4171929&quot;&gt;sabatical leave pada umumnya&lt;/a&gt;), akhirnya dapat kembali menulis dan menjalani kebiasan lama untuk nge-blog. Kemudian saya menyadari bahwa blog ini (&lt;a href=&quot;https://www.harapan.me&quot;&gt;harapan.me&lt;/a&gt;) sudah lama tidak diurus serta tidak banyak tulisan yang dipublish selama 6 bulan terakhir dan blog lama (&lt;a href=&quot;http://notes.rioharapan.com&quot;&gt;notes.rioharapan.com&lt;/a&gt;) yang akhirnya mati dengan terpaksa. Dalam hal desain front-end dan tampilannya juga tidak banyak berubah sejak awal dibuat yaitu di April 2017 hingga terakhir kali update pada Desember 2018.&lt;/p&gt;
+
+&lt;p&gt;Untuk memulai kembali blog ini sebelum menerbitkan tulisan-tulisan terbaru, harus diperlukan suatu tampilan baru, bentuk baru dan konsep baru (tampilan lama dan blog lama bisa diakses di-&lt;a href=&quot;https://www.harapan.me&quot;&gt;v01&lt;/a&gt;). Maka kemudian terbentuklah tampilan blog ini yang lebih sederhana dan agak sedikit fluid dari versi sebelumnya. Akhirnya selesailah desain blognya seperti ini. Dari sisi teknologi, tetap teknologi dibelakang blog ini menggunakan jekyll, markdown dan dihosting di-github.io, dengan domain tetap menggunakan &lt;a href=&quot;https://www.harapan.me&quot;&gt;harapan.me&lt;/a&gt;. Lalu karena Google Chrome pada update-an terbarunya akan &lt;a href=&quot;https://security.googleblog.com/2018/02/a-secure-web-is-here-to-stay.html&quot;&gt;melabeli website yang tidak menggunakan https sebagai website yang tidak aman&lt;/a&gt;, terpaksalah website ini harus dipasangi ssl, walaupun memang tidak ada data credentials yang dipertukarkan diblog ini. Saya akhirnya memindahkan management domain ini dengan menggunakan &lt;a href=&quot;https://www.cloudflare.com/&quot;&gt;cloudfare&lt;/a&gt; agar mendapatkan &lt;a href=&quot;https://www.cloudflare.com/ssl/&quot;&gt;certificate https secara gratis&lt;/a&gt;. Akhirnya terbentuklah blog ini, dengan biaya hanya US$ 14.15 yang hanya digunakan untuk membeli domain di-&lt;a href=&quot;https://www.namesilo.com/pricing.php?rid=43f3493rl&quot;&gt;namesilo&lt;/a&gt;. Mengenai stack technology dari blog ini, penjelasan lebih rincinya dapat dilihat dihalaman berikut &lt;a href=&quot;/blog/tech-stack-harapan-me/&quot;&gt;Bagaimana harapan.me dibentuk secara teknologi?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Secara umum saya banyak terinspirasi dari beberapa orang dalam bidang teknologi yang begitu rajin menulis dan membagikan tulisannya secara konsisten. Orang tersebut salah satunya ialah &lt;a href=&quot;https://en.wikipedia.org/wiki/Joel_Spolsky&quot;&gt;Joel Spolsky&lt;/a&gt; seorang software engineer, founder &lt;a href=&quot;https://stackoverflow.com/&quot;&gt;stackoverflow.com&lt;/a&gt; dan &lt;a href=&quot;https://trello.com/&quot;&gt;trello&lt;/a&gt;. Dia telah memulai blogging sejak tahun 1999 dengan alamat blog di-&lt;a href=&quot;https://www.joelonsoftware.com&quot;&gt;joelonsoftware&lt;/a&gt;. Dalam blognya Joel banyak menulis dari hal-hal teknis menyangkut dunia programming hingga architecture software, management, product design hingga pengalaman pribadinya. Beberapa articlenya menjadi sangat terkenal hingga menjadi referensi informal bagi orang-orang, seperti &lt;a href=&quot;https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/&quot;&gt;Things You Should Never Do, Part I&lt;/a&gt; dan &lt;a href=&quot;https://www.joelonsoftware.com/2004/06/13/how-microsoft-lost-the-api-war/&quot;&gt;How Microsoft lost the api war&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Pengalaman yang panjang dan dengan tulisan yang hampir mencapai 1100 artikel dengan berbagai topik serta konsistensi yang tinggi membuat blog-nya cukup terkenal dan memilki tema dan konsep yang kuat. Joel pada tulisannya berfokus pada profesional karir yang dihadapinya sebagai software engineer hingga sekarang sebagai CEO &lt;a href=&quot;https://stackexchange.com/&quot;&gt;Stackexchange&lt;/a&gt;. Oleh karena itu saya juga berpikir untuk mengambil satu tema pada blog ini. Karena secara profesional saya berkecimpung didunia data dan cloud, maka tema blog ini akan banyak menitik beratkan kepada dua topik tersebut dengan mungkin beberapa artikel ringan dan beberapa review tentang buku yang telah saya baca serta pengalaman-pengalaman yang cukup menarik untuk dibagikan. Silahkan baca artikel berikut &lt;a href=&quot;/blog/archiavelli/&quot;&gt;archiavelli&lt;/a&gt; untuk asal nama, tema, bentuk penulisan dan fokus blog ini.&lt;/p&gt;
+
+&lt;p&gt;Akhir kata, saya mengucapkan selamat membaca, semoga hal-hal yang ada disini dapat berguna. Silahkan tinggalkan pesan dan mari berinteraksi.&lt;/p&gt;
+
+&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hello&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;reader&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
+	&lt;span class=&quot;k&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Hello &quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;str&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;reader&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;))&lt;/span&gt;
+	&lt;span class=&quot;k&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Selamat Membaca!&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+
+&lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;__name__&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;==&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'__main__'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
+	&lt;span class=&quot;n&quot;&gt;print_hello&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'&amp;lt;your-name&amp;gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+</description>
+        <pubDate>Sun, 26 May 2019 00:00:00 +0700</pubDate>
+        <link>http://localhost:4001/helloworld</link>
+        <guid isPermaLink="true">http://localhost:4001/helloworld</guid>
+      </item>
+      
+    
   </channel>
 </rss>
