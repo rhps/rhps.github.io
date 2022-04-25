@@ -1446,10 +1446,6 @@ Pengalaman hidup yang tidak sekedar hanya kisah cinta, namun juga hubungan-hubun
       
     
       
-
-      
-    
-      
       <item>
         <title>memento</title>
         <description>&lt;div style=&quot;font-size:70%; text-align:center;&quot;&gt;
@@ -1553,7 +1549,7 @@ rhgps&lt;/p&gt;
       
       <item>
         <title>in review</title>
-        <description>&lt;p&gt;Bekerja menjadi engineer dibidang IT membuatku harus selalu up-to-date terharap perkembangan terbaru. Setiap harinya akan banyak library baru, framework baru, tools baru yang semakin memudahkan pekerjaan. Tidak hanya memudahkan namun tools tersebut juga semakin kompleks untuk dipelajari. Belum lagi dengan silih berganti hadirnya bahasa-bahasa baru yang menawarkan fitur-fitur yang menarik secara default. Oleh karena itu kita mau tidak mau, harus terus belajar dan mengupdate pengetahuan.&lt;/p&gt;
+        <description>&lt;p&gt;Bekerja menjadi engineer dibidang IT membuatku harus selalu up-to-date terharap perkembangan terbaru. Setiap harinya akan banyak library baru, framework baru, tools baru yang semakin memudahkan pekerjaan. Beberapa tools cukup sederhana dan gampang dipelajari, lainnya menawarkan konsep baru. Belum lagi dengan silih berganti hadirnya bahasa-bahasa baru yang menawarkan fitur-fitur yang menarik secara default. Oleh karena itu kita mau tidak mau, harus terus belajar dan mengupdate pengetahuan.&lt;/p&gt;
 
 &lt;p&gt;Ada satu pengalaman menarik ketika &lt;a href=&quot;/golang&quot;&gt;belajar Golang&lt;/a&gt; sebelumnya. Awalnya dipertengahan 2019 ditawari seorang teman untuk membantu tim-nya untuk membuat satu fitur sederhana dalam sistem mereka. Dalam beberapa minggu aku belajar golang dari nol hingga dapat membuat fitur tersebut, tidak terlalu bagus memang, tapi setidak fitur tersebut dapat digunakan dan berjalan. Setelah project tersebut selesai, Golang tidak pernah lagi digunakan.&lt;/p&gt;
 
@@ -1688,8 +1684,6 @@ rhgps&lt;/p&gt;
                 
             
                 
-                    
-                
                     &lt;li&gt;
                     Bash in Review
                     &lt;span class=&quot;archive-list-post-date&quot;&gt; | in-progress&lt;/span&gt;
@@ -1726,6 +1720,8 @@ rhgps&lt;/p&gt;
                     
                 
                     
+                
+                    
             &lt;/ul&gt;
         &lt;/div&gt;
     &lt;/div&gt;
@@ -1740,9 +1736,9 @@ rhgps&lt;/p&gt;
       
       <item>
         <title>Ex Libris</title>
-        <description>&lt;p&gt;Ketika aku memutuskan pindah dari Bandung ke Jakarta dan saat itu sedang mengemas semua barang-barangku yang ada di Bandung, aku melihat beberapa buku yang tergeletak dilemariku. Ada novel Pramoedya Ananta Toer, Tetralogi Pulau Buru yang diantaranya ialah, Bumi Manusia, Anak Semua Bangsa, Jejak Langkah dan Rumah Kaca, ada buku lain lagi Sapiens punyanya Yuval Noah Harari dan banyak lainnya. Aku membersihkannya semua buku-buku itu dan memasukkannya kedalam kerdus.&lt;/p&gt;
+        <description>&lt;p&gt;Ketika aku memutuskan pindah dari Bandung ke Jakarta dan saat itu sedang melakukan packing barang-barangku yang ada di Bandung, aku melihat beberapa buku yang tergeletak dilemariku. Ada novel Pramoedya Ananta Toer, Tetralogi Pulau Buru, yang diantaranya ialah, Bumi Manusia, Anak Semua Bangsa, Jejak Langkah dan Rumah Kaca, ada buku lain lagi Sapiens punyanya Yuval Noah Harari dan beberap lainnya.&lt;/p&gt;
 
-&lt;p&gt;Ketika aku memegangi lagi satu persatu buku tersebut, ada memori hadir. Aku mengingat sekilas tentang apa buku ini bercerita, apa yang berusaa disampaikan oleh penulis buku. Namun tak jarang juga aku lupa akan detail dari beberapa buku yang kupunya, sama sekali tidak ingat. Seperti beberapa buku Malcolm Gladwell yang ku punya, Outliers, The Tipping Point dan Blinks. Aku tak ingat sama sekali tentang apa tertulis dalam buku itu, sudah lama buku itu kubaca mungkin 2-3 tahun yang lalu. Di memori, yang tersisa bahwa aku sangat berkesan tentang bagaimana Malcolm menulis suatu topik anda menjelaskan fakta ilmiah didalamnya serta memberikan kesimpulan dan saran konstruktif mengenai ide yang dibawakannya. Seperti salah satunya yang paling ku ingat ialah bagaimana dalam buku Outliers, Malcolm menuliskan bagaimana ada orang-orang atau kejadian-kejadian pencilan yang muncul yang tidak umum. Seorang yang menjadi jauh lebih sukses dari pada orang lainnya, pebasket yang jauh lebih bersinar dari pebasket lainnya, dan sebagainya. Dia mengangkat cerita dibalik para Outliers ini, tentang bagaimana kehidupan mereka sehingga menjadi pencilan yang sukses dari sebuah populasi.&lt;/p&gt;
+&lt;p&gt;Ketika memasukkan buku tersebut kekardus, aku mengingat sekilas tentang apa buku ini bercerita, apa yang berusaa disampaikan oleh penulis buku. Namun tak jarang juga aku lupa akan detail dari beberapa buku yang kupunya, sama sekali tidak ingat. Seperti beberapa buku Malcolm Gladwell yang ku punya, Outliers, The Tipping Point dan Blinks. Aku tak ingat sama sekali tentang apa tertulis dalam buku itu, sudah lama buku itu kubaca mungkin 2-3 tahun yang lalu. Di memori, yang tersisa bahwa aku sangat berkesan tentang bagaimana Malcolm menulis suatu topik anda menjelaskan fakta ilmiah didalamnya serta memberikan kesimpulan dan saran konstruktif mengenai ide yang dibawakannya. Seperti salah satunya yang paling ku ingat ialah bagaimana dalam buku Outliers, Malcolm menuliskan bagaimana ada orang-orang atau kejadian-kejadian pencilan yang muncul yang tidak umum. Seorang yang menjadi jauh lebih sukses dari pada orang lainnya, pebasket yang jauh lebih bersinar dari pebasket lainnya, dan sebagainya. Dia mengangkat cerita dibalik para Outliers ini, tentang bagaimana kehidupan mereka sehingga menjadi pencilan yang sukses dari sebuah populasi.&lt;/p&gt;
 
 &lt;p&gt;Sisanya, buku Malcolm Gladwell tidak banyak yang kuingat lagi.&lt;/p&gt;
 
@@ -1750,11 +1746,11 @@ rhgps&lt;/p&gt;
 
 &lt;p&gt;Aku berpikir ada baiknya, setelah membaca suatu buku, aku harus menuliskan sedikit tentang buku tersebut, untuk kemudian dapat aku lihat dan baca lagi kedepannya. Oleh karena itulah, Ex-Libris ini terbentuk.&lt;/p&gt;
 
-&lt;p&gt;Sampai saat ini, sebenarnya aku belum menemukan format yang tepat, bagaimana aku akan menuliskan summary/review dari buku tersebut. Aku berpikir ada baiknya kalau aku menuliskan saja sedikit tentang apa yang ku dapat dari buku tersebut, bisa tentang jalan ceritanya secara sekilas, poin utama hingga pokok pikiran dalam buku tersebut. Ditambah dengan opini dan narasi yang terbayangkan olehku tentang pengalaman setelah membaca atau sebelum membaca buku tersebut.&lt;/p&gt;
+&lt;p&gt;Sampai saat ini, sebenarnya aku belum menemukan format yang tepat, bagaiaman aku akan menuliskan summary/review dari buku tersebut. Aku berpikir ada baiknya kalau aku menuliskan saja sedikit tentang apa yang ku dapat dari buku tersebut, bisa tentang jalan ceritanya secara sekilas, poin utama hingga pokok pikiran dalam buku tersebut. Ditambah dengan opini dan narasi yang terbayangkan olehku tentang pengalaman setelah membaca atau sebelum membaca buku tersebut.&lt;/p&gt;
 
 &lt;h2 id=&quot;asal-mula-ex-libris&quot;&gt;Asal mula Ex-Libris&lt;/h2&gt;
 
-&lt;p&gt;Ex-Libris sendiri artinya “kepunyaan (buku) dari - (diikuti oleh nama pemiliknya)”/”from the books (or library)”. Berasal dari bahasa latin dan banyak digunakan oleh perpustakaan Eropa dan Amerika hingga awal abad ke 20.&lt;/p&gt;
+&lt;p&gt;Ex-Libris sendiri artinya “kepunyaan (buku) dari - (diikuti oleh nama pemiliknya)”/”from the books (or library)”. Berasal dari bahasa latin dan banyak digunakan oleh perpustkaan Eropa dan Amerika hingga awal abad ke 20.&lt;/p&gt;
 
 &lt;p&gt;Lebih jauh lagi, penggunaan Ex-Libris untuk penanda sebuah buku telah digunakan oleh bangsawan Eropa sejak abad ke 16. Setiap bangsawan dan ilmuwan saat itu yang punya akses ke ilmu pengetahuan dan mampu membuat sebuah perpustakaan pribadi untuk mereka, mempunyai cap Ex-Librisnya sendiri. (sumber &lt;a href=&quot;https://en.wikipedia.org/wiki/Bookplate&quot;&gt;wikipedia&lt;/a&gt;)&lt;/p&gt;
 
@@ -1768,6 +1764,10 @@ rhgps&lt;/p&gt;
         <link>https://www.harapan.me/exlibris-post</link>
         <guid isPermaLink="true">https://www.harapan.me/exlibris-post</guid>
       </item>
+      
+    
+      
+
       
     
       
