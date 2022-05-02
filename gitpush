@@ -10,9 +10,9 @@ function commit {
 	# git commit -m "Commit for : $1 <$NOW>"
 	git push -u git@github.com:rhps/backend-rhps.github.io.git --all
 	git checkout master
-	git merge devel
+	git merge $1
 	git push -u git@github.com:rhps/backend-rhps.github.io.git --all
-	git checkout devel
+	git checkout $1
 	############
 	#Repo Production Repos
 	cd _site/
@@ -24,7 +24,7 @@ function commit {
 if [[ $1 == "" ]]; then
 	echo -e "\033[31mERROR!\033[0m"
 	echo "Give Commit Comments"
-	echo -e "\033[37mUsing : ./gitpush \"Commit Commentar\"\033[0m"
+	echo -e "\033[37mUsing : ./gitpush \"Jira Ticket\"\033[0m"
 else
 	bundle exec jekyll build site.url
 	commit "$1"
