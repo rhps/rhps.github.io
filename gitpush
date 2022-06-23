@@ -2,7 +2,7 @@
 NOW=$(date +"%d%m%Y-%T")
 BRed='\033[1;31m'
 
-function commitdev {
+function commit {
 	############
 	#Repo Development Repos
 	echo $1
@@ -13,9 +13,6 @@ function commitdev {
 	git merge $1
 	git push -u git@github.com:rhps/backend-rhps.github.io.git --all
 	git checkout $1
-}
-
-function commitprod {
 	############
 	#Repo Production Repos
 	cd _site/
@@ -27,10 +24,9 @@ function commitprod {
 if [[ $1 == "" ]]; then
 	echo -e "\033[31mERROR!\033[0m"
 	echo "Give Commit Comments"
-	echo -e "\033[37mUsing : ./gitpush \"Jira Ticket\"\033[0m"
+	echo -e "\033[37mUsing : ./gitpush \"Git Branch that want to merge\"\033[0m"
 else
-	commitdev "$1"
 	bundle exec jekyll build site.url
-	commitprod "$1"
+	commit "$1"
 	echo -e "\033[37mAll push for Production and Developemt Repository already up-to-date\033[0m"
 fi
