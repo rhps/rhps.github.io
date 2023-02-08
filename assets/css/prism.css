@@ -534,20 +534,27 @@ input.btn {
 
 #markdown-toc::before {
     content: "Contents";
+    margin: 0 auto 0 auto!important;
     font-weight: bold;
     /* padding-bottom: 10px; */
 }
 
 #markdown-toc ul {
     list-style: inside;
-    font-size: medium;
+    font-size: small;
+    margin: 0 auto 0 auto!important;
 }
+
+/* #markdown-toc li {
+    margin: 0 auto 0 auto;
+} */
 
 #markdown-toc {
     border: 1px solid #aaa;
     padding: 1.5em;
-    font-size: medium;
+    font-size: small;
     list-style: inside;
+    margin: 0 auto 0 auto!important;
     display: inline-block;
 }
 
