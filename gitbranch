@@ -1,0 +1,22 @@
+#!/bin/bash
+NOW=$(date +"%d%m%Y-%T")
+BRed='\033[1;31m'
+
+function commit {
+	############
+	#Repo Development Repos
+	echo $1 $2
+    git checkout -b $2
+    git add $1
+    git commit -m "$2 init commit"
+    git push --set-upstream origin $2
+}
+
+if [[ $1 == "" && $2 == "" ]]; then
+	echo -e "\033[31mERROR!\033[0m"
+	echo "Give Commit Comments"
+	echo -e "\033[37mUsing : ./gitpush \"Commit Commentar\"\033[0m"
+else
+    commit $1 $2
+	echo -e "\033[37mAll push for Production and Developemt Repository already up-to-date\033[0m"
+fi
