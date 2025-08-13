@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Kubernetes in Action</title>
+
+  <link rel="stylesheet" href="/assets/css/main.css" type="text/css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="/assets/css/prism.css">
+  <script async src="/assets/js/prism.js"></script>
+  <link rel="stylesheet" href="/assets/css/ideal-image-slider.css">
+  <link rel="stylesheet" href="/assets/css/video-embed.css">
+  <script async src="/assets/js/ideal-image-slider.js"></script>
+  <link href="https://fonts.googleapis.com/css?family=Fira+Sans&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Ubuntu+Mono" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,400i,700" rel="stylesheet">
+  <link rel="shortcut icon" href="/assets/images/alchemy.ico">
+  <link rel="alternate" type="application/rss+xml" title="RSS Feed for archiavelli" href="/feed.xml" />
+  <!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Kubernetes in Action | archiavelli</title>
+<meta name="generator" content="Jekyll v3.9.5" />
+<meta property="og:title" content="Kubernetes in Action" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Seandainya ada seorang programer/developer datang kepadaku dan bertanya “Dimana tempat belajar Kubernetes untuk pemula yang cukup komprehensif?” Aku dengan tidak ragu sedikitpun akan memberikan rekomendasi untuk membaca buku ini" />
+<meta property="og:description" content="Seandainya ada seorang programer/developer datang kepadaku dan bertanya “Dimana tempat belajar Kubernetes untuk pemula yang cukup komprehensif?” Aku dengan tidak ragu sedikitpun akan memberikan rekomendasi untuk membaca buku ini" />
+<link rel="canonical" href="https://www.harapan.me/kubernetes-in-action" />
+<meta property="og:url" content="https://www.harapan.me/kubernetes-in-action" />
+<meta property="og:site_name" content="archiavelli" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2025-08-04T00:00:00+07:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Kubernetes in Action" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2025-08-04T00:00:00+07:00","datePublished":"2025-08-04T00:00:00+07:00","description":"Seandainya ada seorang programer/developer datang kepadaku dan bertanya “Dimana tempat belajar Kubernetes untuk pemula yang cukup komprehensif?” Aku dengan tidak ragu sedikitpun akan memberikan rekomendasi untuk membaca buku ini","headline":"Kubernetes in Action","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.harapan.me/kubernetes-in-action"},"url":"https://www.harapan.me/kubernetes-in-action"}</script>
+<!-- End Jekyll SEO tag -->
+
+
+
+  <!-- Google Analytics -->
+
+<script>
+var host = window.location.hostname;
+if(host != "localhost")
+{
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-134611589-1', 'auto');
+  ga('send', 'pageview');
+}
+</script>
+
+
+  
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  <script>
+      (adsbygoogle = window.adsbygoogle || []).push({
+            google_ad_client: "ca-pub-4188943909307860",
+            enable_page_level_ads: true
+      });
+  </script>
+
+</head>
+
+<body>
+  <div class="content-container">
+    
+    
+      <header class="header">
+    <div class="header-small">
+      <a href="https://www.harapan.me">archiavelli</a>
+    </div>
+    <nav class="header-nav-small">
+      
+      
+      <a href="/">home</a>
+      
+      
+      
+      <a href="/about">about</a>
+      
+      
+      
+      <a href="/exlibris">exlibris</a>
+      
+      
+      
+      <a href="/thesummits">summits</a>
+      
+      
+      
+      <a href="/blog">blog</a>
+      
+      
+    </nav>
+  </header>
+    
+
+    <!-- <div class="post-paging">
+  
+    <div class="left">
+      <a href="/draft/dkasmdkadkamsdkas/10tahunitb">
+        <i class="fa fa-angle-left fa-2x" style="color:#343a40"></i>
+      </a>
+    </div>
+  
+  
+    <div class="right">
+      <a href="/kubernetes-up-and-running">
+        <i class="fa fa-angle-right fa-2x" style="color:#343a40"></i>
+      </a>
+    </div>
+  
+</div>
+ -->
+<div class="post">
+  <div class="post-title">Kubernetes in Action</div>
+  <span class="post-date">
+    exlibris ~ <time>04 Aug 2025</time>
+  </span>
+  <div class="post-tag">
+    <ul>
+      
+      <li>
+        <a href="https://www.harapan.me/blog/label#kubernetes">
+          <span>kubernetes</span>
+        </a>
+      </li>
+      
+      
+      <li>
+        <a href="https://www.harapan.me/blog/label#marko-luksa">
+          <span>marko-luksa</span>
+        </a>
+      </li>
+      
+      
+      <li>
+        <a href="https://www.harapan.me/blog/label#tex-book">
+          <span>tex-book</span>
+        </a>
+      </li>
+      
+      
+    </ul>
+  </div>
+
+  <br />
+  <div class="line-numbers">
+  <!-- _includes/image.html -->
+<div class="image-wrapper">
+    
+    <a href="/kubernetes-in-action" title="Kubernetes in Action - Marko Luksa" target="_blank">
+    
+        <img src="https://www.harapan.me//images/exlibris/kubernetes_in_action.jpeg" alt="Kubernetes in Action - Marko Luksa" style="width:350px;" class="imgjkl" />
+    
+    </a>
+    
+    
+        <p class="image-caption">Kubernetes in Action</p>
+    
+</div>
+
+<p>Seandainya ada seorang programer/developer datang kepadaku dan bertanya “Dimana tempat belajar Kubernetes untuk pemula yang cukup komprehensif?” Aku dengan tidak ragu sedikitpun akan memberikan rekomendasi untuk membaca buku ini, “Kubernetes in Action - Marko Luksa”.</p>
+
+<p>Buku ini disusun dengan sangat rapi dan lengkap. Dimulai dengan pengenalan tentang apa itu Kubernetes dan <em>use cases</em> mengapa Kubernetes ini akan sangat <em>powerful</em> pada infrastruktur aplikasi moderen, kemudian dilanjutkan dengan penjelasan detail terhadap konsep-konsep baru dalam kubernetes beserta contoh implementasinya, hingga penjelasan mendalam dan lengkap tentang bagaimana kubernetes tersebut bekerja dan komponen-komponen pokok penyusun Kubernetes Cluster itu sendiri. Buku ini bahkan bisa aku katakan lebih bagus dari buku tentang Kubernetes lainnya yang ditulis oleh legenda Kelsey Hightower yang berjudul <a href="/kubernetes-up-and-running">“Kubernetes: Up and Running”</a>. Secara kebetulan aku membaca kedua buku tersebut berurutan.</p>
+
+<p>Semua kalangan dari pemula yang belum pernah belajar Kubernetes sama sekali hingga seseorang yang sudah berpengalaman dibidang <em>DevOps</em> atau sudah pernah bekerja melakukan deployment dengan kubernetes bisa mengambil manfaat dari buku ini. Bagi pemula, akan sangat terbantu dengan penjelasan yang mendalam terhadap semua konsep didalam kubernetes itu sendiri, mereka dapat membaca buku ini secara berurutan, bab demi bab. Ada beberapa topik advance yang dijelaskan secara detail, seperti di-<a href="https://www.manning.com/books/kubernetes-in-action-second-edition">Chapter 11 yang berjudul Understanding Kubernetes Internals</a>, dijelaskan secara jelas komponen pendukung kubernetes di-control plane dan bagaimana mereka bekerja serta fungsi mereka pada Kubernetes. Lebih spesifik ke Scheduler dan Controller Manager, didalam buku ini dijelaskan secara singkat bagaimana mekanisme Scheduler memilih node mana yang akan digunakan untuk men-deploy sebuah Pods, hingga di-bagian Controller Manager juga dijelaskan bagaimana Controller ini bekerja untuk memastikan setiap deployment bekerja. Sebagai seorang application developer, mungkin hal ini tidak terlalu diperlukan untuk hanya sekedar bisa melakukan deployment, namun semakin senior seorang developer, pengetahuan mendasar tentang bagaimana komponen didalam Kubernetes bekerja akan sangat membantu developer tersebut untuk memahami bagaiman melakukan scaling pada cluster dan aplikasinya. Kemudian, bagi seseorang yang sudah berpengalaman, dapat dengan cepat lompat dari satu topik ke topik lain dan membaca hanya bab-bab yang diperlukan saja.</p>
+
+<p>Edisi kedua buku ini ditargetkan akan rilis di-awal tahun 2026, dari <a href="https://www.manning.com/books/kubernetes-in-action-second-edition">progress</a> yang tersedia saat ini, penulis menambahkan kubernetes resources baru, yang baru dirilis setelah edisi pertama buku ini dirilis. Cukup menarik untuk menunggu perkembangan terbaru dari buku ini.</p>
+
+  </div>
+  <br />
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  <ins class="adsbygoogle"
+      style="display:block; text-align:center;"
+      data-ad-layout="in-article"
+      data-ad-format="fluid"
+      data-ad-client="ca-pub-4188943909307860"
+      data-ad-slot="8423988260"></ins>
+  <script>
+      (adsbygoogle = window.adsbygoogle || []).push({});
+  </script>
+
+  <!-- include relatedposts.html Belum selesai Design -->
+
+  <!-- Disqus -->
+  
+  <div class="post-disqus">
+      <section id="disqus_thread"></section>
+      <div id="disqus_thread"></div>
+<script>
+
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+/*
+var disqus_config = function () {
+this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+*/
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://harapanme.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+                            
+  </div>
+  
+
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- harapan.me-TextAds -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4188943909307860"
+     data-ad-slot="5493028008"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+  <div class="post-up" align="center">
+  	<a href="#">
+  	<i class="fa fa-angle-up fa-2x" style="color:#343a40"></i>
+  	</a>
+  </div>
+
+</div>
+
+    <!-- Documents about icons are here: http://fontawesome.io/icons/ -->
+<div class="footer">
+  <hr />
+  <div class="footer-link">
+    
+	
+	
+	
+	
+
+    
+    <a href="https://twitter.com/archiavelli"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+    
+
+    
+    <a href="https://github.com/rhps"><i class="fa fa-github" aria-hidden="true"></i></a>
+    
+	
+	
+    <a href="http://stackoverflow.com/users/5575744"><i class="fa fa-stack-overflow" aria-hidden="true"></i></a>
+    
+	
+	
+
+    
+	
+	
+	
+	
+	
+	
+	
+	
+
+    
+
+    
+
+    
+    <a href="mailto:rio@harapan.me"><i class="fa fa-envelope" aria-hidden="true"></i></a>
+    
+
+  </div>
+  <i class="fa fa-copyright" aria-hidden="true"></i> 2018 harapan.me. Made with <i class="fa fa-heart pink"></i> with many cups of <i class="fa fa-coffee" aria-hidden="true"></i>
+</div>
+
+  </div>
+
+  <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.10.0/css/lightbox.min.css" />
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.10.0/js/lightbox-plus-jquery.min.js"></script>
+</body>
+</html>

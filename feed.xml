@@ -11,6 +11,86 @@
     
       
       <item>
+        <title>Kubernetes: Up and Running</title>
+        <description>&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+    &lt;a href=&quot;/kubernetes-up-and-running&quot; title=&quot;Kubernetes: Up and Running&quot; target=&quot;_blank&quot;&gt;
+    
+        &lt;img src=&quot;https://www.harapan.me//images/exlibris/kubernetesup.jpeg&quot; alt=&quot;Kubernetes: Up and Running&quot; style=&quot;width:350px;&quot; class=&quot;imgjkl&quot; /&gt;
+    
+    &lt;/a&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;Kubernetes: Up and Running&lt;/p&gt;
+    
+&lt;/div&gt;
+
+&lt;p&gt;Waktu itu aku baru pindah tim, dengan tugas baru untuk mengurusi &lt;a href=&quot;https://blog.cloudflare.com/mlops/&quot;&gt;Machine Learning Platform&lt;/a&gt;. ML Platform tersebut dibangun diatas Kubernetes dan tim-ku juga berkewajiban untuk mengurus Kubernetes Cluster tersebut. Ketika pertama kali on-board ke tim, seorang kolega merekomendasikan kepadaku untuk membaca buku ini, untuk &lt;strong&gt;mereview sebagian besar informasi dan konsep mengenai Kubernetes&lt;/strong&gt;. Dan itulah kesan yang juga kurasakan setelah aku menyelesaikan buku ini.&lt;/p&gt;
+
+&lt;p&gt;Dengan nama besar &lt;a href=&quot;https://en.wikipedia.org/wiki/Kelsey_Hightower&quot;&gt;Kelsey Hightower&lt;/a&gt; sebagai salah seorang yang berpengaruh dalam bidang Kubernetes yang juga menjadi satu penulis dari buku ini, dalam pikiranku, ini akan menjadi jaminan mutu bahwa buku ini layak dijadikan salah satu rujukan untuk belajar Kubernetes. Bila buku ini dapat kita jadikan rujukan untuk belajar dasar-dasar dan konsep Kubernetes, setelah menyelesaikan buku ini, langkah praktis selanjutnya ialah belajar langsung membuat kubernetes cluster dengan mengikuti petunjuk yang telah dibuat Kelsey sejak belasan tahun yang lalu di &lt;a href=&quot;https://github.com/kelseyhightower/kubernetes-the-hard-way&quot;&gt;Kubernetes the Hard Way&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Sebagai buku rujukan buku ini enak untuk dibaca. Aku bisa bilang bahwa buku ini bercerita dalam menyampaikan konsep-konsep baru. Namun buku ini bakalan hanya cocok untuk orang-orang yang sebaiknya sudah pernah bersinggungan dengan Kubernetes. Aku mengatakan bergitu karena berbeda dengan &lt;a href=&quot;/kubernetes-in-action&quot;&gt;Kubernetes in Action&lt;/a&gt; yang menjelaskan hampir semua konsep secara mendalam, dilengkapi dengan gambar ilustrasi teknis, buku ini tidak terlalu mendetail dalam menjelaskan suatu konsep. Ketidak-detailan tersebut, tidak serta-merta membuat penjelasannya menjadi susah dimengerti, namun penulis hanya menjelaskan konsep-konsep kubernetes secara langsung pada pointnya.&lt;/p&gt;
+
+&lt;p&gt;Sebagian besar developer, menganggap bahwa Kubernetes tersebut sangat kompleks dan rumit. Dengan begitu banyak komponen pada kubernetes tersebut, serta dengan begitu banyaknya abstraksi baru dari bagaimana men-deploy aplikasi ke Kubernetes, membuat kita sebagai developer harus belajar konsep-konsep baru, serta mengerti bagaimana networking bekerja di-Kubernetes (service, ingress, loadbalancer). Oleh karena itu, ketika aku menyelesaikan buku ini, aku membuat sebuah mindmap tentang konsep-konsep Kubernetes untuk mengurai kerumitan dari Kubernetes tersebut.&lt;/p&gt;
+
+&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+    &lt;a href=&quot;/kubernetes-up-and-running&quot; title=&quot;Mindmap untuk konsep-konsep dari Kubernetes&quot; target=&quot;_blank&quot;&gt;
+    
+        &lt;img src=&quot;https://www.harapan.me//images/posts/2025/concepts.png&quot; alt=&quot;Mindmap untuk konsep-konsep dari Kubernetes&quot; style=&quot;width:350px;&quot; class=&quot;imgjkl&quot; /&gt;
+    
+    &lt;/a&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;Mindmap untuk konsep-konsep dari Kubernetes&lt;/p&gt;
+    
+&lt;/div&gt;
+</description>
+        <pubDate>Tue, 05 Aug 2025 00:00:00 +0700</pubDate>
+        <link>https://www.harapan.me/kubernetes-up-and-running</link>
+        <guid isPermaLink="true">https://www.harapan.me/kubernetes-up-and-running</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Kubernetes in Action</title>
+        <description>&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+    &lt;a href=&quot;/kubernetes-in-action&quot; title=&quot;Kubernetes in Action - Marko Luksa&quot; target=&quot;_blank&quot;&gt;
+    
+        &lt;img src=&quot;https://www.harapan.me//images/exlibris/kubernetes_in_action.jpeg&quot; alt=&quot;Kubernetes in Action - Marko Luksa&quot; style=&quot;width:350px;&quot; class=&quot;imgjkl&quot; /&gt;
+    
+    &lt;/a&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;Kubernetes in Action&lt;/p&gt;
+    
+&lt;/div&gt;
+
+&lt;p&gt;Seandainya ada seorang programer/developer datang kepadaku dan bertanya “Dimana tempat belajar Kubernetes untuk pemula yang cukup komprehensif?” Aku dengan tidak ragu sedikitpun akan memberikan rekomendasi untuk membaca buku ini, “Kubernetes in Action - Marko Luksa”.&lt;/p&gt;
+
+&lt;p&gt;Buku ini disusun dengan sangat rapi dan lengkap. Dimulai dengan pengenalan tentang apa itu Kubernetes dan &lt;em&gt;use cases&lt;/em&gt; mengapa Kubernetes ini akan sangat &lt;em&gt;powerful&lt;/em&gt; pada infrastruktur aplikasi moderen, kemudian dilanjutkan dengan penjelasan detail terhadap konsep-konsep baru dalam kubernetes beserta contoh implementasinya, hingga penjelasan mendalam dan lengkap tentang bagaimana kubernetes tersebut bekerja dan komponen-komponen pokok penyusun Kubernetes Cluster itu sendiri. Buku ini bahkan bisa aku katakan lebih bagus dari buku tentang Kubernetes lainnya yang ditulis oleh legenda Kelsey Hightower yang berjudul &lt;a href=&quot;/kubernetes-up-and-running&quot;&gt;“Kubernetes: Up and Running”&lt;/a&gt;. Secara kebetulan aku membaca kedua buku tersebut berurutan.&lt;/p&gt;
+
+&lt;p&gt;Semua kalangan dari pemula yang belum pernah belajar Kubernetes sama sekali hingga seseorang yang sudah berpengalaman dibidang &lt;em&gt;DevOps&lt;/em&gt; atau sudah pernah bekerja melakukan deployment dengan kubernetes bisa mengambil manfaat dari buku ini. Bagi pemula, akan sangat terbantu dengan penjelasan yang mendalam terhadap semua konsep didalam kubernetes itu sendiri, mereka dapat membaca buku ini secara berurutan, bab demi bab. Ada beberapa topik advance yang dijelaskan secara detail, seperti di-&lt;a href=&quot;https://www.manning.com/books/kubernetes-in-action-second-edition&quot;&gt;Chapter 11 yang berjudul Understanding Kubernetes Internals&lt;/a&gt;, dijelaskan secara jelas komponen pendukung kubernetes di-control plane dan bagaimana mereka bekerja serta fungsi mereka pada Kubernetes. Lebih spesifik ke Scheduler dan Controller Manager, didalam buku ini dijelaskan secara singkat bagaimana mekanisme Scheduler memilih node mana yang akan digunakan untuk men-deploy sebuah Pods, hingga di-bagian Controller Manager juga dijelaskan bagaimana Controller ini bekerja untuk memastikan setiap deployment bekerja. Sebagai seorang application developer, mungkin hal ini tidak terlalu diperlukan untuk hanya sekedar bisa melakukan deployment, namun semakin senior seorang developer, pengetahuan mendasar tentang bagaimana komponen didalam Kubernetes bekerja akan sangat membantu developer tersebut untuk memahami bagaiman melakukan scaling pada cluster dan aplikasinya. Kemudian, bagi seseorang yang sudah berpengalaman, dapat dengan cepat lompat dari satu topik ke topik lain dan membaca hanya bab-bab yang diperlukan saja.&lt;/p&gt;
+
+&lt;p&gt;Edisi kedua buku ini ditargetkan akan rilis di-awal tahun 2026, dari &lt;a href=&quot;https://www.manning.com/books/kubernetes-in-action-second-edition&quot;&gt;progress&lt;/a&gt; yang tersedia saat ini, penulis menambahkan kubernetes resources baru, yang baru dirilis setelah edisi pertama buku ini dirilis. Cukup menarik untuk menunggu perkembangan terbaru dari buku ini.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 04 Aug 2025 00:00:00 +0700</pubDate>
+        <link>https://www.harapan.me/kubernetes-in-action</link>
+        <guid isPermaLink="true">https://www.harapan.me/kubernetes-in-action</guid>
+      </item>
+      
+    
+      
+
+      
+    
+      
+      <item>
         <title>Men Without Women</title>
         <description>&lt;!-- _includes/image.html --&gt;
 &lt;div class=&quot;image-wrapper&quot;&gt;
@@ -2113,7 +2193,21 @@ Anugerah aku masih dapat bekerja, anugerah aku masih bisa makan dan berpenghasil
       
       <item>
         <title>Norwegian Wood</title>
-        <description>&lt;p&gt;Norwegian Wood sejujurnya menjadi novel pertama yang kubaca dan coba aku review dalam blog ini. Memang sebelumnya aku telah membaca beberapa novel seperti punyanya Pramoedya Ananta Toer, Bumi Manusia, Anak Segala Bangsa, Jejak Langkah dan Rumah Kaca atau Novel dari Mochtar Loebis seperti Senja di-Jakarta dan novel lain, namun ini novel dari penulis luar negeri pertama yang serius kubaca. Kalau novel-novel Indonesia lainnya, mungkin akan cukup mudah untuk menuliskanya, karena kesamaan latar, namun ini berbeda sama sekali.&lt;/p&gt;
+        <description>&lt;!-- _includes/image.html --&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+    &lt;a href=&quot;/norwegianwood&quot; title=&quot;Norwegian Wood - Oleh Haruki Murakami&quot; target=&quot;_blank&quot;&gt;
+    
+        &lt;img src=&quot;https://www.harapan.me//images/exlibris/norwegianwood.jpg&quot; alt=&quot;Norwegian Wood - Oleh Haruki Murakami&quot; style=&quot;width:350px;&quot; class=&quot;imgjkl&quot; /&gt;
+    
+    &lt;/a&gt;
+    
+    
+        &lt;p class=&quot;image-caption&quot;&gt;Norwegian Wood&lt;/p&gt;
+    
+&lt;/div&gt;
+
+&lt;p&gt;Norwegian Wood sejujurnya menjadi novel pertama yang kubaca dan coba aku review dalam blog ini. Memang sebelumnya aku telah membaca beberapa novel seperti punyanya Pramoedya Ananta Toer, Bumi Manusia, Anak Segala Bangsa, Jejak Langkah dan Rumah Kaca atau Novel dari Mochtar Loebis seperti Senja di-Jakarta dan novel lain, namun ini novel dari penulis luar negeri pertama yang serius kubaca. Kalau novel-novel Indonesia lainnya, mungkin akan cukup mudah untuk menuliskanya, karena kesamaan latar, namun ini berbeda sama sekali.&lt;/p&gt;
 
 &lt;p&gt;Walaupun begitu aku coba menulis singkat &lt;em&gt;pengalamanku membacanya&lt;/em&gt;.&lt;/p&gt;
 
@@ -2317,6 +2411,12 @@ rhgps&lt;/p&gt;
         &lt;div class=&quot;archive-list-post&quot;&gt;
             &lt;ul&gt;
             
+                
+                    
+                
+                    
+                
+                    
                 
                     
                 

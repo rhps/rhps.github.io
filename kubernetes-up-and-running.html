@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Kubernetes: Up and Running</title>
+
+  <link rel="stylesheet" href="/assets/css/main.css" type="text/css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="/assets/css/prism.css">
+  <script async src="/assets/js/prism.js"></script>
+  <link rel="stylesheet" href="/assets/css/ideal-image-slider.css">
+  <link rel="stylesheet" href="/assets/css/video-embed.css">
+  <script async src="/assets/js/ideal-image-slider.js"></script>
+  <link href="https://fonts.googleapis.com/css?family=Fira+Sans&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Ubuntu+Mono" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,400i,700" rel="stylesheet">
+  <link rel="shortcut icon" href="/assets/images/alchemy.ico">
+  <link rel="alternate" type="application/rss+xml" title="RSS Feed for archiavelli" href="/feed.xml" />
+  <!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Kubernetes: Up and Running | archiavelli</title>
+<meta name="generator" content="Jekyll v3.9.5" />
+<meta property="og:title" content="Kubernetes: Up and Running" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Buku ini dapat kita jadikan rujukan untuk belajar dasar-dasar dan konsep Kubernetes, sebagai buku rujukan buku ini enak untuk dibaca. Aku bisa bilang bahwa buku ini bercerita dalam menyampaikan konsep-konsep baru." />
+<meta property="og:description" content="Buku ini dapat kita jadikan rujukan untuk belajar dasar-dasar dan konsep Kubernetes, sebagai buku rujukan buku ini enak untuk dibaca. Aku bisa bilang bahwa buku ini bercerita dalam menyampaikan konsep-konsep baru." />
+<link rel="canonical" href="https://www.harapan.me/kubernetes-up-and-running" />
+<meta property="og:url" content="https://www.harapan.me/kubernetes-up-and-running" />
+<meta property="og:site_name" content="archiavelli" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2025-08-05T00:00:00+07:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Kubernetes: Up and Running" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2025-08-05T00:00:00+07:00","datePublished":"2025-08-05T00:00:00+07:00","description":"Buku ini dapat kita jadikan rujukan untuk belajar dasar-dasar dan konsep Kubernetes, sebagai buku rujukan buku ini enak untuk dibaca. Aku bisa bilang bahwa buku ini bercerita dalam menyampaikan konsep-konsep baru.","headline":"Kubernetes: Up and Running","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.harapan.me/kubernetes-up-and-running"},"url":"https://www.harapan.me/kubernetes-up-and-running"}</script>
+<!-- End Jekyll SEO tag -->
+
+
+
+  <!-- Google Analytics -->
+
+<script>
+var host = window.location.hostname;
+if(host != "localhost")
+{
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-134611589-1', 'auto');
+  ga('send', 'pageview');
+}
+</script>
+
+
+  
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  <script>
+      (adsbygoogle = window.adsbygoogle || []).push({
+            google_ad_client: "ca-pub-4188943909307860",
+            enable_page_level_ads: true
+      });
+  </script>
+
+</head>
+
+<body>
+  <div class="content-container">
+    
+    
+      <header class="header">
+    <div class="header-small">
+      <a href="https://www.harapan.me">archiavelli</a>
+    </div>
+    <nav class="header-nav-small">
+      
+      
+      <a href="/">home</a>
+      
+      
+      
+      <a href="/about">about</a>
+      
+      
+      
+      <a href="/exlibris">exlibris</a>
+      
+      
+      
+      <a href="/thesummits">summits</a>
+      
+      
+      
+      <a href="/blog">blog</a>
+      
+      
+    </nav>
+  </header>
+    
+
+    <!-- <div class="post-paging">
+  
+    <div class="left">
+      <a href="/kubernetes-in-action">
+        <i class="fa fa-angle-left fa-2x" style="color:#343a40"></i>
+      </a>
+    </div>
+  
+  
+    <div class="right">
+      <a href="/south-of-the-border">
+        <i class="fa fa-angle-right fa-2x" style="color:#343a40"></i>
+      </a>
+    </div>
+  
+</div>
+ -->
+<div class="post">
+  <div class="post-title">Kubernetes: Up and Running</div>
+  <span class="post-date">
+    exlibris ~ <time>05 Aug 2025</time>
+  </span>
+  <div class="post-tag">
+    <ul>
+      
+      <li>
+        <a href="https://www.harapan.me/blog/label#kubernetes">
+          <span>kubernetes</span>
+        </a>
+      </li>
+      
+      
+      <li>
+        <a href="https://www.harapan.me/blog/label#kelsey-hightower">
+          <span>kelsey-hightower</span>
+        </a>
+      </li>
+      
+      
+      <li>
+        <a href="https://www.harapan.me/blog/label#text-book">
+          <span>text-book</span>
+        </a>
+      </li>
+      
+      
+    </ul>
+  </div>
+
+  <br />
+  <div class="line-numbers">
+  <!-- _includes/image.html -->
+<div class="image-wrapper">
+    
+    <a href="/kubernetes-up-and-running" title="Kubernetes: Up and Running" target="_blank">
+    
+        <img src="https://www.harapan.me//images/exlibris/kubernetesup.jpeg" alt="Kubernetes: Up and Running" style="width:350px;" class="imgjkl" />
+    
+    </a>
+    
+    
+        <p class="image-caption">Kubernetes: Up and Running</p>
+    
+</div>
+
+<p>Waktu itu aku baru pindah tim, dengan tugas baru untuk mengurusi <a href="https://blog.cloudflare.com/mlops/">Machine Learning Platform</a>. ML Platform tersebut dibangun diatas Kubernetes dan tim-ku juga berkewajiban untuk mengurus Kubernetes Cluster tersebut. Ketika pertama kali on-board ke tim, seorang kolega merekomendasikan kepadaku untuk membaca buku ini, untuk <strong>mereview sebagian besar informasi dan konsep mengenai Kubernetes</strong>. Dan itulah kesan yang juga kurasakan setelah aku menyelesaikan buku ini.</p>
+
+<p>Dengan nama besar <a href="https://en.wikipedia.org/wiki/Kelsey_Hightower">Kelsey Hightower</a> sebagai salah seorang yang berpengaruh dalam bidang Kubernetes yang juga menjadi satu penulis dari buku ini, dalam pikiranku, ini akan menjadi jaminan mutu bahwa buku ini layak dijadikan salah satu rujukan untuk belajar Kubernetes. Bila buku ini dapat kita jadikan rujukan untuk belajar dasar-dasar dan konsep Kubernetes, setelah menyelesaikan buku ini, langkah praktis selanjutnya ialah belajar langsung membuat kubernetes cluster dengan mengikuti petunjuk yang telah dibuat Kelsey sejak belasan tahun yang lalu di <a href="https://github.com/kelseyhightower/kubernetes-the-hard-way">Kubernetes the Hard Way</a></p>
+
+<p>Sebagai buku rujukan buku ini enak untuk dibaca. Aku bisa bilang bahwa buku ini bercerita dalam menyampaikan konsep-konsep baru. Namun buku ini bakalan hanya cocok untuk orang-orang yang sebaiknya sudah pernah bersinggungan dengan Kubernetes. Aku mengatakan bergitu karena berbeda dengan <a href="/kubernetes-in-action">Kubernetes in Action</a> yang menjelaskan hampir semua konsep secara mendalam, dilengkapi dengan gambar ilustrasi teknis, buku ini tidak terlalu mendetail dalam menjelaskan suatu konsep. Ketidak-detailan tersebut, tidak serta-merta membuat penjelasannya menjadi susah dimengerti, namun penulis hanya menjelaskan konsep-konsep kubernetes secara langsung pada pointnya.</p>
+
+<p>Sebagian besar developer, menganggap bahwa Kubernetes tersebut sangat kompleks dan rumit. Dengan begitu banyak komponen pada kubernetes tersebut, serta dengan begitu banyaknya abstraksi baru dari bagaimana men-deploy aplikasi ke Kubernetes, membuat kita sebagai developer harus belajar konsep-konsep baru, serta mengerti bagaimana networking bekerja di-Kubernetes (service, ingress, loadbalancer). Oleh karena itu, ketika aku menyelesaikan buku ini, aku membuat sebuah mindmap tentang konsep-konsep Kubernetes untuk mengurai kerumitan dari Kubernetes tersebut.</p>
+
+<!-- _includes/image.html -->
+<div class="image-wrapper">
+    
+    <a href="/kubernetes-up-and-running" title="Mindmap untuk konsep-konsep dari Kubernetes" target="_blank">
+    
+        <img src="https://www.harapan.me//images/posts/2025/concepts.png" alt="Mindmap untuk konsep-konsep dari Kubernetes" style="width:350px;" class="imgjkl" />
+    
+    </a>
+    
+    
+        <p class="image-caption">Mindmap untuk konsep-konsep dari Kubernetes</p>
+    
+</div>
+
+  </div>
+  <br />
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  <ins class="adsbygoogle"
+      style="display:block; text-align:center;"
+      data-ad-layout="in-article"
+      data-ad-format="fluid"
+      data-ad-client="ca-pub-4188943909307860"
+      data-ad-slot="8423988260"></ins>
+  <script>
+      (adsbygoogle = window.adsbygoogle || []).push({});
+  </script>
+
+  <!-- include relatedposts.html Belum selesai Design -->
+
+  <!-- Disqus -->
+  
+  <div class="post-disqus">
+      <section id="disqus_thread"></section>
+      <div id="disqus_thread"></div>
+<script>
+
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+/*
+var disqus_config = function () {
+this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+*/
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://harapanme.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+                            
+  </div>
+  
+
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- harapan.me-TextAds -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4188943909307860"
+     data-ad-slot="5493028008"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+  <div class="post-up" align="center">
+  	<a href="#">
+  	<i class="fa fa-angle-up fa-2x" style="color:#343a40"></i>
+  	</a>
+  </div>
+
+</div>
+
+    <!-- Documents about icons are here: http://fontawesome.io/icons/ -->
+<div class="footer">
+  <hr />
+  <div class="footer-link">
+    
+	
+	
+	
+	
+
+    
+    <a href="https://twitter.com/archiavelli"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+    
+
+    
+    <a href="https://github.com/rhps"><i class="fa fa-github" aria-hidden="true"></i></a>
+    
+	
+	
+    <a href="http://stackoverflow.com/users/5575744"><i class="fa fa-stack-overflow" aria-hidden="true"></i></a>
+    
+	
+	
+
+    
+	
+	
+	
+	
+	
+	
+	
+	
+
+    
+
+    
+
+    
+    <a href="mailto:rio@harapan.me"><i class="fa fa-envelope" aria-hidden="true"></i></a>
+    
+
+  </div>
+  <i class="fa fa-copyright" aria-hidden="true"></i> 2018 harapan.me. Made with <i class="fa fa-heart pink"></i> with many cups of <i class="fa fa-coffee" aria-hidden="true"></i>
+</div>
+
+  </div>
+
+  <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.10.0/css/lightbox.min.css" />
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.10.0/js/lightbox-plus-jquery.min.js"></script>
+</body>
+</html>
