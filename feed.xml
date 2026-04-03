@@ -10,10 +10,6 @@
       
     
       
-
-      
-    
-      
       <item>
         <title>Kubernetes: Up and Running</title>
         <description>&lt;!-- _includes/image.html --&gt;
@@ -777,11 +773,11 @@ Boven Digul yang kita tuju sebenarnya ada satu surga buat kita, yang menjadi com
 
 &lt;script&gt;
   var eridge = new IdealImageSlider.Slider({
-      selector: '#eridge',
-      height: 'auto',
-      maxHeight: '621',
+      selector: &apos;#eridge&apos;,
+      height: &apos;auto&apos;,
+      maxHeight: &apos;621&apos;,
       interval: 7000,
-      effect: 'fade',
+      effect: &apos;fade&apos;,
       });
     eridge.addCaptions();
     eridge.start();
@@ -923,11 +919,11 @@ Boven Digul yang kita tuju sebenarnya ada satu surga buat kita, yang menjadi com
 
 &lt;script&gt;
   var london = new IdealImageSlider.Slider({
-      selector: '#london',
-      height: 'auto',
-      maxHeight: '621',
+      selector: &apos;#london&apos;,
+      height: &apos;auto&apos;,
+      maxHeight: &apos;621&apos;,
       interval: 7000,
-      effect: 'fade',
+      effect: &apos;fade&apos;,
       });
     london.addCaptions();
     london.start();
@@ -1154,7 +1150,7 @@ Boven Digul yang kita tuju sebenarnya ada satu surga buat kita, yang menjadi com
   &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/posts/2021/nov/latimojong/20211113_091039.jpg&quot; title=&quot;&quot; alt=&quot;Latimojong 21/50 - Dari basecamp ke Pos 1, ditempuh dalam waktu satu setengah jam. Sejak dari basecamp, medannya sudah naik turun bukit&quot; /&gt;
   &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/posts/2021/nov/latimojong/20211113_091126.jpg&quot; title=&quot;&quot; alt=&quot;Latimojong 22/50 - Walau ngos-ngosan, tapi tetap gaya. Treknya yang melewati punggungan bukit, jadi kita bakalan ketemu banyak pemandangan indah.&quot; /&gt;
   &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/posts/2021/nov/latimojong/20211113_092342.jpg&quot; title=&quot;&quot; alt=&quot;Latimojong 23/50 - Sampai di pos 1, kita istirahat di pondokan yang sepertinya bekas warung. Pemandangan dari sini cukup indah.&quot; /&gt;
-  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/posts/2021/nov/latimojong/20211113_102838.jpg&quot; title=&quot;&quot; alt=&quot;Latimojong 24/50 - Mendekati pos 2, setiap ada tempat yang bisa duduk, pasti akan istirahat. Dalam hati ini udah mulai menyesal, 'kok susah banget perjalanan kali ini'&quot; /&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/posts/2021/nov/latimojong/20211113_102838.jpg&quot; title=&quot;&quot; alt=&quot;Latimojong 24/50 - Mendekati pos 2, setiap ada tempat yang bisa duduk, pasti akan istirahat. Dalam hati ini udah mulai menyesal, &apos;kok susah banget perjalanan kali ini&apos;&quot; /&gt;
   &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/posts/2021/nov/latimojong/20211113_102842.jpg&quot; title=&quot;&quot; alt=&quot;Latimojong 25/50 - Ga banyak ngomong lagi dan cuman bisa menikmati makanan yang ada yang bisa dijangkau dari tas.&quot; /&gt;
   &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/posts/2021/nov/latimojong/20211113_102853_01.jpg&quot; title=&quot;&quot; alt=&quot;Latimojong 26/50 - Tampang-tampang kelelahan udah disini, belum juga setengah jalan.&quot; /&gt;
   &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/images/posts/2021/nov/latimojong/20211113_111551.jpg&quot; title=&quot;&quot; alt=&quot;Latimojong 27/50 - Sampai di Pos 2, perjalanan kurang lebih 4 jam dari basecamp awal pendakian hingga di pos 2.&quot; /&gt;
@@ -1193,7 +1189,7 @@ Boven Digul yang kita tuju sebenarnya ada satu surga buat kita, yang menjadi com
 
 &lt;script&gt;
   var latimojong = new IdealImageSlider.Slider({
-      selector: '#latimojong',
+      selector: &apos;#latimojong&apos;,
       });
     latimojong.addCaptions();
     latimojong.start();
@@ -1813,11 +1809,11 @@ Jalur Sembalun yang kita lalui kemarin pemandangannya didominasi oleh savana hij
 
 &lt;script&gt;
   var rinjani = new IdealImageSlider.Slider({
-      selector: '#rinjani',
-      height: 'auto',
-      maxHeight: '621',
+      selector: &apos;#rinjani&apos;,
+      height: &apos;auto&apos;,
+      maxHeight: &apos;621&apos;,
       interval: 7000,
-      effect: 'fade',
+      effect: &apos;fade&apos;,
       });
     rinjani.addCaptions();
     rinjani.start();
@@ -1980,10 +1976,10 @@ Rasanya tidak mungkin untuk dapat mencapai punggungan menuju puncak gunung Papan
 
 &lt;script&gt;
   var papandayan = new IdealImageSlider.Slider({
-      selector: '#papandayan',
-      height: 'auto',
+      selector: &apos;#papandayan&apos;,
+      height: &apos;auto&apos;,
       interval: 7000,
-      effect: 'fade',
+      effect: &apos;fade&apos;,
       });
     papandayan.addCaptions();
     papandayan.start();
@@ -2125,7 +2121,7 @@ Setelah aku [menyelasikan tugas akhir yang dan lulus](https://www.harapan.me/mem
 
 Yah semua berjalan lancar hingga, Maret 2020. ketika virus ini mulai merebak di Indonesia, semua kegiatan sepertinya terhenti karena diterapkan lock-down total di Jakarta. Beberapa meeting dibatalkan atau dipindahkan menjadi online. Kita terkurung dirumah dan dikamar masing-masing. Semua rencana yang kusebutkan tadi hampir gagal sepenuhnya, mungkin kecuali untuk pekerjaan kantor, karena hal itu yang menjadi suatu kewajiban yang mengikat untukku sekarang. Kita tidak bisa kemana-mana, semua kesenangan seperti terenggut. Ada beberapa kejadian yang menyedihkan juga diawal tahun ini. Semua seolah datang bertubi-tubi.
 
-Pada Juli 2020, aku sempat berpikir 'Yasudahlah kalau memang begini adanya tahun ini, mungkin ini saatnya untuk berhenti sejenak dari semua target dan rencana tersebut, menarik diri dan menikmati hidup'. Aku sudah sampai pada posisi menerima/acceptence ([dalam 5 Stages of grief](https://www.healthline.com/health/stages-of-grief#order)) dan mencoba berpikir positif untuk memungut sisa-sisa hal yang masih bisa dilakukan pada tahun ini. Mencoba untuk mengalir dan mengikuti arus kehidupan kemanapun 2020 ini membawanya. Setidaknya aku harus bersyukur masih banyak keberuntungan dan berkat yang bisa kuterima hingga saat ini.
+Pada Juli 2020, aku sempat berpikir &apos;Yasudahlah kalau memang begini adanya tahun ini, mungkin ini saatnya untuk berhenti sejenak dari semua target dan rencana tersebut, menarik diri dan menikmati hidup&apos;. Aku sudah sampai pada posisi menerima/acceptence ([dalam 5 Stages of grief](https://www.healthline.com/health/stages-of-grief#order)) dan mencoba berpikir positif untuk memungut sisa-sisa hal yang masih bisa dilakukan pada tahun ini. Mencoba untuk mengalir dan mengikuti arus kehidupan kemanapun 2020 ini membawanya. Setidaknya aku harus bersyukur masih banyak keberuntungan dan berkat yang bisa kuterima hingga saat ini.
 
 Anugerah aku masih dapat bekerja, anugerah aku masih bisa makan dan berpenghasilan, disisi lain begitu banyak aku mendengar berita tentang teman-temanku yang di-berhentikan dari pekerjaannya karena bisnis perusahaan mereka tidak berjalan dengan baik, akibat dampak dari pandemi ini. Setiap hari ketika aku kekantor dan berinteraksi dengan driver gojek/grab yang kutumpangi, mereka selalu membicarakan bahwa penghasilan mereka turun. Toko dan tempat usaha lainnya juga mulai tutup satu-persatu. Seharusnya aku tidak mengeluh seperti ini, tidak juga harus bersyukur karena aku lebih baik. Dilema yang menyakitkan.
 --&gt;
@@ -2458,8 +2454,6 @@ rhgps&lt;/p&gt;
                 
                     
                 
-                    
-                
                     &lt;li&gt;
                     Makefile in Review
                     &lt;span class=&quot;archive-list-post-date&quot;&gt; | in-progress&lt;/span&gt;
@@ -2674,8 +2668,8 @@ rhgps&lt;/p&gt;
 	&lt;span class=&quot;k&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Hello &quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;str&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;reader&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;))&lt;/span&gt;
 	&lt;span class=&quot;k&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Selamat Membaca!&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
 
-&lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;__name__&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;==&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'__main__'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
-	&lt;span class=&quot;n&quot;&gt;print_hello&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'&amp;lt;your-name&amp;gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;__name__&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;==&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&apos;__main__&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
+	&lt;span class=&quot;n&quot;&gt;print_hello&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&apos;&amp;lt;your-name&amp;gt;&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Sun, 26 May 2019 00:00:00 +0700</pubDate>
